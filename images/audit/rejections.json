@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "rejected": [
+    {
+      "characterId": "extended-moana-te-ka",
+      "path": "images/new-candidates/extended-moana-te-ka--wiki-754286-1.webp",
+      "reason": "wrong_character",
+      "note": "Te Fiti (not Te Ka)"
+    },
+    {
+      "characterId": "extended-moana-te-ka",
+      "path": "images/new-candidates/extended-moana-te-ka--wiki-582730-2.webp",
+      "reason": "wrong_character",
+      "note": "Moana (not Te Ka)"
+    }
+  ]
+}
