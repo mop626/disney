@@ -326,7 +326,7 @@ export const curated = [
     "franchise": "Disney",
     "difficulty": 1,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://princess.disney.com/"
   },
   {
     "id": "cinderella-1",
@@ -555,7 +555,7 @@ export const curated = [
     "franchise": "Disney",
     "difficulty": 1,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://princess.disney.com/"
   },
   {
     "id": "beauty-and-the-beast-1",
@@ -663,7 +663,7 @@ export const curated = [
     "franchise": "Disney",
     "difficulty": 1,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://princess.disney.com/"
   },
   {
     "id": "aladdin-2",
@@ -914,7 +914,7 @@ export const curated = [
     "franchise": "Disney",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://princess.disney.com/"
   },
   {
     "id": "mulan-1",
@@ -1732,7 +1732,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 1,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://toystory.disney.com/"
   },
   {
     "id": "toy-story-1",
@@ -1747,7 +1747,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 1,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://toystory.disney.com/"
   },
   {
     "id": "toy-story-2",
@@ -1755,12 +1755,14 @@ export const curated = [
     "jp": "ジェシー",
     "aliases": [],
     "films": [
-      "Toy Story"
+      "Toy Story 2",
+      "Toy Story 3",
+      "Toy Story 4"
     ],
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://toystory.disney.com/"
   },
   {
     "id": "toy-story-3",
@@ -1770,12 +1772,14 @@ export const curated = [
       "ボー"
     ],
     "films": [
-      "Toy Story"
+      "Toy Story 4",
+      "Toy Story",
+      "Toy Story 2"
     ],
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://toystory.disney.com/"
   },
   {
     "id": "toy-story-4",
@@ -1788,7 +1792,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 3,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://toystory.disney.com/"
   },
   {
     "id": "toy-story-5",
@@ -1801,14 +1805,15 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 3,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://toystory.disney.com/"
   },
   {
     "id": "toy-story-6",
     "name": "Slinky Dog",
     "jp": "スリンキー",
     "aliases": [
-      "スリンキー"
+      "スリンキー",
+      "スリンキー・ドッグ"
     ],
     "films": [
       "Toy Story"
@@ -1816,7 +1821,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 3,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://toystory.disney.com/"
   },
   {
     "id": "toy-story-7",
@@ -1831,7 +1836,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 3,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://toystory.disney.com/"
   },
   {
     "id": "toy-story-8",
@@ -1839,12 +1844,12 @@ export const curated = [
     "jp": "フォーキー",
     "aliases": [],
     "films": [
-      "Toy Story"
+      "Toy Story 4"
     ],
     "franchise": "Pixar",
     "difficulty": 3,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://toystory.disney.com/"
   },
   {
     "id": "toy-story-9",
@@ -1874,7 +1879,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 1,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/monsters-inc/character/mike"
   },
   {
     "id": "monsters,-inc.-1",
@@ -1891,7 +1896,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 1,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/monsters-inc/character/james-p-sullivan"
   },
   {
     "id": "monsters,-inc.-2",
@@ -1904,14 +1909,15 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/monsters-inc/character/boo"
   },
   {
     "id": "monsters,-inc.-3",
     "name": "Randall Boggs",
     "jp": "ランドール",
     "aliases": [
-      "ランドール"
+      "ランドール",
+      "ランドール・ボッグス"
     ],
     "films": [
       "Monsters, Inc."
@@ -1919,7 +1925,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/monsters-inc/character/randall"
   },
   {
     "id": "monsters,-inc.-4",
@@ -1932,7 +1938,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 3,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/monsters-inc/character/roz"
   },
   {
     "id": "finding-nemo-0",
@@ -1945,7 +1951,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 1,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/finding-nemo/character/nemo"
   },
   {
     "id": "finding-nemo-1",
@@ -1958,7 +1964,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/finding-nemo/character/marlin"
   },
   {
     "id": "finding-nemo-2",
@@ -1971,7 +1977,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 1,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/finding-nemo/character/dory"
   },
   {
     "id": "finding-nemo-3",
@@ -1984,7 +1990,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/finding-nemo/character/crush"
   },
   {
     "id": "finding-nemo-4",
@@ -1997,7 +2003,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 3,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/finding-nemo/character/gill"
   },
   {
     "id": "finding-nemo-5",
@@ -2010,7 +2016,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 3,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/finding-nemo/character/bruce"
   },
   {
     "id": "the-incredibles-0",
@@ -2132,7 +2138,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/cars/character/lightning-mcqueen"
   },
   {
     "id": "cars-1",
@@ -2145,14 +2151,15 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/cars/character/mater"
   },
   {
     "id": "cars-2",
     "name": "Sally Carrera",
     "jp": "サリー・カレラ",
     "aliases": [
-      "サリー"
+      "サリー",
+      "サリー・カレーラ"
     ],
     "films": [
       "Cars"
@@ -2160,7 +2167,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/cars/character/sally"
   },
   {
     "id": "cars-3",
@@ -2175,7 +2182,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/cars/character/doc-hudson"
   },
   {
     "id": "cars-4",
@@ -2289,7 +2296,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/wall-e/character/eve"
   },
   {
     "id": "wall-e-2",
@@ -2302,7 +2309,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 4,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/wall-e/character/m-o"
   },
   {
     "id": "up-0",
@@ -2317,7 +2324,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/up/character/carl"
   },
   {
     "id": "up-1",
@@ -2330,7 +2337,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/up/character/russell"
   },
   {
     "id": "up-2",
@@ -2343,20 +2350,22 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/up/character/dug"
   },
   {
     "id": "up-3",
     "name": "Kevin",
     "jp": "ケヴィン",
-    "aliases": [],
+    "aliases": [
+      "ケビン"
+    ],
     "films": [
       "Up"
     ],
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/up/character/kevin"
   },
   {
     "id": "brave-0",
@@ -2369,7 +2378,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/brave/character/merida"
   },
   {
     "id": "brave-1",
@@ -2384,7 +2393,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/brave/character/elinor"
   },
   {
     "id": "inside-out-0",
@@ -2392,12 +2401,13 @@ export const curated = [
     "jp": "ヨロコビ",
     "aliases": [],
     "films": [
-      "Inside Out"
+      "Inside Out",
+      "Inside Out 2"
     ],
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/inside-out_2/character/joy"
   },
   {
     "id": "inside-out-1",
@@ -2405,12 +2415,13 @@ export const curated = [
     "jp": "カナシミ",
     "aliases": [],
     "films": [
-      "Inside Out"
+      "Inside Out",
+      "Inside Out 2"
     ],
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/inside-out_2/character/sadness"
   },
   {
     "id": "inside-out-2",
@@ -2418,12 +2429,13 @@ export const curated = [
     "jp": "イカリ",
     "aliases": [],
     "films": [
-      "Inside Out"
+      "Inside Out",
+      "Inside Out 2"
     ],
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/inside-out_2/character/anger"
   },
   {
     "id": "inside-out-3",
@@ -2431,12 +2443,13 @@ export const curated = [
     "jp": "ムカムカ",
     "aliases": [],
     "films": [
-      "Inside Out"
+      "Inside Out",
+      "Inside Out 2"
     ],
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/inside-out_2/character/disgust"
   },
   {
     "id": "inside-out-4",
@@ -2444,12 +2457,13 @@ export const curated = [
     "jp": "ビビリ",
     "aliases": [],
     "films": [
-      "Inside Out"
+      "Inside Out",
+      "Inside Out 2"
     ],
     "franchise": "Pixar",
     "difficulty": 3,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/inside-out_2/character/fear"
   },
   {
     "id": "inside-out-5",
@@ -2457,12 +2471,12 @@ export const curated = [
     "jp": "シンパイ",
     "aliases": [],
     "films": [
-      "Inside Out"
+      "Inside Out 2"
     ],
     "franchise": "Pixar",
     "difficulty": 3,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/inside-out_2/character/anxiety"
   },
   {
     "id": "inside-out-6",
@@ -2470,12 +2484,12 @@ export const curated = [
     "jp": "イイナー",
     "aliases": [],
     "films": [
-      "Inside Out"
+      "Inside Out 2"
     ],
     "franchise": "Pixar",
     "difficulty": 3,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/inside-out_2/character/envy"
   },
   {
     "id": "inside-out-7",
@@ -2483,12 +2497,12 @@ export const curated = [
     "jp": "ハズカシ",
     "aliases": [],
     "films": [
-      "Inside Out"
+      "Inside Out 2"
     ],
     "franchise": "Pixar",
     "difficulty": 3,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/inside-out_2/character/embarrassment"
   },
   {
     "id": "inside-out-8",
@@ -2496,12 +2510,12 @@ export const curated = [
     "jp": "ダリィ",
     "aliases": [],
     "films": [
-      "Inside Out"
+      "Inside Out 2"
     ],
     "franchise": "Pixar",
     "difficulty": 3,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/inside-out_2/character/ennui"
   },
   {
     "id": "coco-0",
@@ -2604,7 +2618,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/soul/character/22"
   },
   {
     "id": "luca-0",
@@ -2619,7 +2633,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/luca/character/luca"
   },
   {
     "id": "luca-1",
@@ -2634,7 +2648,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/luca/character/alberto"
   },
   {
     "id": "luca-2",
@@ -2665,7 +2679,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/turning-red/character/meilin"
   },
   {
     "id": "turning-red-1",
@@ -2678,7 +2692,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 4,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/turning-red/character/miriam"
   },
   {
     "id": "turning-red-2",
@@ -2691,7 +2705,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 4,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/turning-red/character/abby"
   },
   {
     "id": "turning-red-3",
@@ -2704,7 +2718,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 4,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/turning-red/character/priya"
   },
   {
     "id": "elemental-0",
@@ -2719,7 +2733,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/elemental/character/ember"
   },
   {
     "id": "elemental-1",
@@ -2734,7 +2748,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/elemental/character/wade"
   },
   {
     "id": "elemental-2",
@@ -2762,7 +2776,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/onward/character/ian"
   },
   {
     "id": "onward-1",
@@ -2777,7 +2791,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/onward/character/barley"
   },
   {
     "id": "encanto-0",
@@ -3333,7 +3347,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 4,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/lightyear/character/izzy"
   },
   {
     "id": "lightyear-2",
@@ -3346,7 +3360,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 4,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/lightyear/character/mo"
   },
   {
     "id": "wish-0",
@@ -3426,7 +3440,7 @@ export const curated = [
     "franchise": "Pixar",
     "difficulty": 2,
     "imageUrl": "",
-    "sourceUrl": ""
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/arlo/character/spot"
   },
   {
     "id": "raya-and-the-last-dragon-0",
@@ -3481,5 +3495,20 @@ export const curated = [
     "difficulty": 2,
     "imageUrl": "",
     "sourceUrl": ""
+  },
+  {
+    "id": "inside-out-bing-bong",
+    "name": "Bing Bong",
+    "jp": "ビンボン",
+    "aliases": [
+      "ビン・ボン"
+    ],
+    "films": [
+      "Inside Out"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/inside-out/character/bing-bong"
   }
 ];

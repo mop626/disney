@@ -838,5 +838,485 @@
     "reviewed": true,
     "singleCharacter": true,
     "characterId": "raya-and-the-last-dragon-3"
+  },
+  "luca-0": {
+    "path": "images/luca-0-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "luca-0",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/luca/character/luca",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/luca_fc_luca_t_4323c43a.jpeg?region=0,0,600,600"
+  },
+  "luca-1": {
+    "path": "images/luca-1-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "luca-1",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/luca/character/alberto",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/alberto_fc_luca_t_9b7e0364.jpeg?region=0,0,600,600"
+  },
+  "inside-out-0": {
+    "path": "images/inside-out-0-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "inside-out-0",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/inside-out_2/character/joy",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/thumb_insidehead2_chara_joy_aaee0c3a.jpeg?region=0,0,800,800"
+  },
+  "inside-out-1": {
+    "path": "images/inside-out-1-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "inside-out-1",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/inside-out_2/character/sadness",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/thumb_insidehead2_chara_sadness_fcd228c8.jpeg?region=0,0,800,800"
+  },
+  "inside-out-2": {
+    "path": "images/inside-out-2-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "inside-out-2",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/inside-out_2/character/anger",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/thumb_insidehead2_chara_anger_ab68d484.jpeg?region=0,0,800,800"
+  },
+  "inside-out-3": {
+    "path": "images/inside-out-3-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "inside-out-3",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/inside-out_2/character/disgust",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/thumb_insidehead2_chara_disgust_00dc4c5c.jpeg?region=0,0,800,800"
+  },
+  "inside-out-4": {
+    "path": "images/inside-out-4-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "inside-out-4",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/inside-out_2/character/fear",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/thumb_insidehead2_chara_fear_420bc9e1.jpeg?region=0,0,800,800"
+  },
+  "inside-out-5": {
+    "path": "images/inside-out-5-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "inside-out-5",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/inside-out_2/character/anxiety",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/thumb_insidehead2_chara_anxiety_b7bc17ff.jpeg?region=0,0,800,800"
+  },
+  "inside-out-6": {
+    "path": "images/inside-out-6-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "inside-out-6",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/inside-out_2/character/envy",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/thumb_insidehead2_chara_envy_6c461524.jpeg?region=0,0,800,800"
+  },
+  "inside-out-7": {
+    "path": "images/inside-out-7-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "inside-out-7",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/inside-out_2/character/embarrassment",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/thumb_insidehead2_chara_embarassment_09993d83.jpeg?region=0,0,800,800"
+  },
+  "inside-out-8": {
+    "path": "images/inside-out-8-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "inside-out-8",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/inside-out_2/character/ennui",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/thumb_insidehead2_chara_ennui_19690bdf.jpeg?region=0,0,800,800"
+  },
+  "wall-e-1": {
+    "path": "images/wall-e-1-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "wall-e-1",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/wall-e/character/eve",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/eve_fc_wall-e_t_c717cb54.jpeg?region=0,0,600,600"
+  },
+  "wall-e-2": {
+    "path": "images/wall-e-2-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "wall-e-2",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/wall-e/character/m-o",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/m-o_fc_wall-e_t_752a8b4e.jpeg?region=0,0,600,600"
+  },
+  "up-0": {
+    "path": "images/up-0-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "up-0",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/up/character/carl",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/carl_fc_up_t_89aae464.jpeg?region=0,0,600,600"
+  },
+  "up-1": {
+    "path": "images/up-1-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "up-1",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/up/character/russell",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/russell_fc_up_t_64ac272a.jpeg?region=0,0,600,600"
+  },
+  "up-2": {
+    "path": "images/up-2-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "up-2",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/up/character/dug",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/dug_fc_up_t_9681ac85.jpeg?region=0,0,600,600"
+  },
+  "up-3": {
+    "path": "images/up-3-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "up-3",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/up/character/kevin",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/kevin_fc_up_t_6c72c41c.jpeg?region=0,0,600,600"
+  },
+  "cars-0": {
+    "path": "images/cars-0-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "cars-0",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/cars/character/lightning-mcqueen",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/lightning-mcqueen_fc_cars_t_966e6979.jpeg?region=0,0,600,600"
+  },
+  "cars-1": {
+    "path": "images/cars-1-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "cars-1",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/cars/character/mater",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/mater_fc_cars_t_39b9b2a0.jpeg?region=0,0,600,600"
+  },
+  "cars-2": {
+    "path": "images/cars-2-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "cars-2",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/cars/character/sally",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/sally_fc_cars_t_3b5d951a.jpeg?region=0,0,600,600"
+  },
+  "cars-3": {
+    "path": "images/cars-3-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "cars-3",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/cars/character/doc-hudson",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/doc-hudson_fc_cars_t_7fbd07c0.jpeg?region=0,0,600,600"
+  },
+  "soul-1": {
+    "path": "images/soul-1-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "soul-1",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/soul/character/22",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/22_fc_soul_t_5d573838.jpeg?region=0,0,600,600"
+  },
+  "lightyear-1": {
+    "path": "images/lightyear-1-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "lightyear-1",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/lightyear/character/izzy",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/12461_12515_12521_thumb_12496_12474_12539_12521_12452_1_6b0ac3c9.jpeg?region=0,0,800,800"
+  },
+  "lightyear-2": {
+    "path": "images/lightyear-2-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "lightyear-2",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/lightyear/character/mo",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/12461_12515_12521_thumb_12496_12474_12539_12521_12452_1_c69e88e5.jpeg?region=0,0,800,800"
+  },
+  "finding-nemo-0": {
+    "path": "images/finding-nemo-0-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "finding-nemo-0",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/finding-nemo/character/nemo",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/nemo_fc_finding-nemo_t_9c043da7.jpeg?region=0,0,600,600"
+  },
+  "finding-nemo-1": {
+    "path": "images/finding-nemo-1-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "finding-nemo-1",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/finding-nemo/character/marlin",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/marlin_fc_finding-nemo_t_b178ffce.jpeg?region=0,0,600,600"
+  },
+  "finding-nemo-2": {
+    "path": "images/finding-nemo-2-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "finding-nemo-2",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/finding-nemo/character/dory",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/dory_fc_finding-nemo_t_113f5503.jpeg?region=0,0,600,600"
+  },
+  "finding-nemo-3": {
+    "path": "images/finding-nemo-3-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "finding-nemo-3",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/finding-nemo/character/crush",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/crush_fc_finding-nemo_t_1a0ac0e5.jpeg?region=0,0,600,600"
+  },
+  "finding-nemo-4": {
+    "path": "images/finding-nemo-4-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "finding-nemo-4",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/finding-nemo/character/gill",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/gill_fc_finding-nemo_t_989fe1c7.jpeg?region=0,0,600,600"
+  },
+  "finding-nemo-5": {
+    "path": "images/finding-nemo-5-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "finding-nemo-5",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/finding-nemo/character/bruce",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/bruce_fc_finding-nemo_t_584d3894.jpeg?region=0,0,600,600"
+  },
+  "elemental-0": {
+    "path": "images/elemental-0-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "elemental-0",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/elemental/character/ember",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/thumb_my-element_chara_ember_re_92b8e999.jpeg?region=0,0,800,800"
+  },
+  "elemental-1": {
+    "path": "images/elemental-1-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "elemental-1",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/elemental/character/wade",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/thumb_my-element_chara_wade_re_93c756bf.jpeg?region=0,0,800,800"
+  },
+  "brave-0": {
+    "path": "images/brave-0-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "brave-0",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/brave/character/merida",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/merida_fc_brave_t_1bc0efcf.jpeg?region=0,0,600,600"
+  },
+  "brave-1": {
+    "path": "images/brave-1-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "brave-1",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/brave/character/elinor",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/elinor_fc_brave_t_0afd743d.jpeg?region=0,0,600,600"
+  },
+  "monsters,-inc.-0": {
+    "path": "images/monsters_-inc_-0-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "monsters,-inc.-0",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/monsters-inc/character/mike",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/mike_fc_monsters-inc_t_5bd3f8f7.jpeg?region=0,0,600,600"
+  },
+  "monsters,-inc.-1": {
+    "path": "images/monsters_-inc_-1-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "monsters,-inc.-1",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/monsters-inc/character/james-p-sullivan",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/sullivan_fc_monsters-inc_t_d5c95871.jpeg?region=0,0,600,600"
+  },
+  "monsters,-inc.-2": {
+    "path": "images/monsters_-inc_-2-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "monsters,-inc.-2",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/monsters-inc/character/boo",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/boo_fc_monsters-inc_t_cefce581.jpeg?region=0,0,600,600"
+  },
+  "monsters,-inc.-3": {
+    "path": "images/monsters_-inc_-3-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "monsters,-inc.-3",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/monsters-inc/character/randall",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/randall_fc_monsters-inc_t_aa4b3453.jpeg?region=0,0,600,600"
+  },
+  "monsters,-inc.-4": {
+    "path": "images/monsters_-inc_-4-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "monsters,-inc.-4",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/monsters-inc/character/roz",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/roz_fc_monsters-inc_t_a6d4c5ad.jpeg?region=0,0,600,600"
+  },
+  "turning-red-0": {
+    "path": "images/turning-red-0-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "turning-red-0",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/turning-red/character/meilin",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/meilin_fc_turning-red_t_0de8df2d.jpeg?region=0,0,600,600"
+  },
+  "turning-red-1": {
+    "path": "images/turning-red-1-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "turning-red-1",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/turning-red/character/miriam",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/miriam_fc_turning-red_t_9cf791c6.jpeg?region=0,0,600,600"
+  },
+  "turning-red-2": {
+    "path": "images/turning-red-2-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "turning-red-2",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/turning-red/character/abby",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/abby_fc_turning-red_t_c3f0f5d7.jpeg?region=0,0,600,600"
+  },
+  "turning-red-3": {
+    "path": "images/turning-red-3-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "turning-red-3",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/turning-red/character/priya",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/priya_fc_turning-red_t_32f553b5.jpeg?region=0,0,600,600"
+  },
+  "onward-0": {
+    "path": "images/onward-0-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "onward-0",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/onward/character/ian",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/65298_20998_12398_65297_12398_39764_27861_65372_12452_1_b2665000.jpeg?region=0,0,144,144"
+  },
+  "onward-1": {
+    "path": "images/onward-1-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "onward-1",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/onward/character/barley",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/65298_20998_12398_65297_12398_39764_27861_65372_12496_1_feb92aee.jpeg?region=0,0,144,144"
+  },
+  "the-good-dinosaur-1": {
+    "path": "images/the-good-dinosaur-1-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-good-dinosaur-1",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/arlo/character/spot",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/12450_12540_12525_12392_23569_24180_65372_12473_12509_1_50e33160.jpeg?region=0,0,144,144"
+  },
+  "toy-story-0": {
+    "path": "images/toy-story-0-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "toy-story-0",
+    "sourceUrl": "https://toystory.disney.com/",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/t_toystory_sheriffwoody_characterimage_v3_7a3eae5d.jpeg?region=0%2C0%2C600%2C600"
+  },
+  "toy-story-1": {
+    "path": "images/toy-story-1-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "toy-story-1",
+    "sourceUrl": "https://toystory.disney.com/",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/t_toystory_buzzlightyear_characterimage_v3_dca01509.jpeg?region=0%2C0%2C600%2C600"
+  },
+  "toy-story-2": {
+    "path": "images/toy-story-2-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "toy-story-2",
+    "sourceUrl": "https://toystory.disney.com/",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/t_toystory_jessie_characterimage_v3_82c1d64f.jpeg?region=0%2C0%2C600%2C600"
+  },
+  "toy-story-3": {
+    "path": "images/toy-story-3-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "toy-story-3",
+    "sourceUrl": "https://toystory.disney.com/",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/t_toystory_bopeep_characterimage_v3_62e16589.jpeg?region=0%2C0%2C600%2C600"
+  },
+  "toy-story-4": {
+    "path": "images/toy-story-4-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "toy-story-4",
+    "sourceUrl": "https://toystory.disney.com/",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/t_toystory_rex_characterimage_v3_646b6daa.jpeg?region=0%2C0%2C600%2C600"
+  },
+  "toy-story-5": {
+    "path": "images/toy-story-5-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "toy-story-5",
+    "sourceUrl": "https://toystory.disney.com/",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/t_toystory_hamm_characterimage_v3_d9b9197d.jpeg?region=0%2C0%2C600%2C600"
+  },
+  "toy-story-6": {
+    "path": "images/toy-story-6-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "toy-story-6",
+    "sourceUrl": "https://toystory.disney.com/",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/t_toystory_slinkydog_characterimage_v3_f0820f39.jpeg?region=0%2C0%2C600%2C600"
+  },
+  "toy-story-7": {
+    "path": "images/toy-story-7-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "toy-story-7",
+    "sourceUrl": "https://toystory.disney.com/",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/t_toystory_mrpotatohead_characterimage_v3_35b7644d.jpeg?region=0%2C0%2C600%2C600"
+  },
+  "toy-story-8": {
+    "path": "images/toy-story-8-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "toy-story-8",
+    "sourceUrl": "https://toystory.disney.com/",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/t_toystory_forky_characterimage_v3_f12a4e75.jpeg?region=0%2C0%2C600%2C600"
+  },
+  "cinderella-0": {
+    "path": "images/cinderella-0-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "cinderella-0",
+    "sourceUrl": "https://princess.disney.com/",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/ct_princess_cinderella_3497_4440a5f3.jpeg?region=0,0,800,800"
+  },
+  "beauty-and-the-beast-0": {
+    "path": "images/beauty-and-the-beast-0-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "beauty-and-the-beast-0",
+    "sourceUrl": "https://princess.disney.com/",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/ct_princess_belle_3497_15a33a9c.jpeg?region=0,0,800,800"
+  },
+  "aladdin-1": {
+    "path": "images/aladdin-1-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "aladdin-1",
+    "sourceUrl": "https://princess.disney.com/",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/ct_princess_jasmine_3497_6cfc8aab.jpeg?region=0,0,800,800"
+  },
+  "mulan-0": {
+    "path": "images/mulan-0-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "mulan-0",
+    "sourceUrl": "https://princess.disney.com/",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/ct_princess_mulan_3497_da24206c.jpeg?region=0,0,800,800"
+  },
+  "inside-out-bing-bong": {
+    "path": "images/inside-out-bing-bong-verified.jpg",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "inside-out-bing-bong",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/inside-out/character/bing-bong",
+    "imageSourceUrl": "https://lumiere-a.akamaihd.net/v1/images/12452_12531_12469_12452_12489_12539_12504_12483_12489_6_5d8b07f0.jpeg?region=0,0,144,144"
   }
 }
