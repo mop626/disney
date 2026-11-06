@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="ja"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<title>621キャラクター画像の品質チェック | まほうのキャラクター検定</title>
+<style>
+:root{color-scheme:dark;font-family:system-ui,"Noto Sans JP","Hiragino Kaku Gothic ProN",sans-serif;--bg:#17102e;--card:#33254d;--border:#68538b;--ink:#fff6ff;--muted:#d0c2e4;--gold:#ffdea0}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at top,#4a3074,#17102e 70%);color:var(--ink)}
+header,main,footer{max-width:1300px;margin:auto;padding:22px}h1{font-size:clamp(24px,4vw,36px);margin:10px 0}p{line-height:1.65}.muted,small{color:var(--muted)}a{color:#f8d1ff}button{font:inherit;cursor:pointer;padding:9px 12px;border-radius:9px;border:1px solid #a18abc;background:#55426e;color:white}button:hover{filter:brightness(1.1)}button:disabled{opacity:.5;cursor:not-allowed}.gold{background:var(--gold);color:#27193a;border-color:var(--gold);font-weight:750}.danger{background:#6c253c;border-color:#df8da4}.ok{background:#245843;border-color:#90cdb0}.pill{display:inline-flex;padding:6px 12px;border:1px solid #7e689a;border-radius:100px;background:#453563;margin:4px;font-size:13px}.toolbar{position:sticky;top:0;z-index:4;display:flex;align-items:center;gap:10px;flex-wrap:wrap;background:#211735f4;padding:14px;border-radius:14px;border:1px solid var(--border)}input[type=search],select{border-radius:9px;padding:11px;border:1px solid #947eb1;background:#180f2e;color:var(--ink);font:inherit;min-width:170px}input[type=search]{flex:1;min-width:230px}.notice{padding:12px;border-radius:10px;background:#403255;border:1px solid #766089;margin:12px 0}.stats{margin:14px 0}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,390px),1fr));gap:15px;padding:10px 0 25px}.card{background:var(--card);border-radius:16px;border:1px solid #735a97;padding:16px;min-width:0}.card.flag{border:2px solid #e9c07b}.card h2{font-size:19px;margin:0 0 4px}.card .en{font-size:14px;font-weight:400;color:#d6bee9}.id{font:12px ui-monospace,monospace;word-wrap:break-word;color:#b8a7c8;margin-bottom:7px}.image{width:100%;height:240px;object-fit:contain;border:1px solid #52406b;border-radius:10px;background:white}.image.missing{background:#261c3a}.candlist{display:grid;grid-template-columns:repeat(auto-fill,minmax(145px,1fr));gap:9px;margin-top:12px}.candidate{background:#271b3f;border-radius:10px;border:1px solid #514368;padding:9px}.candidate img{height:148px;width:100%;object-fit:contain;background:white;border-radius:6px}.candidate button{width:100%;margin:4px 0}.source{font-size:11px;color:#bfaecf;overflow-wrap:anywhere}.marker{font-size:12px;color:#ffe0a4}.warning{color:#ffdab2}.buttonrow{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}.selected{border:2px solid #92eac3}.muted-candidate{opacity:.55}.file{display:block;font-size:13px;margin:9px 0}.file input{max-width:100%}.pager{display:flex;align-items:center;justify-content:center;gap:16px;padding:20px}.help{border:1px solid var(--border);border-radius:13px;background:#291e43;padding:11px 16px;margin:12px 0}summary{cursor:pointer;font-weight:650}footer{font-size:12px;color:#cab9e1;padding-bottom:40px}
+</style></head><body>
+<header><div class="muted">MAGICAL CHARACTER QUIZ / 画像品質点検</div><h1>🔍 621キャラクター画像の点検・修正</h1>
+<p>公開済みの画像も含めて確認し、<strong>別キャラクター・複数人の写り込み・画像不良</strong>を修正できます。選択した内容は、JSONをGitHubへ登録してから反映されます。自動で画像を正しいと判定するものではありません。</p></header>
+<main>
+<details class="help"><summary>操作手順・注意事項</summary>
+<p>① 画像を見て「正しい画像」か「誤り・複数人・不良」を選ぶ。② 正しい別候補がある場合は「この候補に差し替え／追加」を選ぶ。③ この画面の「修正JSONをダウンロード」を押し、<code>images/audit/decisions.json</code> にアップロード。④ GitHub Actionsの <b>Disney 621 image quality review and repair</b> で <b>apply</b> を実行する。</p>
+<p>手動で用意した画像を使う場合、このページからWebPをダウンロードした後、<code>images/manual/</code> に画像をアップロードしてから apply を実行します。画像の利用条件・権利を確認してください。</p>
+<p class="warning">画像内容は機械判定できません。画像候補が本人かつ単独で写っていることを確認して選択してください。悪い画像は一時的に出題から除外されます。元画像のファイルは削除しません。</p></details>
+<div class="toolbar">
+<input type="search" id="search" placeholder="日本語名・英語名・作品名で検索" aria-label="キャラクター検索">
+<select id="filter" aria-label="絞り込み">
+<option value="priority">要確認（疑い・指摘あり）</option><option value="unreviewed">画像あり・まだ点検していない</option><option value="published">画像あり（すべて）</option><option value="missing">画像なし</option><option value="candidates">未登録・候補あり</option><option value="decisions">修正指示済み</option><option value="all">全621キャラ</option>
+</select>
+<button id="download" class="gold">修正JSONをダウンロード</button><button id="reset-local">このブラウザーの点検記録をクリア</button>
+</div><div id="stats" class="stats"></div><div id="note" class="notice" role="status">読み込み中…</div>
+<div id="gallery" class="grid"></div><div id="pager" class="pager"></div>
+<div class="help"><strong>知っておいてほしいこと：</strong> 写っているキャラの人数や名前を、画像メタデータだけで正確に判定することはできません。疑いのある画像を先に確認し、残りの画像も順番に点検してください。公開済みの数が一時的に減るのは、誤画像を出題から除外するためです。</div>
+</main><footer>非公式ファンサイトの作業用ページです。Disney/Pixarとは無関係です。画像利用については権利者の条件に従ってください。</footer>
+<script type="module">
+import { curated } from './data.js?v=621-quality-20261106';
+const $ = id => document.getElementById(id);
+const esc = s => String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const normalize = s => String(s||'').normalize('NFKC').toLowerCase();
+const safeId = s => s.replace(/[^A-Za-z0-9_-]/g,'_');
+const STORE = 'magical-quiz-image-quality-621-v1';
+const PAGE = 18;
+let manifest={}, index={}, rejected={}, report={}, decisions={}, rejectedLocal={}, checked={}, cards=[], page=0;
+try {const stored=JSON.parse(localStorage.getItem(STORE)||'{}'); decisions=stored.decisions||{};rejectedLocal=stored.rejectedLocal||{};checked=stored.checked||{};}catch{}
+const save=()=>{try{localStorage.setItem(STORE,JSON.stringify({decisions,rejectedLocal,checked}))}catch{}};
+const imagePath = c => (manifest[c.id]?.reviewed===true&&manifest[c.id]?.singleCharacter===true) ? manifest[c.id].path : '';
+const candidates = c => index[c.id]?.candidates||[];
+const reported = new Set(['extended-mickey-friends-magica-de-spell','extended-the-lion-king-shenzi','extended-moana-te-ka']);
+const rejectedPaths = () => new Set([...(rejected.rejected||[]).map(v=>v.characterId+'|'+v.path),...Object.keys(rejectedLocal).flatMap(id=>Object.keys(rejectedLocal[id]||{}).map(path=>id+'|'+path))]);
+const issuesFor = c => (report.issues||[]).filter(x=>x.characterId===c.id && x.type!=='missing');
+const note=s=>{$('note').textContent=s;};
+const status = c => !!decisions[c.id]?'修正指示済み':checked[c.id]?'点検済み':'';
+const query = c => encodeURIComponent(`Disney ${c.films?.[0]||''} ${c.name} character solo portrait`);
+const hasImage = c => !!imagePath(c);
+const isPriority = c => reported.has(c.id)||issuesFor(c).length>0;
+async function json(path,fallback){try{const r=await fetch('./'+path,{cache:'no-store'});if(!r.ok)return fallback;return await r.json()}catch{return fallback}}
+async function boot(){
+ const [m,ind,r,rep] = await Promise.all([json('images/manifest.json',{}),json('images/new-candidates/index.json',{characters:{}}),json('images/audit/rejections.json',{rejected:[]}),json('images/audit/report.json',{issues:[]})]);
+ manifest=m;index=ind.characters||{};rejected=r;report=rep;
+ // Discard stale corrections to avoid deleting a newly replaced image.
+ for(const c of curated){if(decisions[c.id]?.expectedPath!==undefined&&decisions[c.id]?.expectedPath!==imagePath(c))delete decisions[c.id];}
+ save();update();note(`公開済み画像 ${curated.filter(hasImage).length} / ${curated.length} キャラ。要確認は推定値であり、目視確認が必要です。`);
+}
+function update(){
+ const q=normalize($('search').value.trim()),f=$('filter').value;
+ cards=curated.filter(c=>{
+  const match=!q||normalize([c.jp,c.name,...(c.aliases||[]),...(c.films||[])].join(' ')).includes(q);
+  const fits={priority:isPriority(c),unreviewed:hasImage(c)&&!checked[c.id]&&!decisions[c.id],published:hasImage(c),missing:!hasImage(c),candidates:!hasImage(c)&&candidates(c).length>0,decisions:!!decisions[c.id],all:true}[f];
+  return match&&fits;
+ });
+ const visible=curated.filter(hasImage).length, outstanding=Object.keys(decisions).length;
+ $('stats').innerHTML=`<span class="pill">登録 ${curated.length}</span><span class="pill">画像付き ${visible}</span><span class="pill">画像なし ${curated.length-visible}</span><span class="pill">点検済み ${Object.keys(checked).length}</span><span class="pill">修正指示 ${outstanding}</span><span class="pill">候補の除外 ${Object.values(rejectedLocal).reduce((a,b)=>a+Object.keys(b).length,0)}</span><span class="pill">表示 ${cards.length}</span>`;
+ page=Math.max(0,Math.min(page,Math.ceil(cards.length/PAGE)-1));draw();
+}
+function draw(){
+ const rej=rejectedPaths();
+ $('gallery').innerHTML=cards.slice(page*PAGE,(page+1)*PAGE).map(c=>{
+  const live=imagePath(c), decision=decisions[c.id], opts=candidates(c), issues=issuesFor(c);
+  const warn=issues.map(x=>x.message).join('／');
+  const banner=decision?`<p class="warning"><b>作業中：</b>${esc(decision.action)} / ${esc(decision.reason||'')}</p>`:checked[c.id]?'<p style="color:#a5ebc8">✓ 点検済み・現在画像を維持</p>':'';
+  return `<article class="card ${isPriority(c)?'flag':''}" data-id="${esc(c.id)}">
+    <h2>${esc(c.jp)} <span class="en">${esc(c.name)}</span></h2><div class="id">${esc(c.id)}</div>
+    <small>🎬 ${esc((c.films||[]).join(' / '))}</small>
+    ${live?`<img class="image" loading="lazy" alt="公開中：${esc(c.jp)}" src="./${esc(live)}">`:'<div class="image missing" style="display:grid;place-items:center">画像未登録</div>'}
+    ${warn?`<p class="marker">⚠ ${esc(warn)}</p>`:''}
+    ${reported.has(c.id)?'<p class="marker">⚠ 過去の画像取り違え・複数キャラの指摘対象です。現在画像を確認してください。</p>':''}
+    ${banner}
+    <div class="buttonrow">
+      ${live?`<button class="ok" data-good="${esc(c.id)}">✓ 正しい・単独</button><button class="danger" data-remove="${esc(c.id)}" data-reason="wrong_character">別キャラを除外</button><button class="danger" data-remove="${esc(c.id)}" data-reason="multiple_characters">複数キャラを除外</button><button data-remove="${esc(c.id)}" data-reason="poor_image">画像不良</button>`:''}
+      <button data-reset="${esc(c.id)}">判定を取り消す</button>
+    </div>
+    <details><summary>画像候補 ${opts.length} 件（差し替え・追加する場合は開く）</summary>
+      <div class="candlist">${opts.map(v=>{
+        const bad=rej.has(c.id+'|'+v.path);const current=!!(live&&v.publishedPath===live);
+        return `<div class="candidate ${bad?'muted-candidate':''}">
+          <img loading="lazy" src="./${esc(v.path)}" alt="${esc(c.jp)}の画像候補">
+          <div class="source">元データ名: ${esc(v.apiName||'(不明)')}</div>
+          ${bad?'<p class="warning">✕ 不採用として登録済み</p>':current?'<p style="color:#a5ebc8">現在採用中の画像</p>':''}
+          ${!bad?`<button data-use="${esc(c.id)}" data-path="${esc(v.path)}" ${current?'disabled':''}>${live?'この画像に差し替え':'本人・単独なら追加'}</button><button class="danger" data-reject="${esc(c.id)}" data-path="${esc(v.path)}">誤った候補として除外</button>`:''}
+          ${v.sourceUrl&&String(v.sourceUrl).startsWith('https://')?`<a class="source" href="${esc(v.sourceUrl)}" target="_blank" rel="noopener noreferrer">取得元を確認</a>`:''}
+        </div>`;
+      }).join('')}</div>
+    </details>
+    <details><summary>画像を自分で用意して追加・差し替え</summary>
+      <p class="muted" style="font-size:13px">対象キャラが単独で写った画像を選ぶと、WebPをダウンロードします。<code>images/manual/</code> へのアップロードも必要です。</p>
+      <label class="file">画像ファイル<input type="file" accept="image/png,image/jpeg,image/webp" data-manual="${esc(c.id)}"></label>
+      <a href="https://www.google.com/search?tbm=isch&amp;q=${query(c)}" target="_blank" rel="noopener noreferrer">このキャラの画像をウェブで探す</a>
+    </details>
+  </article>`;
+ }).join('') || '<p class="notice">該当するキャラクターがありません。</p>';
+ const pageCount=Math.max(1,Math.ceil(cards.length/PAGE));
+ $('pager').innerHTML=`<button id="previous" ${page===0?'disabled':''}>← 前へ</button>${page+1} / ${pageCount}<button id="next" ${page+1>=pageCount?'disabled':''}>次へ →</button>`;
+ $('previous').onclick=()=>{page--;draw();window.scrollTo({top:0,behavior:'smooth'})};
+ $('next').onclick=()=>{page++;draw();window.scrollTo({top:0,behavior:'smooth'})};
+}
+$('search').oninput=()=>{page=0;update()};$('filter').onchange=()=>{page=0;update()};
+$('gallery').addEventListener('click',event=>{
+ const b=event.target.closest('button');if(!b)return;
+ const cid=b.dataset.good||b.dataset.remove||b.dataset.use||b.dataset.reject||b.dataset.reset;
+ if(!cid)return;
+ const ch=curated.find(c=>c.id===cid);if(!ch)return;
+ const current=imagePath(ch);
+ if(b.dataset.good){delete decisions[cid];checked[cid]=true;}
+ else if(b.dataset.remove){decisions[cid]={characterId:cid,action:'remove',reason:b.dataset.reason,expectedPath:current};delete checked[cid];}
+ else if(b.dataset.use){if(!confirm(`${ch.jp}が単独で写り、正しい画像であることを目で確認しましたか？`))return;
+   decisions[cid]={characterId:cid,action:current?'replace':'add',reason:current?'wrong_character':'new_image',expectedPath:current,candidatePath:b.dataset.path};delete checked[cid];}
+ else if(b.dataset.reject){const path=b.dataset.path;
+   if(!confirm('この候補を不採用リストに登録しますか？'))return;
+   (rejectedLocal[cid]??={})[path]='wrong_character';
+   if(decisions[cid]?.candidatePath===path)delete decisions[cid];
+   const picked=candidates(ch).find(c=>c.path===path);
+   if(current&&picked?.publishedPath===current){decisions[cid]={characterId:cid,action:'remove',reason:'wrong_character',expectedPath:current};delete checked[cid];}
+ }
+ else if(b.dataset.reset){delete decisions[cid];delete checked[cid];}
+ save();update();
+});
+$('gallery').addEventListener('change',async event=>{
+ const input=event.target;if(!input.matches('input[data-manual]')||!input.files?.[0])return;
+ const cid=input.dataset.manual,ch=curated.find(x=>x.id===cid);if(!ch)return;
+ const file=input.files[0];if(file.size>8_000_000){note('8MB以内の画像を選んでください。');return;}
+ try{
+  const bitmap=await createImageBitmap(file);const scale=Math.min(1,700/Math.max(bitmap.width,bitmap.height));
+  const w=Math.max(1,Math.round(bitmap.width*scale)),h=Math.max(1,Math.round(bitmap.height*scale));
+  if(w<100||h<100||w/h>3.5||h/w>3.5)throw Error('画像サイズまたは縦横比が出題に適していません');
+  const canvas=document.createElement('canvas');canvas.width=w;canvas.height=h;canvas.getContext('2d').drawImage(bitmap,0,0,w,h);bitmap.close?.();
+  const blob=await new Promise((res,rej)=>canvas.toBlob(b=>b?res(b):rej(Error('WebPの生成に失敗しました')),'image/webp',0.84));
+  const filename=safeId(cid)+'.webp',manualPath='images/manual/'+filename;
+  const url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download=filename;document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),30000);
+  const current=imagePath(ch);decisions[cid]={characterId:cid,action:current?'replace':'add',reason:current?'wrong_character':'new_image',expectedPath:current,manualPath};delete checked[cid];save();update();
+  note(`「${filename}」をダウンロードしました。GitHubの images/manual/ に同名ファイルをアップロードしてから修正JSONを反映してください。`);
+ }catch(err){note('手動画像を処理できませんでした：'+err.message);}
+});
+$('download').onclick=()=>{
+ const updates=Object.values(decisions).filter(x=>x&&x.characterId);
+ const base=new Set((rejected.rejected||[]).map(x=>x.characterId+'|'+x.path));
+ const rejectCandidates=Object.entries(rejectedLocal).flatMap(([characterId,rows])=>Object.entries(rows).filter(([path])=>!base.has(characterId+'|'+path)).map(([path,reason])=>({characterId,path,reason})));
+ if(!updates.length&&!rejectCandidates.length){note('まだ修正・除外の指示がありません。画像を確認して選択してください。');return;}
+ const json={version:1,confirmManualReview:true,updates,rejectCandidates};
+ const blob=new Blob([JSON.stringify(json,null,2)+'\n'],{type:'application/json'}),url=URL.createObjectURL(blob);
+ const a=document.createElement('a');a.href=url;a.download='decisions.json';document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),30000);
+ note(`${updates.length}件の追加・除外・差し替え指示と、${rejectCandidates.length}件の候補除外を出力しました。GitHubの images/audit/decisions.json を上書きし、Actions の apply を実行してください。`);
+};
+$('reset-local').onclick=()=>{if(!confirm('このブラウザーの点検・修正記録を消去しますか？ GitHubの画像は変更されません。'))return;decisions={};checked={};rejectedLocal={};save();update();note('ブラウザー内の点検記録をクリアしました。');};
+boot();
+</script></body></html>

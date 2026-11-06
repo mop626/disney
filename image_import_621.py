@@ -35,6 +35,7 @@ MANIFEST_FILE = ROOT / 'images' / 'manifest.json'
 CANDIDATE_DIR = ROOT / 'images' / 'new-candidates'
 INDEX_FILE = CANDIDATE_DIR / 'index.json'
 DECISIONS_FILE = CANDIDATE_DIR / 'approvals.json'
+REJECTED_FILE = ROOT / 'images' / 'audit' / 'rejections.json'
 REPORT_FILE = CANDIDATE_DIR / 'status.csv'
 API_BASE = 'https://api.disneyapi.dev/character'
 HEADERS = {
@@ -323,6 +324,8 @@ def publish_approvals():
     targets, manifest, index = load_data()
     allowed_targets = {c['id'] for c in targets}
     decisions = read_json(DECISIONS_FILE)
+    rejected_data = read_json(REJECTED_FILE, {'version': 1, 'rejected': []})
+    blocked_candidates = {(x.get('characterId'), x.get('path')) for x in rejected_data.get('rejected', [])}
     if decisions.get('version') != 1 or not isinstance(decisions.get('approved'), list):
         raise ValueError('Invalid approvals.json schema')
     seen = set()
@@ -335,6 +338,9 @@ def publish_approvals():
         cid, candidate_path = approval.get('characterId'), approval.get('path')
         if cid not in allowed_targets or cid in seen:
             errors.append(f'{cid}: invalid or duplicate character ID')
+            continue
+        if (cid, candidate_path) in blocked_candidates:
+            errors.append(f'{cid}: this candidate was rejected by image quality review; cannot publish')
             continue
         seen.add(cid)
         if cid in manifest:

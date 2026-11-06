@@ -13,7 +13,7 @@
 <body>
 <header>
   <div class="muted">MAGICAL CHARACTER QUIZ ・画像追加の確認ページ</div>
-  <h1>🖼 追加366キャラクターの画像チェック</h1>
+  <h1>🖼 追加366キャラクターの画像チェック</h1><p><a href="./image-quality-review.html">公開済み502キャラを含む品質点検・修正ページはこちら</a></p>
   <p class="muted">キャラクター名・作品名と画像を見比べ、「正しいキャラが単独で写っている」と確認できたものだけ選択してください。</p>
 </header>
 <main>
@@ -38,26 +38,31 @@ const STORE='magical-quiz-reviewed-images-621-v1';
 const MAX_PAGE=24;
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-let target=[], index={}, manifest={}, filtered=[], page=0, selection={};
+let target=[], index={}, manifest={}, filtered=[], page=0, selection={}, blocked=new Set(), existingApprovals=[];
 try{selection=JSON.parse(localStorage.getItem(STORE)||'{}')||{}}catch{}
 function saved(){try{localStorage.setItem(STORE,JSON.stringify(selection))}catch{}}
 function announce(t,ok){$('notice').textContent=t;$('notice').className=ok?'success':''}
 async function boot(){
  try{
-   const [t,i,m]=await Promise.all([
+   const [t,i,m,r,a]=await Promise.all([
      fetch('./new_characters.json',{cache:'no-store'}),
      fetch('./images/new-candidates/index.json',{cache:'no-store'}),
-     fetch('./images/manifest.json',{cache:'no-store'})
+     fetch('./images/manifest.json',{cache:'no-store'}),
+     fetch('./images/audit/rejections.json',{cache:'no-store'}),
+     fetch('./images/new-candidates/approvals.json',{cache:'no-store'})
    ]);
    if(!t.ok||!i.ok||!m.ok)throw Error('画像候補の一覧がまだありません。まずGitHub Actionsのfetchを実行し、数分後に再読み込みしてください。');
    target=await t.json(); index=(await i.json()).characters||{}; manifest=await m.json();
+   const rejects = r.ok ? (await r.json()).rejected||[] : [];
+   blocked = new Set(rejects.map(x=>x.characterId+'|'+x.path));
+   existingApprovals = a.ok ? (await a.json()).approved||[] : [];
    if(!Array.isArray(target)||target.length!==366)throw Error('new_characters.json に366件がありません。ZIP内のファイルをアップロードしてください。');
-   const valid={};for(const c of target){const v=selection[c.id];if(v&&((index[c.id]?.candidates||[]).some(x=>x.path===v)))valid[c.id]=v;}
+   const valid={};for(const c of target){const v=selection[c.id];if(v&&(candidates(c).some(x=>x.path===v)))valid[c.id]=v;}
    selection=valid;saved();update();
  }catch(e){$('gallery').innerHTML='<div class="empty">'+esc(e.message)+'</div>';announce('読み込みに失敗しました。ファイルの配置を確認してください。',false)}
 }
 function published(c){return manifest[c.id]?.reviewed===true}
-function candidates(c){return index[c.id]?.candidates||[]}
+function candidates(c){return (index[c.id]?.candidates||[]).filter(x=>!blocked.has(c.id+'|'+x.path))}
 function update(){
  const q=$('search').value.trim().normalize('NFKC').toLowerCase(), f=$('filter').value;
  filtered=target.filter(c=>{
@@ -108,15 +113,18 @@ $('gallery').addEventListener('click',e=>{
  if(btn.dataset.clear){delete selection[btn.dataset.clear];saved();update();return;}
  const id=btn.dataset.id, path=btn.dataset.path;
  if(!id||!path)return;
- if(!target.some(x=>x.id===id)||!(index[id]?.candidates||[]).some(x=>x.path===path)||manifest[id]?.reviewed)return;
+ if(!target.some(x=>x.id===id)||!candidates({id}).some(x=>x.path===path)||manifest[id]?.reviewed)return;
  selection[id]=path;saved();update();
  announce('選択を保存しました。すべて確認後、右上の「承認JSONをダウンロード」を押してください。',true);
 });
 $('search').addEventListener('input',()=>{page=0;update()});
 $('filter').addEventListener('change',()=>{page=0;update()});
 $('export').addEventListener('click',()=>{
- const approved=Object.entries(selection).filter(([id,path])=>target.some(x=>x.id===id)&&candidates({id}).some(x=>x.path===path)&&!manifest[id]?.reviewed).map(([characterId,path])=>({characterId,path}));
- if(!approved.length){announce('まだ選択した画像がありません。キャラ本人の単独画像を選んでください。',false);return;}
+ const fresh=Object.entries(selection).filter(([id,path])=>target.some(x=>x.id===id)&&candidates({id}).some(x=>x.path===path)&&!manifest[id]?.reviewed).map(([characterId,path])=>({characterId,path}));
+ if(!fresh.length){announce('まだ新しい画像を選択していません。キャラ本人の単独画像を選んでください。',false);return;}
+ const combined=new Map(existingApprovals.filter(x=>x.characterId&&!blocked.has(x.characterId+'|'+x.path)).map(x=>[x.characterId,x]));
+ for(const x of fresh)combined.set(x.characterId,x);
+ const approved=[...combined.values()];
  const data={version:1,approved};
  const blob=new Blob([JSON.stringify(data,null,2)+'\n'],{type:'application/json'});
  const url=URL.createObjectURL(blob);
