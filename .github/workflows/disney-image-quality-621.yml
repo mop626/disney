@@ -1,0 +1,49 @@
+name: Disney 621 image quality review and repair
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'inspect: audit only / apply: update approved fixes'
+        required: true
+        default: inspect
+        type: choice
+        options:
+          - inspect
+          - apply
+
+permissions:
+  contents: write
+
+concurrency:
+  group: disney-image-import-621
+  cancel-in-progress: false
+
+jobs:
+  image-quality:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install Pillow
+        run: python -m pip install 'Pillow>=10,<13'
+      - name: Inspect or apply manually reviewed changes
+        env:
+          MODE: ${{ inputs.mode }}
+        run: python image_quality_621.py "$MODE"
+      - name: Commit quality report and approved corrections
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add images/
+          if ! git diff --cached --quiet; then
+            git commit -m "Review and repair Disney quiz character images"
+            git push
+          else
+            echo "No changes to commit."
+          fi
