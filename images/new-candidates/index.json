@@ -2,7 +2,7 @@
   "version": 1,
   "characters": {
     "extended-mickey-friends-pete": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-mickey-friends-pete--5251.webp",
@@ -26,12 +26,12 @@
           "width": 588,
           "height": 700,
           "sha256": "1a12267f1197193f910152de2c6f3ab84a6965985bf78eb39166ad49d81815e6",
-          "publishedPath": ""
+          "publishedPath": "images/extended-mickey-friends-pete.webp"
         }
       ]
     },
     "extended-mickey-friends-horace-horsecollar": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-mickey-friends-horace-horsecollar--3183.webp",
@@ -43,12 +43,12 @@
           "width": 401,
           "height": 623,
           "sha256": "cc6c60acef34c7e0396786c0891bc2acb5b873bd537ba0e1d40c98b7e65b0d44",
-          "publishedPath": ""
+          "publishedPath": "images/extended-mickey-friends-horace-horsecollar.webp"
         }
       ]
     },
     "extended-mickey-friends-clarabelle-cow": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-mickey-friends-clarabelle-cow--1493.webp",
@@ -60,7 +60,7 @@
           "width": 556,
           "height": 700,
           "sha256": "9150682343ac1d86fb1c3fe9bde2ebca3ac76e7f3b11aa0621bf2ccd7c545b39",
-          "publishedPath": ""
+          "publishedPath": "images/extended-mickey-friends-clarabelle-cow.webp"
         }
       ]
     },
@@ -69,7 +69,7 @@
       "candidates": []
     },
     "extended-mickey-friends-oswald-the-lucky-rabbit": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-mickey-friends-oswald-the-lucky-rabbit--5067.webp",
@@ -81,12 +81,12 @@
           "width": 700,
           "height": 649,
           "sha256": "2b5a04de251cac0a5ea0787d3e7ce6542b852c89880379ccf1d1cacd7c2bd1ce",
-          "publishedPath": ""
+          "publishedPath": "images/extended-mickey-friends-oswald-the-lucky-rabbit.webp"
         }
       ]
     },
     "extended-mickey-friends-ortensia": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-mickey-friends-ortensia--5056.webp",
@@ -98,12 +98,12 @@
           "width": 350,
           "height": 421,
           "sha256": "969fd25dc6abfbff26f3ca3c8b54270d6aa5ef88c5c9b928c8459c984436f7e2",
-          "publishedPath": ""
+          "publishedPath": "images/extended-mickey-friends-ortensia.webp"
         }
       ]
     },
     "extended-mickey-friends-ludwig-von-drake": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-mickey-friends-ludwig-von-drake--7139.webp",
@@ -115,12 +115,12 @@
           "width": 500,
           "height": 700,
           "sha256": "b358b367d42c81bd6c0714a7f450619555e848405255fe573404cb009a52a2cf",
-          "publishedPath": ""
+          "publishedPath": "images/extended-mickey-friends-ludwig-von-drake.webp"
         }
       ]
     },
     "extended-mickey-friends-jose-carioca": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-mickey-friends-jose-carioca--1066.webp",
@@ -132,12 +132,12 @@
           "width": 580,
           "height": 700,
           "sha256": "5d43f4e2d4bf834df8c71e5ead23d0d1ff420f902af40bc20c71ba5a13306d08",
-          "publishedPath": ""
+          "publishedPath": "images/extended-mickey-friends-jose-carioca.webp"
         }
       ]
     },
     "extended-mickey-friends-panchito-pistoles": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-mickey-friends-panchito-pistoles--5350.webp",
@@ -149,12 +149,12 @@
           "width": 700,
           "height": 618,
           "sha256": "bf92117ed3f0c61218d5d52dc924fae96bda2d91408bd2335707d167a6587dc9",
-          "publishedPath": ""
+          "publishedPath": "images/extended-mickey-friends-panchito-pistoles.webp"
         }
       ]
     },
     "extended-mickey-friends-webby-vanderquack": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-mickey-friends-webby-vanderquack--7065.webp",
@@ -166,7 +166,7 @@
           "width": 576,
           "height": 432,
           "sha256": "2c352a0700af48d57ea0e831a9d5a5142897c43b962b32bfd4838507c5b8ae89",
-          "publishedPath": ""
+          "publishedPath": "images/extended-mickey-friends-webby-vanderquack.webp"
         }
       ]
     },
@@ -178,7 +178,7 @@
       ]
     },
     "extended-mickey-friends-launchpad-mcquack": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-mickey-friends-launchpad-mcquack--4417.webp",
@@ -190,12 +190,12 @@
           "width": 318,
           "height": 436,
           "sha256": "99abb4b15b318ebd9715b9e790bebbba1585a8c2e58fe388521a4527253d7e4f",
-          "publishedPath": ""
+          "publishedPath": "images/extended-mickey-friends-launchpad-mcquack.webp"
         }
       ]
     },
     "extended-snow-white-and-the-seven-dwarfs-the-prince": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-snow-white-and-the-seven-dwarfs-the-prince--5453.webp",
@@ -207,7 +207,7 @@
           "width": 532,
           "height": 700,
           "sha256": "6d8907cd1d961a3514805cac79746d747681a8d46b0115aa013e56add32e08e9",
-          "publishedPath": ""
+          "publishedPath": "images/extended-snow-white-and-the-seven-dwarfs-the-prince.webp"
         }
       ]
     },
@@ -216,7 +216,7 @@
       "candidates": []
     },
     "extended-cinderella-lady-tremaine": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-cinderella-lady-tremaine--6886.webp",
@@ -228,7 +228,7 @@
           "width": 543,
           "height": 700,
           "sha256": "c202594e076b30004ed17ed7d4f05a223c94eb7c5fcc34da65493154a934a1ac",
-          "publishedPath": ""
+          "publishedPath": "images/extended-cinderella-lady-tremaine.webp"
         },
         {
           "path": "images/new-candidates/extended-cinderella-lady-tremaine--8948.webp",
@@ -245,7 +245,7 @@
       ]
     },
     "extended-cinderella-anastasia-tremaine": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-cinderella-anastasia-tremaine--6883.webp",
@@ -257,12 +257,12 @@
           "width": 521,
           "height": 700,
           "sha256": "6020ba861cf983264200d10c754048151b7bdaa3940ae296c930ca5c90810f4e",
-          "publishedPath": ""
+          "publishedPath": "images/extended-cinderella-anastasia-tremaine.webp"
         }
       ]
     },
     "extended-cinderella-drizella-tremaine": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-cinderella-drizella-tremaine--6885.webp",
@@ -274,12 +274,12 @@
           "width": 557,
           "height": 700,
           "sha256": "a1c891df8096c0e5d3664d5bef32ba436644e09bc789248eadf398e8926a2823",
-          "publishedPath": ""
+          "publishedPath": "images/extended-cinderella-drizella-tremaine.webp"
         }
       ]
     },
     "extended-cinderella-lucifer": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-cinderella-lucifer--4049.webp",
@@ -291,12 +291,12 @@
           "width": 700,
           "height": 666,
           "sha256": "ffa3b6ee6f1a1ccc97f8062c5668edcb6ac8a16935690ec931234cd0c08f6841",
-          "publishedPath": ""
+          "publishedPath": "images/extended-cinderella-lucifer.webp"
         }
       ]
     },
     "extended-cinderella-bruno": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-cinderella-bruno--895.webp",
@@ -320,12 +320,12 @@
           "width": 557,
           "height": 700,
           "sha256": "65f2581dded50ae2c3eecc9b761f271522625edef85f7b3a8d126c7867223b0b",
-          "publishedPath": ""
+          "publishedPath": "images/extended-cinderella-bruno.webp"
         }
       ]
     },
     "extended-cinderella-major": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-cinderella-major--4160.webp",
@@ -337,7 +337,7 @@
           "width": 700,
           "height": 700,
           "sha256": "47f1f7182316d63452f4f77e13e2782e5ad8cb71f71c8b275a2ced473e8c0bb1",
-          "publishedPath": ""
+          "publishedPath": "images/extended-cinderella-major.webp"
         }
       ]
     },
@@ -346,7 +346,7 @@
       "candidates": []
     },
     "extended-sleeping-beauty-diablo": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-sleeping-beauty-diablo--1758.webp",
@@ -358,12 +358,12 @@
           "width": 700,
           "height": 664,
           "sha256": "ff99a5484278362bdba03b53c68cb6b0739cce12b3a001afe2bdc4d1845ff95c",
-          "publishedPath": ""
+          "publishedPath": "images/extended-sleeping-beauty-diablo.webp"
         }
       ]
     },
     "extended-sleeping-beauty-king-stefan": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-sleeping-beauty-king-stefan--6413.webp",
@@ -375,12 +375,12 @@
           "width": 700,
           "height": 647,
           "sha256": "b0e485e42f0fa14ee02ce2e95f8388457d195b9a734e9d5f79c0fd3493740b33",
-          "publishedPath": ""
+          "publishedPath": "images/extended-sleeping-beauty-king-stefan.webp"
         }
       ]
     },
     "extended-sleeping-beauty-queen-leah": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-sleeping-beauty-queen-leah--3861.webp",
@@ -392,7 +392,7 @@
           "width": 527,
           "height": 692,
           "sha256": "37a0c4f9879dc213187a05e3273aafe17587e2ed1a0dceca72dfeb8dce015879",
-          "publishedPath": ""
+          "publishedPath": "images/extended-sleeping-beauty-queen-leah.webp"
         },
         {
           "path": "images/new-candidates/extended-sleeping-beauty-queen-leah--9522.webp",
@@ -409,7 +409,7 @@
       ]
     },
     "extended-sleeping-beauty-king-hubert": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-sleeping-beauty-king-hubert--3199.webp",
@@ -421,12 +421,12 @@
           "width": 625,
           "height": 448,
           "sha256": "090e19c64df1d924f41d5ab63f6ed2f8e98da917360bde42c2625ddfd69800c8",
-          "publishedPath": ""
+          "publishedPath": "images/extended-sleeping-beauty-king-hubert.webp"
         }
       ]
     },
     "extended-the-little-mermaid-scuttle": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-little-mermaid-scuttle--6018.webp",
@@ -438,7 +438,7 @@
           "width": 700,
           "height": 568,
           "sha256": "e051f65639bdab017be08a9cf4dc7a196a360ed9a78e2ecf72c5965831db41c8",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-little-mermaid-scuttle.webp"
         },
         {
           "path": "images/new-candidates/extended-the-little-mermaid-scuttle--9690.webp",
@@ -463,7 +463,7 @@
       "candidates": []
     },
     "extended-the-little-mermaid-chef-louis": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-little-mermaid-chef-louis--1201.webp",
@@ -475,12 +475,12 @@
           "width": 645,
           "height": 700,
           "sha256": "a38d6a3b23900d4036fc9f5be67d6e6d954c6f12e1730f4ef4c4567505b34e17",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-little-mermaid-chef-louis.webp"
         }
       ]
     },
     "extended-the-little-mermaid-grimsby": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-little-mermaid-grimsby--2867.webp",
@@ -492,7 +492,7 @@
           "width": 448,
           "height": 700,
           "sha256": "077acbc5cb3da858ac26f77ab276d94ead90d2213071a4491cce5065617f6cf4",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-little-mermaid-grimsby.webp"
         },
         {
           "path": "images/new-candidates/extended-the-little-mermaid-grimsby--8642.webp",
@@ -509,7 +509,7 @@
       ]
     },
     "extended-the-little-mermaid-ii-return-to-the-sea-melody": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-little-mermaid-ii-return-to-the-sea-melody--4469.webp",
@@ -521,7 +521,7 @@
           "width": 700,
           "height": 535,
           "sha256": "7c97667867f5cf9f4d8a001ad1bbd2335c7a3d281c0ff5c41a8693beee887c3a",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-little-mermaid-ii-return-to-the-sea-melody.webp"
         },
         {
           "path": "images/new-candidates/extended-the-little-mermaid-ii-return-to-the-sea-melody--4470.webp",
@@ -538,7 +538,7 @@
       ]
     },
     "extended-the-little-mermaid-ii-return-to-the-sea-morgana": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-little-mermaid-ii-return-to-the-sea-morgana--4656.webp",
@@ -550,7 +550,7 @@
           "width": 595,
           "height": 673,
           "sha256": "5cf5b6b1cca8bf1096824a7ff8a256a17ac1b7c4915a1847625b4d0cb33761c9",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-little-mermaid-ii-return-to-the-sea-morgana.webp"
         },
         {
           "path": "images/new-candidates/extended-the-little-mermaid-ii-return-to-the-sea-morgana--4657.webp",
@@ -567,7 +567,7 @@
       ]
     },
     "extended-beauty-and-the-beast-maurice": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-beauty-and-the-beast-maurice--4327.webp",
@@ -579,7 +579,7 @@
           "width": 700,
           "height": 593,
           "sha256": "4268355172e3c00c7c060111dd0a04ca11b88c87b7f439007b897e05d2875c09",
-          "publishedPath": ""
+          "publishedPath": "images/extended-beauty-and-the-beast-maurice.webp"
         },
         {
           "path": "images/new-candidates/extended-beauty-and-the-beast-maurice--9101.webp",
@@ -596,7 +596,7 @@
       ]
     },
     "extended-beauty-and-the-beast-lefou": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-beauty-and-the-beast-lefou--8972.webp",
@@ -620,7 +620,7 @@
           "width": 700,
           "height": 616,
           "sha256": "7e190a1178266005a1efe0e444d2da07d43c3d798f4da2895e97ef40262e1504",
-          "publishedPath": ""
+          "publishedPath": "images/extended-beauty-and-the-beast-lefou.webp"
         }
       ]
     },
@@ -642,7 +642,7 @@
       ]
     },
     "extended-beauty-and-the-beast-wardrobe": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-beauty-and-the-beast-wardrobe--7183.webp",
@@ -654,12 +654,12 @@
           "width": 666,
           "height": 700,
           "sha256": "44eadcfc5ede2928d226fdc46cda4326353b6085a8c7bb6fbb9841ce735355ec",
-          "publishedPath": ""
+          "publishedPath": "images/extended-beauty-and-the-beast-wardrobe.webp"
         }
       ]
     },
     "extended-beauty-and-the-beast-sultan": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-beauty-and-the-beast-sultan--6493.webp",
@@ -671,7 +671,7 @@
           "width": 668,
           "height": 568,
           "sha256": "f7bb534a524c36aab5bde76e337139cead428db15105049bf4e920f34ea21178",
-          "publishedPath": ""
+          "publishedPath": "images/extended-beauty-and-the-beast-sultan.webp"
         },
         {
           "path": "images/new-candidates/extended-beauty-and-the-beast-sultan--6492.webp",
@@ -705,7 +705,7 @@
       ]
     },
     "extended-aladdin-razoul": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-aladdin-razoul--5636.webp",
@@ -717,12 +717,12 @@
           "width": 504,
           "height": 576,
           "sha256": "39da54ef3baee2a46e4995189c0d5bfabfbfdf49a2412fc5a286354957a91d20",
-          "publishedPath": ""
+          "publishedPath": "images/extended-aladdin-razoul.webp"
         }
       ]
     },
     "extended-aladdin-and-the-king-of-thieves-cassim": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-aladdin-and-the-king-of-thieves-cassim--1112.webp",
@@ -734,7 +734,7 @@
           "width": 700,
           "height": 692,
           "sha256": "20568a4334984f1a72eabcd75091f9d501913b748e9b9e48c8fd672b74fe53d8",
-          "publishedPath": ""
+          "publishedPath": "images/extended-aladdin-and-the-king-of-thieves-cassim.webp"
         }
       ]
     },
@@ -764,7 +764,7 @@
       ]
     },
     "extended-the-lion-king-sarabi": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-lion-king-sarabi--5963.webp",
@@ -776,7 +776,7 @@
           "width": 697,
           "height": 700,
           "sha256": "23e2bb1319c1b496101ee67b223a304c36a5f8e3a972923ee81932b19a3ee0bd",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-lion-king-sarabi.webp"
         },
         {
           "path": "images/new-candidates/extended-the-lion-king-sarabi--9667.webp",
@@ -793,7 +793,7 @@
       ]
     },
     "extended-the-lion-king-sarafina": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-lion-king-sarafina--5964.webp",
@@ -805,7 +805,7 @@
           "width": 438,
           "height": 480,
           "sha256": "b9688d578e82379b6210956f8d890978c58f38f3c487f8839f2312c714eaae80",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-lion-king-sarafina.webp"
         },
         {
           "path": "images/new-candidates/extended-the-lion-king-sarafina--9668.webp",
@@ -822,7 +822,7 @@
       ]
     },
     "extended-the-lion-king-ii-simba-s-pride-kiara": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-lion-king-ii-simba-s-pride-kiara--3654.webp",
@@ -834,7 +834,7 @@
           "width": 700,
           "height": 489,
           "sha256": "3a75f819a3855a6ab77cd67895a0df574e874f6260fec609c2c8575cb58d6be1",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-lion-king-ii-simba-s-pride-kiara.webp"
         },
         {
           "path": "images/new-candidates/extended-the-lion-king-ii-simba-s-pride-kiara--8895.webp",
@@ -851,7 +851,7 @@
       ]
     },
     "extended-the-lion-king-ii-simba-s-pride-kovu": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-lion-king-ii-simba-s-pride-kovu--3754.webp",
@@ -863,12 +863,12 @@
           "width": 700,
           "height": 504,
           "sha256": "738681a2522b7d10e6d4ebd556b2d7552cf9c8752ba4b59a2c1ecd68d4100234",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-lion-king-ii-simba-s-pride-kovu.webp"
         }
       ]
     },
     "extended-the-lion-king-ii-simba-s-pride-zira": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-lion-king-ii-simba-s-pride-zira--7503.webp",
@@ -880,12 +880,12 @@
           "width": 700,
           "height": 615,
           "sha256": "3353f4efdf4793054552fe6c8d1ef8a1324010daeb9d63e072bc00bd2b51dce6",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-lion-king-ii-simba-s-pride-zira.webp"
         }
       ]
     },
     "extended-the-lion-king-ii-simba-s-pride-vitani": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-lion-king-ii-simba-s-pride-vitani--7128.webp",
@@ -897,12 +897,12 @@
           "width": 700,
           "height": 463,
           "sha256": "537124fb3588fb437beb0ebb639eae324e9c7117604d4c5f778cbb88876f2d3f",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-lion-king-ii-simba-s-pride-vitani.webp"
         }
       ]
     },
     "extended-the-lion-guard-kion": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-lion-guard-kion--3705.webp",
@@ -914,7 +914,7 @@
           "width": 692,
           "height": 700,
           "sha256": "f4182774c8d57ee5e9541e6edcff43cc533d33b3c69852ca2454fab5c859d019",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-lion-guard-kion.webp"
         }
       ]
     },
@@ -1050,7 +1050,7 @@
       ]
     },
     "extended-pocahontas-thomas": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-pocahontas-thomas--6696.webp",
@@ -1062,7 +1062,7 @@
           "width": 700,
           "height": 669,
           "sha256": "00396da709da1780ef9b9fa113a3faf5477d02397094bf5c56fcab00905de6c8",
-          "publishedPath": ""
+          "publishedPath": "images/extended-pocahontas-thomas.webp"
         },
         {
           "path": "images/new-candidates/extended-pocahontas-thomas--6697.webp",
@@ -1113,7 +1113,7 @@
       ]
     },
     "extended-pocahontas-kocoum": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-pocahontas-kocoum--3738.webp",
@@ -1125,12 +1125,12 @@
           "width": 591,
           "height": 700,
           "sha256": "4a8ed315f77c8fccf5b4edfe41733e42130b227ac95766224a08498a20f4a3f0",
-          "publishedPath": ""
+          "publishedPath": "images/extended-pocahontas-kocoum.webp"
         }
       ]
     },
     "extended-mulan-shan-yu": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-mulan-shan-yu--7450.webp",
@@ -1142,7 +1142,7 @@
           "width": 700,
           "height": 489,
           "sha256": "37f24b4aced1dd8d83fd7074c2f006a49b86a24d748f56857f965b199f1d4d43",
-          "publishedPath": ""
+          "publishedPath": "images/extended-mulan-shan-yu.webp"
         }
       ]
     },
@@ -1159,7 +1159,7 @@
       "candidates": []
     },
     "extended-mulan-fa-zhou": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-mulan-fa-zhou--2184.webp",
@@ -1171,12 +1171,12 @@
           "width": 427,
           "height": 700,
           "sha256": "39a999d070a7108de1fb4c3846e66a9d545dffada3881aa180353f25ea7e87df",
-          "publishedPath": ""
+          "publishedPath": "images/extended-mulan-fa-zhou.webp"
         }
       ]
     },
     "extended-mulan-fa-li": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-mulan-fa-li--2182.webp",
@@ -1188,12 +1188,12 @@
           "width": 520,
           "height": 700,
           "sha256": "b719910651dcb62beeb71d4cd1e3a2c90aa18951bba3313040df09331388fcbe",
-          "publishedPath": ""
+          "publishedPath": "images/extended-mulan-fa-li.webp"
         }
       ]
     },
     "extended-mulan-grandmother-fa": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-mulan-grandmother-fa--2806.webp",
@@ -1205,12 +1205,12 @@
           "width": 632,
           "height": 700,
           "sha256": "cb77610e0ac90deaf4c4af4f49941b0b363d97ae983772fabb6ad0998391bbe7",
-          "publishedPath": ""
+          "publishedPath": "images/extended-mulan-grandmother-fa.webp"
         }
       ]
     },
     "extended-the-princess-and-the-frog-ray": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-princess-and-the-frog-ray--5632.webp",
@@ -1222,12 +1222,12 @@
           "width": 612,
           "height": 700,
           "sha256": "6505a99fce83340e11817f23520375ee51a08ae6b6b29370daa02be6d35a89e6",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-princess-and-the-frog-ray.webp"
         }
       ]
     },
     "extended-the-princess-and-the-frog-louis": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-princess-and-the-frog-louis--4035.webp",
@@ -1239,12 +1239,12 @@
           "width": 700,
           "height": 699,
           "sha256": "9c084ed5861cecf3b3c1ff32caf39495ac148764a9913f30d94eeb12151785d6",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-princess-and-the-frog-louis.webp"
         }
       ]
     },
     "extended-the-princess-and-the-frog-charlotte-la-bouff": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-princess-and-the-frog-charlotte-la-bouff--3792.webp",
@@ -1256,7 +1256,7 @@
           "width": 641,
           "height": 700,
           "sha256": "90429715e8a2d2abca4e9409a0654c57dcf3576f0ad5611d65e934557f3f1206",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-princess-and-the-frog-charlotte-la-bouff.webp"
         }
       ]
     },
@@ -1265,7 +1265,7 @@
       "candidates": []
     },
     "extended-the-princess-and-the-frog-mama-odie": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-princess-and-the-frog-mama-odie--4201.webp",
@@ -1277,12 +1277,12 @@
           "width": 700,
           "height": 682,
           "sha256": "e797e3defdc05c098335b893e7bdf20d2bc2e755783743bb4889536c124e662c",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-princess-and-the-frog-mama-odie.webp"
         }
       ]
     },
     "extended-the-princess-and-the-frog-eudora": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-princess-and-the-frog-eudora--2150.webp",
@@ -1294,12 +1294,12 @@
           "width": 554,
           "height": 700,
           "sha256": "90fce11f6ff17f58bfb12d44917c962ce11c81f1e2a68e01c3eb547c7e96b038",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-princess-and-the-frog-eudora.webp"
         }
       ]
     },
     "extended-the-princess-and-the-frog-lawrence": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-princess-and-the-frog-lawrence--3848.webp",
@@ -1311,12 +1311,12 @@
           "width": 700,
           "height": 591,
           "sha256": "58d722e9f6602641a5f2ad2d4839f343e7d4e953ebb832794c00413da4924fa1",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-princess-and-the-frog-lawrence.webp"
         }
       ]
     },
     "extended-tangled-hook-hand": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-tangled-hook-hand--3161.webp",
@@ -1328,12 +1328,12 @@
           "width": 555,
           "height": 545,
           "sha256": "144c1410713c518797b14c100455da5f1fad3d9632d8731921572c7531389d91",
-          "publishedPath": ""
+          "publishedPath": "images/extended-tangled-hook-hand.webp"
         }
       ]
     },
     "extended-tangled-shorty": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-tangled-shorty--6131.webp",
@@ -1345,12 +1345,12 @@
           "width": 650,
           "height": 542,
           "sha256": "9f9c5033be6e8736454871b2cb5080559764281a04e9a4ee2836489fed84d19a",
-          "publishedPath": ""
+          "publishedPath": "images/extended-tangled-shorty.webp"
         }
       ]
     },
     "extended-tangled-vladimir": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-tangled-vladimir--7133.webp",
@@ -1362,12 +1362,12 @@
           "width": 639,
           "height": 449,
           "sha256": "d77a619bf6bb8e183dc679c943f800bbd5f738b5cae9548dff8db3070b633bd3",
-          "publishedPath": ""
+          "publishedPath": "images/extended-tangled-vladimir.webp"
         }
       ]
     },
     "extended-tangled-queen-arianna": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-tangled-queen-arianna--308.webp",
@@ -1379,12 +1379,12 @@
           "width": 475,
           "height": 700,
           "sha256": "ec37268d7705b4cb08954f627eee2433c96ed0f94cd905c522282255bf544bb5",
-          "publishedPath": ""
+          "publishedPath": "images/extended-tangled-queen-arianna.webp"
         }
       ]
     },
     "extended-tangled-king-frederic": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-tangled-king-frederic--2471.webp",
@@ -1396,7 +1396,7 @@
           "width": 461,
           "height": 700,
           "sha256": "4fa4587f9bb26e3af21ef90d8e8241ead4b8e1426305258864d9975c614bfc18",
-          "publishedPath": ""
+          "publishedPath": "images/extended-tangled-king-frederic.webp"
         }
       ]
     },
@@ -1464,7 +1464,7 @@
       ]
     },
     "extended-frozen-oaken": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-frozen-oaken--4960.webp",
@@ -1476,12 +1476,12 @@
           "width": 636,
           "height": 507,
           "sha256": "826cfe92d422e8c782f384c0069b4fd488a4e47d54fc042d18268ad59151c432",
-          "publishedPath": ""
+          "publishedPath": "images/extended-frozen-oaken.webp"
         }
       ]
     },
     "extended-frozen-duke-of-weselton": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-frozen-duke-of-weselton--1971.webp",
@@ -1493,12 +1493,12 @@
           "width": 629,
           "height": 700,
           "sha256": "b3541c0293140a81163db4d3cc661ca153108f476be420071db3d6d1233275b0",
-          "publishedPath": ""
+          "publishedPath": "images/extended-frozen-duke-of-weselton.webp"
         }
       ]
     },
     "extended-frozen-grand-pabbie": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-frozen-grand-pabbie--2801.webp",
@@ -1510,7 +1510,7 @@
           "width": 700,
           "height": 610,
           "sha256": "5b50f89db86c70805bd32e8fb7d1f3e6d17f93efec254d8fbddd63109eb8c13f",
-          "publishedPath": ""
+          "publishedPath": "images/extended-frozen-grand-pabbie.webp"
         }
       ]
     },
@@ -1519,7 +1519,7 @@
       "candidates": []
     },
     "extended-frozen-ii-honeymaren": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-frozen-ii-honeymaren--3156.webp",
@@ -1531,7 +1531,7 @@
           "width": 496,
           "height": 700,
           "sha256": "2409be51003d5556eea377c0c3c8a301de00e1e415e9e388262a9b8859d00a49",
-          "publishedPath": ""
+          "publishedPath": "images/extended-frozen-ii-honeymaren.webp"
         }
       ]
     },
@@ -1553,7 +1553,7 @@
       ]
     },
     "extended-frozen-ii-bruni": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-frozen-ii-bruni--893.webp",
@@ -1565,12 +1565,12 @@
           "width": 700,
           "height": 671,
           "sha256": "ddd4987626e50b4151f8f2a2a2569a1b8224babba9a0198435b402aac83b2c8f",
-          "publishedPath": ""
+          "publishedPath": "images/extended-frozen-ii-bruni.webp"
         }
       ]
     },
     "extended-frozen-ii-gale": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-frozen-ii-gale--2538.webp",
@@ -1582,12 +1582,12 @@
           "width": 439,
           "height": 549,
           "sha256": "6c4b8fcc5efcf527afbe1d01fa73e4882f5baeb06eb344a8780b8a0b1f0d7d3c",
-          "publishedPath": ""
+          "publishedPath": "images/extended-frozen-ii-gale.webp"
         }
       ]
     },
     "extended-frozen-ii-lieutenant-mattias": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-frozen-ii-lieutenant-mattias--3915.webp",
@@ -1599,7 +1599,7 @@
           "width": 700,
           "height": 651,
           "sha256": "c3b62c2b419dfbc79a99aa31433555fe313f905a395fe8d307d959bab96b6a5c",
-          "publishedPath": ""
+          "publishedPath": "images/extended-frozen-ii-lieutenant-mattias.webp"
         }
       ]
     },
@@ -1618,7 +1618,7 @@
       ]
     },
     "extended-frozen-ii-the-nokk": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-frozen-ii-the-nokk--4917.webp",
@@ -1630,7 +1630,7 @@
           "width": 575,
           "height": 700,
           "sha256": "7fe79abe4e6575ac4dd8bf526f4f8c6cf708b6217b317e0b1471aa6daf9167c4",
-          "publishedPath": ""
+          "publishedPath": "images/extended-frozen-ii-the-nokk.webp"
         },
         {
           "path": "images/new-candidates/extended-frozen-ii-the-nokk--9303.webp",
@@ -1647,7 +1647,7 @@
       ]
     },
     "extended-moana-gramma-tala": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-moana-gramma-tala--2796.webp",
@@ -1659,12 +1659,12 @@
           "width": 563,
           "height": 700,
           "sha256": "26f24add9c2794917adf4fab5a6a18facd99266008326066444b951d91467d26",
-          "publishedPath": ""
+          "publishedPath": "images/extended-moana-gramma-tala.webp"
         }
       ]
     },
     "extended-moana-chief-tui": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-moana-chief-tui--1236.webp",
@@ -1676,12 +1676,12 @@
           "width": 665,
           "height": 700,
           "sha256": "04725c1f8cddc54c319d48d3b1e14c7b0f714b88b0b3a91f33de0ec589da0c3d",
-          "publishedPath": ""
+          "publishedPath": "images/extended-moana-chief-tui.webp"
         }
       ]
     },
     "extended-moana-sina": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-moana-sina--6166.webp",
@@ -1693,7 +1693,7 @@
           "width": 543,
           "height": 700,
           "sha256": "14c27d34c7c3d446eb5e363fcd8b3ec5e5355c56dd9f416975bec81ff81bd7e5",
-          "publishedPath": ""
+          "publishedPath": "images/extended-moana-sina.webp"
         }
       ]
     },
@@ -1702,7 +1702,7 @@
       "candidates": []
     },
     "extended-moana-2-simea": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-moana-2-simea--9736.webp",
@@ -1714,12 +1714,12 @@
           "width": 583,
           "height": 700,
           "sha256": "53ea0d866efb6dc25ecc45e6919a23fb868ed26c7a6492a5d35f3f5821757029",
-          "publishedPath": ""
+          "publishedPath": "images/extended-moana-2-simea.webp"
         }
       ]
     },
     "extended-moana-2-matangi": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-moana-2-matangi--9094.webp",
@@ -1731,12 +1731,12 @@
           "width": 525,
           "height": 700,
           "sha256": "5c7029f898303d9f88e7815469b33fc998709ac7eedb4592e78a207484a03859",
-          "publishedPath": ""
+          "publishedPath": "images/extended-moana-2-matangi.webp"
         }
       ]
     },
     "extended-moana-2-moni": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-moana-2-moni--9184.webp",
@@ -1748,7 +1748,7 @@
           "width": 465,
           "height": 700,
           "sha256": "bc98950e7f8de44f79f2a74929f4fae58b2f023ee11f50c320f394e9ae86e448",
-          "publishedPath": ""
+          "publishedPath": "images/extended-moana-2-moni.webp"
         }
       ]
     },
@@ -1757,7 +1757,7 @@
       "candidates": []
     },
     "extended-moana-2-kele": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-moana-2-kele--8885.webp",
@@ -1769,12 +1769,12 @@
           "width": 588,
           "height": 700,
           "sha256": "74067f9240cbee94ccdf415364369d425bc521194614fabd6ce9e42fa8e504fe",
-          "publishedPath": ""
+          "publishedPath": "images/extended-moana-2-kele.webp"
         }
       ]
     },
     "extended-moana-2-nalo": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-moana-2-nalo--9256.webp",
@@ -1786,12 +1786,12 @@
           "width": 700,
           "height": 406,
           "sha256": "e3d05de9f7b474a442096d5fb04078deab1b1682dffd894a9141d51ce2a5f4ad",
-          "publishedPath": ""
+          "publishedPath": "images/extended-moana-2-nalo.webp"
         }
       ]
     },
     "extended-zootopia-chief-bogo": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-zootopia-chief-bogo--747.webp",
@@ -1803,12 +1803,12 @@
           "width": 700,
           "height": 700,
           "sha256": "191eebaff100ada99ef4a4b69dd1f35b104266c7cffc23330494facb31ca771c",
-          "publishedPath": ""
+          "publishedPath": "images/extended-zootopia-chief-bogo.webp"
         }
       ]
     },
     "extended-zootopia-mayor-lionheart": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-zootopia-mayor-lionheart--4358.webp",
@@ -1820,12 +1820,12 @@
           "width": 696,
           "height": 697,
           "sha256": "426e9dd4d2fd35e7e31868cf829f49971ddda12d363ad09f7a75501c10cd5799",
-          "publishedPath": ""
+          "publishedPath": "images/extended-zootopia-mayor-lionheart.webp"
         }
       ]
     },
     "extended-zootopia-mr-big": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-zootopia-mr-big--638.webp",
@@ -1837,7 +1837,7 @@
           "width": 700,
           "height": 700,
           "sha256": "34f2c7943a304e1728ebcf0ecf9da6f22fc14c210fbb6327afa75c33940ec888",
-          "publishedPath": ""
+          "publishedPath": "images/extended-zootopia-mr-big.webp"
         },
         {
           "path": "images/new-candidates/extended-zootopia-mr-big--637.webp",
@@ -1854,7 +1854,7 @@
       ]
     },
     "extended-zootopia-finnick": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-zootopia-finnick--2313.webp",
@@ -1866,12 +1866,12 @@
           "width": 601,
           "height": 700,
           "sha256": "230ed7287d631eae0b2e11a2b67451579713e345cdd7196ba6f4ef703d5fc6d5",
-          "publishedPath": ""
+          "publishedPath": "images/extended-zootopia-finnick.webp"
         }
       ]
     },
     "extended-zootopia-yax": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-zootopia-yax--7424.webp",
@@ -1883,12 +1883,12 @@
           "width": 700,
           "height": 652,
           "sha256": "ec99159ba58858ef47440f2cf2eecfa51c7eeb3c8a5495d33f3e503d45b82874",
-          "publishedPath": ""
+          "publishedPath": "images/extended-zootopia-yax.webp"
         }
       ]
     },
     "extended-zootopia-duke-weaselton": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-zootopia-duke-weaselton--7205.webp",
@@ -1900,12 +1900,12 @@
           "width": 543,
           "height": 700,
           "sha256": "6dbdeb6286e18182ad5aae8980351fc11ddfb39c2f3687a71a40ce8eccf6b63d",
-          "publishedPath": ""
+          "publishedPath": "images/extended-zootopia-duke-weaselton.webp"
         }
       ]
     },
     "extended-zootopia-fru-fru": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-zootopia-fru-fru--2503.webp",
@@ -1917,12 +1917,12 @@
           "width": 411,
           "height": 414,
           "sha256": "ac531fb6526da6242b8ae2c4cb23ff9738038639dc87d05d4c9e29ecfa6d90b7",
-          "publishedPath": ""
+          "publishedPath": "images/extended-zootopia-fru-fru.webp"
         }
       ]
     },
     "extended-zootopia-2-gary-de-snake": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-zootopia-2-gary-de-snake--8525.webp",
@@ -1934,12 +1934,12 @@
           "width": 559,
           "height": 700,
           "sha256": "a801565f265a36dc263400948049a284fabab3641f992413470d63de11924135",
-          "publishedPath": ""
+          "publishedPath": "images/extended-zootopia-2-gary-de-snake.webp"
         }
       ]
     },
     "extended-zootopia-2-nibbles-maplestick": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-zootopia-2-nibbles-maplestick--9282.webp",
@@ -1951,7 +1951,7 @@
           "width": 700,
           "height": 684,
           "sha256": "be59c3ebdb6f11dc2f2ec6ad33ee58c9fa77765fd8d43e213132916794b972b3",
-          "publishedPath": ""
+          "publishedPath": "images/extended-zootopia-2-nibbles-maplestick.webp"
         }
       ]
     },
@@ -1964,7 +1964,7 @@
       "candidates": []
     },
     "extended-zootopia-2-mayor-winddancer": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-zootopia-2-mayor-winddancer--9117.webp",
@@ -1976,7 +1976,7 @@
           "width": 700,
           "height": 522,
           "sha256": "93331c502dc8c6c26eaec9b87684534d9f7d52a6238864a802c20206692da747",
-          "publishedPath": ""
+          "publishedPath": "images/extended-zootopia-2-mayor-winddancer.webp"
         }
       ]
     },
@@ -1985,7 +1985,7 @@
       "candidates": []
     },
     "extended-lilo-stitch-cobra-bubbles": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-lilo-stitch-cobra-bubbles--8034.webp",
@@ -2009,12 +2009,12 @@
           "width": 700,
           "height": 577,
           "sha256": "6a0a4104b4d39129cc5d80a2cac75c721a8b32e63b0d3cef3ad457d3ecce285c",
-          "publishedPath": ""
+          "publishedPath": "images/extended-lilo-stitch-cobra-bubbles.webp"
         }
       ]
     },
     "extended-lilo-stitch-david-kawena": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-lilo-stitch-david-kawena--3607.webp",
@@ -2026,7 +2026,7 @@
           "width": 594,
           "height": 700,
           "sha256": "b773a31aec3161432b4baa1f5964faa9484ec3b41e62609457bbc2ace7e94298",
-          "publishedPath": ""
+          "publishedPath": "images/extended-lilo-stitch-david-kawena.webp"
         },
         {
           "path": "images/new-candidates/extended-lilo-stitch-david-kawena--8883.webp",
@@ -2043,7 +2043,7 @@
       ]
     },
     "extended-lilo-stitch-grand-councilwoman": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-lilo-stitch-grand-councilwoman--8605.webp",
@@ -2055,7 +2055,7 @@
           "width": 700,
           "height": 674,
           "sha256": "a1c6e9c38f50d54813161dd7aa5f69ffe651de658b3f6c920040f828337327bb",
-          "publishedPath": ""
+          "publishedPath": "images/extended-lilo-stitch-grand-councilwoman.webp"
         }
       ],
       "errors": [
@@ -2063,7 +2063,7 @@
       ]
     },
     "extended-lilo-stitch-reuben": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-lilo-stitch-reuben--5685.webp",
@@ -2075,12 +2075,12 @@
           "width": 317,
           "height": 333,
           "sha256": "826bf9989960864ce29e59a70d7b25c3cb218ef43fd4e6efd18f43d96e880fad",
-          "publishedPath": ""
+          "publishedPath": "images/extended-lilo-stitch-reuben.webp"
         }
       ]
     },
     "extended-lilo-stitch-leroy": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-lilo-stitch-leroy--3888.webp",
@@ -2092,7 +2092,7 @@
           "width": 382,
           "height": 356,
           "sha256": "4bcc1f187f720150e4e33c53deed6366c348cb3d59daa5dd3b4578c5bb229481",
-          "publishedPath": ""
+          "publishedPath": "images/extended-lilo-stitch-leroy.webp"
         }
       ]
     },
@@ -2133,7 +2133,7 @@
       ]
     },
     "extended-peter-pan-john-darling": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-peter-pan-john-darling--1639.webp",
@@ -2145,7 +2145,7 @@
           "width": 577,
           "height": 700,
           "sha256": "17c2d320d48172d14276bb8c96817f1c747fcb98d3a53c6d722087c0618952e8",
-          "publishedPath": ""
+          "publishedPath": "images/extended-peter-pan-john-darling.webp"
         },
         {
           "path": "images/new-candidates/extended-peter-pan-john-darling--8838.webp",
@@ -2162,7 +2162,7 @@
       ]
     },
     "extended-peter-pan-michael-darling": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-peter-pan-michael-darling--1640.webp",
@@ -2174,12 +2174,12 @@
           "width": 511,
           "height": 700,
           "sha256": "1a7a72553477b7d1fc5bc7d0c533cc405a3e281aac53f3ab8a373d0c2fcbc9c1",
-          "publishedPath": ""
+          "publishedPath": "images/extended-peter-pan-michael-darling.webp"
         }
       ]
     },
     "extended-peter-pan-tiger-lily": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-peter-pan-tiger-lily--6747.webp",
@@ -2191,7 +2191,7 @@
           "width": 489,
           "height": 700,
           "sha256": "893dfa12b64ff32da29cd6b2397dcaa38bc0ecb3091020b5537b9ca32caf233b",
-          "publishedPath": ""
+          "publishedPath": "images/extended-peter-pan-tiger-lily.webp"
         },
         {
           "path": "images/new-candidates/extended-peter-pan-tiger-lily--6748.webp",
@@ -2208,7 +2208,7 @@
       ]
     },
     "extended-peter-pan-nana": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-peter-pan-nana--4793.webp",
@@ -2220,7 +2220,7 @@
           "width": 675,
           "height": 700,
           "sha256": "002537c8271be9fc41191314b166817ba719e47868194f2a602b66a553d97b52",
-          "publishedPath": ""
+          "publishedPath": "images/extended-peter-pan-nana.webp"
         }
       ],
       "errors": [
@@ -2261,7 +2261,7 @@
       ]
     },
     "extended-winnie-the-pooh-christopher-robin": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-winnie-the-pooh-christopher-robin--5742.webp",
@@ -2273,7 +2273,7 @@
           "width": 546,
           "height": 700,
           "sha256": "0e514baef1afd172f8a8519a067aabe289ecaeb6a66135efcbaaebef650a14d3",
-          "publishedPath": ""
+          "publishedPath": "images/extended-winnie-the-pooh-christopher-robin.webp"
         }
       ]
     },
@@ -2307,7 +2307,7 @@
       ]
     },
     "extended-pooh-s-heffalump-movie-lumpy": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-pooh-s-heffalump-movie-lumpy--4081.webp",
@@ -2319,12 +2319,12 @@
           "width": 449,
           "height": 436,
           "sha256": "4ac38d939b85241a8f7dda2f19ab3ccbfbaaf7ffab0c29c27edc80ebd1eadfd7",
-          "publishedPath": ""
+          "publishedPath": "images/extended-pooh-s-heffalump-movie-lumpy.webp"
         }
       ]
     },
     "extended-bambi-faline": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-bambi-faline--2206.webp",
@@ -2336,12 +2336,12 @@
           "width": 512,
           "height": 655,
           "sha256": "0f991e28dbd18e4a8e40b5e29a8a969778b499150ae67756246a2092265e445b",
-          "publishedPath": ""
+          "publishedPath": "images/extended-bambi-faline.webp"
         }
       ]
     },
     "extended-bambi-friend-owl": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-bambi-friend-owl--5085.webp",
@@ -2353,7 +2353,7 @@
           "width": 597,
           "height": 700,
           "sha256": "dc85cfe68b1f2356109caee3101778e6898574998a0769d555f12c8115ca28f8",
-          "publishedPath": ""
+          "publishedPath": "images/extended-bambi-friend-owl.webp"
         }
       ]
     },
@@ -2375,7 +2375,7 @@
       ]
     },
     "extended-the-aristocats-edgar": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-aristocats-edgar--8374.webp",
@@ -2387,7 +2387,7 @@
           "width": 688,
           "height": 700,
           "sha256": "b695faea38db5a240000e44e19d42e09b1874d332349fe46d90dd128b4cc35a2",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-aristocats-edgar.webp"
         },
         {
           "path": "images/new-candidates/extended-the-aristocats-edgar--8373.webp",
@@ -2404,7 +2404,7 @@
       ]
     },
     "extended-the-aristocats-scat-cat": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-aristocats-scat-cat--5992.webp",
@@ -2416,12 +2416,12 @@
           "width": 700,
           "height": 687,
           "sha256": "acff13b30e21d2ce9385bd0f68c783b503802f8651b1b032489dc5663b2500c7",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-aristocats-scat-cat.webp"
         }
       ]
     },
     "extended-the-aristocats-roquefort": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-aristocats-roquefort--5819.webp",
@@ -2433,7 +2433,7 @@
           "width": 435,
           "height": 498,
           "sha256": "09b1babde326f9a3dada7f4f4e5803d49bc9f3940f4c58aabc0d76567dd6cd5e",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-aristocats-roquefort.webp"
         }
       ]
     },
@@ -2791,7 +2791,7 @@
       "candidates": []
     },
     "extended-incredibles-2-brick": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-incredibles-2-brick--853.webp",
@@ -2803,7 +2803,7 @@
           "width": 367,
           "height": 465,
           "sha256": "4386d5b64fa7c65a2bbfc8e6480e1245c254a533e6245d782844c471f079a6c9",
-          "publishedPath": ""
+          "publishedPath": "images/extended-incredibles-2-brick.webp"
         }
       ]
     },
@@ -3150,7 +3150,7 @@
       "candidates": []
     },
     "extended-encanto-julieta-madrigal": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-encanto-julieta-madrigal--8859.webp",
@@ -3162,12 +3162,12 @@
           "width": 563,
           "height": 700,
           "sha256": "e4f40218430ad47c675137a679c259aa8ab2ae1a5d0e567eff6f07bd4ca3b97f",
-          "publishedPath": ""
+          "publishedPath": "images/extended-encanto-julieta-madrigal.webp"
         }
       ]
     },
     "extended-encanto-agustin-madrigal": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-encanto-agustin-madrigal--7742.webp",
@@ -3179,12 +3179,12 @@
           "width": 386,
           "height": 600,
           "sha256": "e40d570dd92afc1d31068d7c42e254c18deaef43e549c53ff33069257f33c738",
-          "publishedPath": ""
+          "publishedPath": "images/extended-encanto-agustin-madrigal.webp"
         }
       ]
     },
     "extended-encanto-pepa-madrigal": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-encanto-pepa-madrigal--9409.webp",
@@ -3196,12 +3196,12 @@
           "width": 449,
           "height": 700,
           "sha256": "17061aa77d63caa86229ef47a3619cfb6ff688f2d0a4cd8cabfd4a5a50cedc48",
-          "publishedPath": ""
+          "publishedPath": "images/extended-encanto-pepa-madrigal.webp"
         }
       ]
     },
     "extended-encanto-felix-madrigal": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-encanto-felix-madrigal--8513.webp",
@@ -3213,12 +3213,12 @@
           "width": 700,
           "height": 643,
           "sha256": "cef0bf81e0cf09e51d637196700afe783202b3fbc2fa05e4c12d0326a84df006",
-          "publishedPath": ""
+          "publishedPath": "images/extended-encanto-felix-madrigal.webp"
         }
       ]
     },
     "extended-encanto-dolores-madrigal": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-encanto-dolores-madrigal--8317.webp",
@@ -3230,12 +3230,12 @@
           "width": 511,
           "height": 700,
           "sha256": "686cffec0822a5313347848d94f69ff9d15fcc1901db4404c135a245ca4f59db",
-          "publishedPath": ""
+          "publishedPath": "images/extended-encanto-dolores-madrigal.webp"
         }
       ]
     },
     "extended-encanto-camilo-madrigal": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-encanto-camilo-madrigal--8070.webp",
@@ -3247,12 +3247,12 @@
           "width": 540,
           "height": 700,
           "sha256": "502de11c869b3582d07310d97f80740638bbd69e28966f3314bf717ac63ee658",
-          "publishedPath": ""
+          "publishedPath": "images/extended-encanto-camilo-madrigal.webp"
         }
       ]
     },
     "extended-encanto-antonio-madrigal": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-encanto-antonio-madrigal--7793.webp",
@@ -3264,12 +3264,12 @@
           "width": 579,
           "height": 700,
           "sha256": "70e37c2be396f4ab87545432f62e0dece81557e079f723151c8146c0522ee1c4",
-          "publishedPath": ""
+          "publishedPath": "images/extended-encanto-antonio-madrigal.webp"
         }
       ]
     },
     "extended-encanto-mariano-guzman": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-encanto-mariano-guzman--9079.webp",
@@ -3281,12 +3281,12 @@
           "width": 700,
           "height": 700,
           "sha256": "5aea1edbe06a2d39451385e6d2cf773e25b81e0f3165bc79f0aeaf2343ea9860",
-          "publishedPath": ""
+          "publishedPath": "images/extended-encanto-mariano-guzman.webp"
         }
       ]
     },
     "extended-big-hero-6-aunt-cass": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-big-hero-6-aunt-cass--363.webp",
@@ -3298,7 +3298,7 @@
           "width": 355,
           "height": 528,
           "sha256": "00aa1d3ee2fe0c4a316dfafd7221ca5cf5e277679605d71108934221032112b7",
-          "publishedPath": ""
+          "publishedPath": "images/extended-big-hero-6-aunt-cass.webp"
         }
       ]
     },
@@ -3307,7 +3307,7 @@
       "candidates": []
     },
     "extended-big-hero-6-mochi": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-big-hero-6-mochi--4593.webp",
@@ -3319,12 +3319,12 @@
           "width": 700,
           "height": 434,
           "sha256": "579a08b1958cb085bf1c3fe4d84a36f10bea432fe8ad5a938a1b5928acc230c3",
-          "publishedPath": ""
+          "publishedPath": "images/extended-big-hero-6-mochi.webp"
         }
       ]
     },
     "extended-hercules-zeus": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-hercules-zeus--7489.webp",
@@ -3336,7 +3336,7 @@
           "width": 594,
           "height": 700,
           "sha256": "1bebc0eec22376b75bcf08e20d0ef08759b0e9f7789245e0240b04b69b2c1172",
-          "publishedPath": ""
+          "publishedPath": "images/extended-hercules-zeus.webp"
         },
         {
           "path": "images/new-candidates/extended-hercules-zeus--7487.webp",
@@ -3353,7 +3353,7 @@
       ]
     },
     "extended-hercules-hera": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-hercules-hera--3077.webp",
@@ -3365,7 +3365,7 @@
           "width": 700,
           "height": 623,
           "sha256": "b3f50d804168da0b25264958c0416bfebee5263a0d89a7a489dcfae724ba724a",
-          "publishedPath": ""
+          "publishedPath": "images/extended-hercules-hera.webp"
         }
       ]
     },
@@ -3378,7 +3378,7 @@
       "candidates": []
     },
     "extended-hercules-hermes": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-hercules-hermes--3086.webp",
@@ -3390,12 +3390,12 @@
           "width": 375,
           "height": 700,
           "sha256": "d5fbfeac4390d327e32f7a351deb18cbe5467e9ba8fd763b1cf453bdc40d12a9",
-          "publishedPath": ""
+          "publishedPath": "images/extended-hercules-hermes.webp"
         }
       ]
     },
     "extended-the-jungle-book-colonel-hathi": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-jungle-book-colonel-hathi--3007.webp",
@@ -3407,7 +3407,7 @@
           "width": 653,
           "height": 700,
           "sha256": "af65c9e80c73bbdb21a56d8d8d4c4a30644f0d6f00c8bd4eaa521391e06747c2",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-jungle-book-colonel-hathi.webp"
         },
         {
           "path": "images/new-candidates/extended-the-jungle-book-colonel-hathi--8212.webp",
@@ -3490,7 +3490,7 @@
       "candidates": []
     },
     "extended-alice-in-wonderland-caterpillar": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-alice-in-wonderland-caterpillar--1124.webp",
@@ -3502,12 +3502,12 @@
           "width": 620,
           "height": 700,
           "sha256": "16bf539ec843a376828e549238c4ac6b7904e65f90d235d24fbc4f0605363e7c",
-          "publishedPath": ""
+          "publishedPath": "images/extended-alice-in-wonderland-caterpillar.webp"
         }
       ]
     },
     "extended-alice-in-wonderland-march-hare": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-alice-in-wonderland-march-hare--4230.webp",
@@ -3519,12 +3519,12 @@
           "width": 448,
           "height": 690,
           "sha256": "1d1dca7ed8ad33380a2eb6519a2061264692c871d8ccee255b36caced6c753e2",
-          "publishedPath": ""
+          "publishedPath": "images/extended-alice-in-wonderland-march-hare.webp"
         }
       ]
     },
     "extended-alice-in-wonderland-dormouse": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-alice-in-wonderland-dormouse--1875.webp",
@@ -3536,7 +3536,7 @@
           "width": 700,
           "height": 531,
           "sha256": "02c08ab760099ff960b26dd0ca58706979cc6228c970e99c4908e3fbe82438ef",
-          "publishedPath": ""
+          "publishedPath": "images/extended-alice-in-wonderland-dormouse.webp"
         }
       ]
     },
@@ -3545,7 +3545,7 @@
       "candidates": []
     },
     "extended-alice-in-wonderland-dodo": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-alice-in-wonderland-dodo--1829.webp",
@@ -3557,7 +3557,7 @@
           "width": 700,
           "height": 531,
           "sha256": "40441564f9faa206bd9dfd40e40907996f83a36108653b458562700fa85c12d4",
-          "publishedPath": ""
+          "publishedPath": "images/extended-alice-in-wonderland-dodo.webp"
         }
       ]
     },
@@ -3720,7 +3720,7 @@
       ]
     },
     "extended-the-nightmare-before-christmas-dr-finkelstein": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-nightmare-before-christmas-dr-finkelstein--2306.webp",
@@ -3732,7 +3732,7 @@
           "width": 700,
           "height": 525,
           "sha256": "d815550de3ab6785c2cb3576655e4a196ec407a1c94633c23ff0a156fff98110",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-nightmare-before-christmas-dr-finkelstein.webp"
         }
       ]
     },
@@ -3791,7 +3791,7 @@
       ]
     },
     "extended-wish-queen-amaya": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-wish-queen-amaya--7768.webp",
@@ -3803,12 +3803,12 @@
           "width": 593,
           "height": 700,
           "sha256": "8e015ce36266cc1823bbace912387d6624ccb6c7d8be5cdf529cbe2a5c2eae02",
-          "publishedPath": ""
+          "publishedPath": "images/extended-wish-queen-amaya.webp"
         }
       ]
     },
     "extended-wish-dahlia": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-wish-dahlia--8256.webp",
@@ -3820,7 +3820,7 @@
           "width": 666,
           "height": 667,
           "sha256": "7059efb1176961434ed6333c0e0ddafb623f8a9afe0c262a064f7575d03f182d",
-          "publishedPath": ""
+          "publishedPath": "images/extended-wish-dahlia.webp"
         },
         {
           "path": "images/new-candidates/extended-wish-dahlia--8255.webp",
@@ -3837,7 +3837,7 @@
       ]
     },
     "extended-wish-simon": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-wish-simon--9739.webp",
@@ -3849,7 +3849,7 @@
           "width": 700,
           "height": 627,
           "sha256": "932dccf8e42a60bd5022e2e0ff4b98f57afcce8b47b4bb28325c448cc0a1ca2a",
-          "publishedPath": ""
+          "publishedPath": "images/extended-wish-simon.webp"
         },
         {
           "path": "images/new-candidates/extended-wish-simon--6162.webp",
@@ -3866,7 +3866,7 @@
       ]
     },
     "extended-wish-gabo": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-wish-gabo--8516.webp",
@@ -3878,12 +3878,12 @@
           "width": 700,
           "height": 662,
           "sha256": "b6340dd54fd6dea2d3a688398c91aaaaaac39a753462831c7b8cebb911119f80",
-          "publishedPath": ""
+          "publishedPath": "images/extended-wish-gabo.webp"
         }
       ]
     },
     "extended-wish-safi": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-wish-safi--9640.webp",
@@ -3895,7 +3895,7 @@
           "width": 532,
           "height": 700,
           "sha256": "afeb21c194f97c6b7d2a53bcbef3e4160806cdba202c97516936184b830067ee",
-          "publishedPath": ""
+          "publishedPath": "images/extended-wish-safi.webp"
         }
       ]
     },
@@ -3925,7 +3925,7 @@
       ]
     },
     "extended-the-good-dinosaur-libby": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-good-dinosaur-libby--3910.webp",
@@ -3937,7 +3937,7 @@
           "width": 390,
           "height": 695,
           "sha256": "cbcadd4e71134b077f0ede95130e83049b9361420e13638eb4f65d0ab8dca528",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-good-dinosaur-libby.webp"
         },
         {
           "path": "images/new-candidates/extended-the-good-dinosaur-libby--3911.webp",
@@ -4012,7 +4012,7 @@
       "candidates": []
     },
     "extended-raya-and-the-last-dragon-tong": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-raya-and-the-last-dragon-tong--6827.webp",
@@ -4024,12 +4024,12 @@
           "width": 700,
           "height": 366,
           "sha256": "e64408c15b4d8af955133f98e108e2b47ebd77ad017f6a7bbca9d90f4b0a8c10",
-          "publishedPath": ""
+          "publishedPath": "images/extended-raya-and-the-last-dragon-tong.webp"
         }
       ]
     },
     "extended-raya-and-the-last-dragon-chief-benja": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-raya-and-the-last-dragon-chief-benja--1227.webp",
@@ -4041,7 +4041,7 @@
           "width": 380,
           "height": 503,
           "sha256": "64ac204662418c0c78f2e36fcd286cb5267534641d53e7df03b7a2e5aefc6450",
-          "publishedPath": ""
+          "publishedPath": "images/extended-raya-and-the-last-dragon-chief-benja.webp"
         }
       ]
     },
@@ -4129,7 +4129,7 @@
       "candidates": []
     },
     "extended-pinocchio-pinocchio": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-pinocchio-pinocchio--9442.webp",
@@ -4153,12 +4153,12 @@
           "width": 590,
           "height": 700,
           "sha256": "ccc33b79ebe5e8ae2c25fc3d8a23f3c9e30c294a8bcf7f28800c2f8f07a598e6",
-          "publishedPath": ""
+          "publishedPath": "images/extended-pinocchio-pinocchio.webp"
         }
       ]
     },
     "extended-pinocchio-jiminy-cricket": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-pinocchio-jiminy-cricket--1525.webp",
@@ -4170,7 +4170,7 @@
           "width": 525,
           "height": 700,
           "sha256": "2b50257cb83917ee4f55ac1e1c817b3ac79b1afd89bc43098c9fa20277af7efe",
-          "publishedPath": ""
+          "publishedPath": "images/extended-pinocchio-jiminy-cricket.webp"
         },
         {
           "path": "images/new-candidates/extended-pinocchio-jiminy-cricket--8823.webp",
@@ -4187,7 +4187,7 @@
       ]
     },
     "extended-pinocchio-geppetto": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-pinocchio-geppetto--2622.webp",
@@ -4199,7 +4199,7 @@
           "width": 647,
           "height": 700,
           "sha256": "3bd245642b284c4e3b15bb9f2012e540b8bcdf85461b581e0db16fc74a199902",
-          "publishedPath": ""
+          "publishedPath": "images/extended-pinocchio-geppetto.webp"
         },
         {
           "path": "images/new-candidates/extended-pinocchio-geppetto--8545.webp",
@@ -4216,7 +4216,7 @@
       ]
     },
     "extended-pinocchio-figaro": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-pinocchio-figaro--2293.webp",
@@ -4228,7 +4228,7 @@
           "width": 525,
           "height": 700,
           "sha256": "316407ca8ba8c27448b27b3a361e11d3471e6f330652741a059df4b323fa7ae6",
-          "publishedPath": ""
+          "publishedPath": "images/extended-pinocchio-figaro.webp"
         },
         {
           "path": "images/new-candidates/extended-pinocchio-figaro--8452.webp",
@@ -4245,7 +4245,7 @@
       ]
     },
     "extended-pinocchio-cleo": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-pinocchio-cleo--1335.webp",
@@ -4257,7 +4257,7 @@
           "width": 660,
           "height": 660,
           "sha256": "ca301db02f35dcfb9f1334e1b96eba316857238a2186b983f88725a5a969050c",
-          "publishedPath": ""
+          "publishedPath": "images/extended-pinocchio-cleo.webp"
         },
         {
           "path": "images/new-candidates/extended-pinocchio-cleo--8193.webp",
@@ -4278,7 +4278,7 @@
       "candidates": []
     },
     "extended-pinocchio-honest-john": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-pinocchio-honest-john--3153.webp",
@@ -4290,7 +4290,7 @@
           "width": 666,
           "height": 700,
           "sha256": "9c53d27a3833dd367c3aeea568b99fc4f1092c647582b3bb667fcb851abba3fc",
-          "publishedPath": ""
+          "publishedPath": "images/extended-pinocchio-honest-john.webp"
         },
         {
           "path": "images/new-candidates/extended-pinocchio-honest-john--8726.webp",
@@ -4307,7 +4307,7 @@
       ]
     },
     "extended-pinocchio-gideon": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-pinocchio-gideon--2655.webp",
@@ -4319,7 +4319,7 @@
           "width": 569,
           "height": 700,
           "sha256": "8933e461625e7ddc5c149cb05c84a448fafaf0ba9a917aafb92c19a540d7f2a1",
-          "publishedPath": ""
+          "publishedPath": "images/extended-pinocchio-gideon.webp"
         },
         {
           "path": "images/new-candidates/extended-pinocchio-gideon--8567.webp",
@@ -4336,7 +4336,7 @@
       ]
     },
     "extended-pinocchio-stromboli": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-pinocchio-stromboli--6473.webp",
@@ -4348,7 +4348,7 @@
           "width": 700,
           "height": 650,
           "sha256": "9e37436b9196a007980c7f14c0cc118a90b68cc709634ea4810e02fe3a7fb152",
-          "publishedPath": ""
+          "publishedPath": "images/extended-pinocchio-stromboli.webp"
         },
         {
           "path": "images/new-candidates/extended-pinocchio-stromboli--9829.webp",
@@ -4365,7 +4365,7 @@
       ]
     },
     "extended-pinocchio-monstro": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-pinocchio-monstro--9187.webp",
@@ -4389,12 +4389,12 @@
           "width": 700,
           "height": 521,
           "sha256": "f015c3c9049377f9ef2545efed30d5fd55c9a563ac51379deb5b9584282944af",
-          "publishedPath": ""
+          "publishedPath": "images/extended-pinocchio-monstro.webp"
         }
       ]
     },
     "extended-tarzan-tarzan": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-tarzan-tarzan--6610.webp",
@@ -4406,12 +4406,12 @@
           "width": 700,
           "height": 694,
           "sha256": "bc4280ba5730ef681c204c135a04b2e286aa67a58c07c8fd3d6752a1b74f3c82",
-          "publishedPath": ""
+          "publishedPath": "images/extended-tarzan-tarzan.webp"
         }
       ]
     },
     "extended-tarzan-jane-porter": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-tarzan-jane-porter--3377.webp",
@@ -4423,12 +4423,12 @@
           "width": 606,
           "height": 700,
           "sha256": "e77939780cd0d6fc7195a382ad74dbec054c7b8d15a5e7dbceac80f38a180448",
-          "publishedPath": ""
+          "publishedPath": "images/extended-tarzan-jane-porter.webp"
         }
       ]
     },
     "extended-tarzan-kala": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-tarzan-kala--3581.webp",
@@ -4440,12 +4440,12 @@
           "width": 700,
           "height": 677,
           "sha256": "6b1057ab7f547ecaae87f0e4c364249306721b4cbeb36238e1152612df7f90b5",
-          "publishedPath": ""
+          "publishedPath": "images/extended-tarzan-kala.webp"
         }
       ]
     },
     "extended-tarzan-kerchak": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-tarzan-kerchak--3638.webp",
@@ -4457,12 +4457,12 @@
           "width": 700,
           "height": 593,
           "sha256": "13e12909ad94cde801b54ea9c6916ea3e7347d624c3515e01fded759449599e1",
-          "publishedPath": ""
+          "publishedPath": "images/extended-tarzan-kerchak.webp"
         }
       ]
     },
     "extended-tarzan-terk": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-tarzan-terk--6644.webp",
@@ -4474,12 +4474,12 @@
           "width": 700,
           "height": 658,
           "sha256": "17405b0fe7d3f351f1a4eff893c7d905a72ec227e423d1d5a8f129943225fc91",
-          "publishedPath": ""
+          "publishedPath": "images/extended-tarzan-terk.webp"
         }
       ]
     },
     "extended-tarzan-tantor": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-tarzan-tantor--6596.webp",
@@ -4491,12 +4491,12 @@
           "width": 700,
           "height": 509,
           "sha256": "4e1ff5abe06294ad0fa6994c1d4f83df565d4344b6cdd7169fd40e8c83fe68c7",
-          "publishedPath": ""
+          "publishedPath": "images/extended-tarzan-tantor.webp"
         }
       ]
     },
     "extended-tarzan-clayton": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-tarzan-clayton--1330.webp",
@@ -4508,12 +4508,12 @@
           "width": 700,
           "height": 605,
           "sha256": "72ca643e3a717cfc2e55033469196d21d360ca049b4499e4534573b4426fb82b",
-          "publishedPath": ""
+          "publishedPath": "images/extended-tarzan-clayton.webp"
         }
       ]
     },
     "extended-atlantis-the-lost-empire-milo-thatch": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-atlantis-the-lost-empire-milo-thatch--6664.webp",
@@ -4525,7 +4525,7 @@
           "width": 450,
           "height": 517,
           "sha256": "d7a550c6b017b62ee08fd4d47c0a43380d2f37b4b1db315f26adce2691d7b6a7",
-          "publishedPath": ""
+          "publishedPath": "images/extended-atlantis-the-lost-empire-milo-thatch.webp"
         }
       ]
     },
@@ -4722,7 +4722,7 @@
       ]
     },
     "extended-the-hunchback-of-notre-dame-quasimodo": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-hunchback-of-notre-dame-quasimodo--5535.webp",
@@ -4734,7 +4734,7 @@
           "width": 685,
           "height": 700,
           "sha256": "73c06571ec89177fd51738af79335f85a79d131cff7c424ab481b845f44fd17f",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-hunchback-of-notre-dame-quasimodo.webp"
         },
         {
           "path": "images/new-candidates/extended-the-hunchback-of-notre-dame-quasimodo--9519.webp",
@@ -4751,7 +4751,7 @@
       ]
     },
     "extended-the-hunchback-of-notre-dame-esmeralda": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-hunchback-of-notre-dame-esmeralda--2142.webp",
@@ -4763,7 +4763,7 @@
           "width": 672,
           "height": 700,
           "sha256": "e4298352b90a20d2b79da31dacdde828b2a38428f6da5441067e89d39f7858c1",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-hunchback-of-notre-dame-esmeralda.webp"
         }
       ],
       "errors": [
@@ -4771,7 +4771,7 @@
       ]
     },
     "extended-the-hunchback-of-notre-dame-phoebus": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-hunchback-of-notre-dame-phoebus--5285.webp",
@@ -4783,7 +4783,7 @@
           "width": 684,
           "height": 700,
           "sha256": "ee7f9f902356f30d85fef203f46fa56df8ccbba0d0a8c86b8a16036e47a37c61",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-hunchback-of-notre-dame-phoebus.webp"
         }
       ]
     },
@@ -4792,7 +4792,7 @@
       "candidates": []
     },
     "extended-the-hunchback-of-notre-dame-clopin": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-hunchback-of-notre-dame-clopin--1346.webp",
@@ -4804,12 +4804,12 @@
           "width": 700,
           "height": 618,
           "sha256": "957af78fee5784742f997709d5f713db85f714969a13d0694ad731e9e999c97f",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-hunchback-of-notre-dame-clopin.webp"
         }
       ]
     },
     "extended-the-hunchback-of-notre-dame-djali": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-hunchback-of-notre-dame-djali--1815.webp",
@@ -4821,12 +4821,12 @@
           "width": 449,
           "height": 427,
           "sha256": "b9edeb96155fed0b0bf48577de214fed6c9a1387bd1bc00367a84a14092ae2d8",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-hunchback-of-notre-dame-djali.webp"
         }
       ]
     },
     "extended-robin-hood-robin-hood": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-robin-hood-robin-hood--5738.webp",
@@ -4850,12 +4850,12 @@
           "width": 688,
           "height": 700,
           "sha256": "f3e44e9ca91e3e4b97a9f9ab2f75b4bc9fe88a340205c5a0b63b57906019a4a7",
-          "publishedPath": ""
+          "publishedPath": "images/extended-robin-hood-robin-hood.webp"
         }
       ]
     },
     "extended-robin-hood-maid-marian": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-robin-hood-maid-marian--4157.webp",
@@ -4867,7 +4867,7 @@
           "width": 531,
           "height": 700,
           "sha256": "0b470eb8efecca1ad85cef6d7353b64a8ddffc102ad519eb3af7cdef763b5445",
-          "publishedPath": ""
+          "publishedPath": "images/extended-robin-hood-maid-marian.webp"
         },
         {
           "path": "images/new-candidates/extended-robin-hood-maid-marian--4158.webp",
@@ -4884,7 +4884,7 @@
       ]
     },
     "extended-robin-hood-little-john": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-robin-hood-little-john--3965.webp",
@@ -4908,7 +4908,7 @@
           "width": 625,
           "height": 700,
           "sha256": "e6aa4c833b6fccd9bd95b14b202a2d0cba86903e568c5f8b222b3fd64d9be590",
-          "publishedPath": ""
+          "publishedPath": "images/extended-robin-hood-little-john.webp"
         }
       ]
     },
@@ -4942,7 +4942,7 @@
       ]
     },
     "extended-robin-hood-sir-hiss": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-robin-hood-sir-hiss--3120.webp",
@@ -4954,7 +4954,7 @@
           "width": 700,
           "height": 671,
           "sha256": "d063c18c29fab9802370f6fef1912ea485f898abdfa790c397d1d37d336ac7af",
-          "publishedPath": ""
+          "publishedPath": "images/extended-robin-hood-sir-hiss.webp"
         }
       ]
     },
@@ -5005,7 +5005,7 @@
       ]
     },
     "extended-the-emperor-s-new-groove-pacha": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-emperor-s-new-groove-pacha--5096.webp",
@@ -5017,7 +5017,7 @@
           "width": 528,
           "height": 700,
           "sha256": "085477ebb6444d8ade8fd1d3c858703c1e83a4093c0e8fa2fbec1970a2466237",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-emperor-s-new-groove-pacha.webp"
         }
       ]
     },
@@ -5039,7 +5039,7 @@
       ]
     },
     "extended-the-emperor-s-new-groove-kronk": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-emperor-s-new-groove-kronk--3774.webp",
@@ -5051,12 +5051,12 @@
           "width": 700,
           "height": 599,
           "sha256": "577460790617b4cbe9d0933cbb9703728711d27bec23858edd7b0a5385e86123",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-emperor-s-new-groove-kronk.webp"
         }
       ]
     },
     "extended-the-emperor-s-new-groove-chicha": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-emperor-s-new-groove-chicha--1220.webp",
@@ -5068,12 +5068,12 @@
           "width": 486,
           "height": 700,
           "sha256": "89141c6eff7a83502cabe1ed7b8d932acc31161b8d0557a449ecd684fbdd3f72",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-emperor-s-new-groove-chicha.webp"
         }
       ]
     },
     "extended-wreck-it-ralph-wreck-it-ralph": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-wreck-it-ralph-wreck-it-ralph--7381.webp",
@@ -5085,12 +5085,12 @@
           "width": 663,
           "height": 700,
           "sha256": "bad8af15cc4ae28f6f931103456827168ca76c2fbe8510c4b948f648b316f940",
-          "publishedPath": ""
+          "publishedPath": "images/extended-wreck-it-ralph-wreck-it-ralph.webp"
         }
       ]
     },
     "extended-wreck-it-ralph-vanellope-von-schweetz": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-wreck-it-ralph-vanellope-von-schweetz--7141.webp",
@@ -5102,12 +5102,12 @@
           "width": 584,
           "height": 700,
           "sha256": "a7c3bf274870f26032aada959e465ca5f82b86efd9dc7bc359d9091f4a053b67",
-          "publishedPath": ""
+          "publishedPath": "images/extended-wreck-it-ralph-vanellope-von-schweetz.webp"
         }
       ]
     },
     "extended-wreck-it-ralph-fix-it-felix-jr": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-wreck-it-ralph-fix-it-felix-jr--2260.webp",
@@ -5119,12 +5119,12 @@
           "width": 700,
           "height": 700,
           "sha256": "4a06e31977d37dd41c0900fe662d5f8fc99e624ba04e2bcff632915c384e13e2",
-          "publishedPath": ""
+          "publishedPath": "images/extended-wreck-it-ralph-fix-it-felix-jr.webp"
         }
       ]
     },
     "extended-wreck-it-ralph-sergeant-calhoun": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-wreck-it-ralph-sergeant-calhoun--1000.webp",
@@ -5136,12 +5136,12 @@
           "width": 592,
           "height": 700,
           "sha256": "15ab8dc21060537d1f3a798bfb8fdd278e86f80bf1606d6dc6849f5548528e5b",
-          "publishedPath": ""
+          "publishedPath": "images/extended-wreck-it-ralph-sergeant-calhoun.webp"
         }
       ]
     },
     "extended-wreck-it-ralph-king-candy": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-wreck-it-ralph-king-candy--1027.webp",
@@ -5153,12 +5153,12 @@
           "width": 700,
           "height": 681,
           "sha256": "31818f04694d4d4d7e99b66ca4ab553faacc714a62345627b23da4acd13dbc86",
-          "publishedPath": ""
+          "publishedPath": "images/extended-wreck-it-ralph-king-candy.webp"
         }
       ]
     },
     "extended-wreck-it-ralph-taffyta-muttonfudge": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-wreck-it-ralph-taffyta-muttonfudge--4775.webp",
@@ -5170,12 +5170,12 @@
           "width": 542,
           "height": 700,
           "sha256": "407f572bf2feaaeb20176bbfb243ce9269a390724ca503fe2548aec8edc916a6",
-          "publishedPath": ""
+          "publishedPath": "images/extended-wreck-it-ralph-taffyta-muttonfudge.webp"
         }
       ]
     },
     "extended-ralph-breaks-the-internet-shank": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-ralph-breaks-the-internet-shank--6082.webp",
@@ -5187,12 +5187,12 @@
           "width": 698,
           "height": 700,
           "sha256": "a76dd48642f3f14ac4ee636e8762702d5cd440c37d63438558f82278a84adaf1",
-          "publishedPath": ""
+          "publishedPath": "images/extended-ralph-breaks-the-internet-shank.webp"
         }
       ]
     },
     "extended-ralph-breaks-the-internet-yesss": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-ralph-breaks-the-internet-yesss--7434.webp",
@@ -5204,12 +5204,12 @@
           "width": 582,
           "height": 603,
           "sha256": "2e5f5bc9db949383b34168cfa5044c93a4b5c1770d50f8080893e9301c9873ca",
-          "publishedPath": ""
+          "publishedPath": "images/extended-ralph-breaks-the-internet-yesss.webp"
         }
       ]
     },
     "extended-ralph-breaks-the-internet-knowsmore": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-ralph-breaks-the-internet-knowsmore--3733.webp",
@@ -5221,7 +5221,7 @@
           "width": 700,
           "height": 543,
           "sha256": "82abde0266e6bcbb4be2174056b21caefd7dbb048247ba49c1147d6e13fd4e4b",
-          "publishedPath": ""
+          "publishedPath": "images/extended-ralph-breaks-the-internet-knowsmore.webp"
         }
       ]
     },
