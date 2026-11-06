@@ -1,0 +1,776 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-06T08:13:28.376779+00:00",
+  "catalog": 621,
+  "imageRegistered": 502,
+  "missing": 119,
+  "rejectedCandidates": 2,
+  "issues": [
+    {
+      "characterId": "mickey-&-friends-5",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "mickey-&-friends-6",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "mickey-&-friends-7",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "mickey-&-friends-10",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "mickey-&-friends-11",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "mickey-&-friends-12",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "snow-white-and-the-seven-dwarfs-8",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "cinderella-1",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "cinderella-2",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "cinderella-4",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "sleeping-beauty-1",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "sleeping-beauty-3",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "sleeping-beauty-4",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "sleeping-beauty-5",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "the-little-mermaid-2",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "beauty-and-the-beast-5",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "aladdin-4",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "frozen-4",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "frozen-5",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "zootopia-5",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "lilo-&-stitch-1",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "lilo-&-stitch-2",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "lilo-&-stitch-6",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "winnie-the-pooh-4",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "winnie-the-pooh-5",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "winnie-the-pooh-7",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "dumbo-0",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "toy-story-9",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "the-incredibles-0",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "the-incredibles-1",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "the-incredibles-2",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "the-incredibles-3",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "the-incredibles-4",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "the-incredibles-5",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "the-incredibles-6",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "cars-4",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "cars-5",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "ratatouille-0",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "ratatouille-1",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "ratatouille-3",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "coco-0",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "coco-1",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "coco-2",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "coco-3",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "coco-4",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "luca-2",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "elemental-2",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "big-hero-6-6",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "alice-in-wonderland-0",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "the-nightmare-before-christmas-1",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "a-bug’s-life-0",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "a-bug’s-life-1",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "a-bug’s-life-2",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "a-bug’s-life-3",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "lightyear-0",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-mickey-friends-magica-de-spell",
+      "type": "check",
+      "message": "過去に複数キャラ画像の指摘あり：現在画像を要確認"
+    },
+    {
+      "characterId": "extended-snow-white-and-the-seven-dwarfs-the-huntsman",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-cinderella-grand-duke",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-the-little-mermaid-flotsam",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-the-little-mermaid-jetsam",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-beauty-and-the-beast-babette",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-aladdin-the-sultan",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-the-lion-king-shenzi",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-the-lion-king-banzai",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-the-lion-king-ed",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-mulan-yao",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-mulan-ling",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-mulan-chien-po",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-the-princess-and-the-frog-big-daddy-la-bouff",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-tangled-the-series-cassandra",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-tangled-the-series-varian",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-tangled-the-series-lance-strongbow",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-frozen-ii-yelena",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-frozen-ii-ryder",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-moana-te-ka",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-lilo-stitch-sparky",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-peter-pan-tick-tock-crocodile",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-return-to-never-land-jane",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-the-aristocats-frou-frou",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-toy-story-3-lotso",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-toy-story-3-trixie",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-toy-story-4-ducky",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-toy-story-4-bunny",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-toy-story-4-benson",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-toy-story-3-dolly",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-monsters-inc-henry-j-waternoose",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-monsters-university-art",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-monsters-university-squishy",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-monsters-university-johnny-worthington",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-finding-nemo-squirt",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-finding-nemo-bubbles",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-finding-nemo-bloat",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-finding-nemo-deb",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-finding-nemo-peach",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-finding-nemo-gurgle",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-finding-nemo-nigel",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-finding-dory-hank",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-finding-dory-bailey",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-finding-dory-becky",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-the-incredibles-mirage",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-cars-fillmore",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-cars-sarge",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-cars-flo",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-cars-lizzie",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-cars-mack",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-cars-the-king",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-wall-e-auto",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-wall-e-captain-mccrea",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-wall-e-hal",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-up-beta",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-brave-the-witch",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-coco-mama-coco",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-coco-abuelita-elena",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-soul-moonwind",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-soul-terry",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-soul-dorothea-williams",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-elemental-cinder-lumen",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-elemental-brook-ripple",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-big-hero-6-professor-callaghan",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-hercules-pain",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-hercules-panic",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-the-jungle-book-akela",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-the-jungle-book-raksha",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-alice-in-wonderland-tweedledee",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-alice-in-wonderland-tweedledum",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-101-dalmatians-roger-radcliffe",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-101-dalmatians-jasper-badun",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-101-dalmatians-horace-badun",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-the-nightmare-before-christmas-the-mayor",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-the-nightmare-before-christmas-lock",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-the-nightmare-before-christmas-shock",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-the-nightmare-before-christmas-barrel",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-the-nightmare-before-christmas-santa-claus",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-the-good-dinosaur-buck",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-the-good-dinosaur-butch",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-the-good-dinosaur-ramsey",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-the-good-dinosaur-nash",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-raya-and-the-last-dragon-boun",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-raya-and-the-last-dragon-little-noi",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-a-bugs-life-heimlich",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-a-bugs-life-manny",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-a-bugs-life-gypsy",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-a-bugs-life-slim",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-a-bugs-life-tuck",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-a-bugs-life-roll",
+      "type": "missing",
+      "message": "画像未登録"
+    },
+    {
+      "characterId": "extended-pinocchio-the-blue-fairy",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-atlantis-the-lost-empire-kida",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-atlantis-the-lost-empire-commander-rourke",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-atlantis-the-lost-empire-vinny-santorini",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-atlantis-the-lost-empire-dr-sweet",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-treasure-planet-dr-doppler",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-the-hunchback-of-notre-dame-judge-frollo",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    },
+    {
+      "characterId": "extended-elio-melmac",
+      "type": "check",
+      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+    }
+  ],
+  "note": "要確認フラグはメタデータの疑いです。画像の人物数や本人確認は人の目で行ってください。"
+}
