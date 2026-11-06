@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>未登録キャラクター画像の再検索 | まほうのキャラクター検定</title>
+<style>
+:root{color-scheme:dark;--ink:#f8f1ff;--muted:#c5b6e7;--surface:#30224b;--gold:#efda96}*{box-sizing:border-box}
+body{margin:0;font-family:system-ui,-apple-system,"Noto Sans JP",sans-serif;background:radial-gradient(ellipse at top,#4d327b,#160e29 80%);color:var(--ink);min-height:100vh}
+main{width:min(1130px,94%);margin:30px auto 70px}a{color:#ead6ff}h1{font-size:clamp(25px,4vw,36px);margin:12px 0}p{color:var(--muted);line-height:1.7}nav a{display:inline-block;margin-bottom:20px}
+.summary{display:flex;flex-wrap:wrap;gap:10px;margin:23px 0}.tag{background:#4c386f;border:1px solid #8268ae;border-radius:50px;padding:9px 14px;font-size:13px}.bar{background:#26183f;border:1px solid #7b609a;border-radius:14px;padding:17px;display:flex;gap:10px;flex-wrap:wrap;position:sticky;top:0;z-index:4}
+input,select{font:inherit;padding:12px;border:1px solid #8875b1;border-radius:8px;background:#170f30;color:white;min-width:170px}input{flex:1}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:13px;margin:18px 0}.card{background:var(--surface);border:1px solid #705791;border-radius:15px;padding:17px}.card h2{font-size:17px;margin:0 0 4px}.card p{font-size:13px;margin:4px 0}.state{color:var(--gold);font-size:12px}
+.links{display:flex;gap:6px;flex-wrap:wrap;margin-top:11px}.links a{background:#533975;padding:8px 10px;border-radius:8px;text-decoration:none;font-weight:600;font-size:13px;border:1px solid #9075ad}.links a:hover{background:#70538d}.notice{padding:15px;border:1px solid #9679a5;border-radius:10px;background:#2b1d42}.empty{padding:32px;text-align:center}
+</style></head><body><main><nav><a href="./">← 検定トップへ</a>　<a href="./review-new-images.html">画像候補を確認する</a></nav>
+<h1>🔎 画像が未登録のキャラクターを再検索</h1>
+<p>公式情報、作品名＋英語名／日本語名で画像を探すための一覧です。検索結果の画像が正しい本人か、他のキャラクターが写っていないかを確認してください。画像の著作権・利用条件も確認が必要です。</p>
+<div class="summary" id="summary"><span class="tag">読み込み中…</span></div>
+<div class="bar"><input id="q" placeholder="キャラクター名や作品名で検索" aria-label="キャラクター検索"><select id="filter" aria-label="状態で絞り込み"><option value="missing">候補がないキャラクター</option><option value="all">画像未公開の全キャラクター</option><option value="candidate">画像候補あり・未公開</option></select></div>
+<div id="grid" class="grid"></div>
+<p class="notice">このページは検索用です。画像の自動登録・承認はしません。候補のある新規キャラクターは <a href="./review-new-images.html">画像確認ページ</a> で承認できます。</p>
+</main><script type="module">
+import {curated} from './data.js';
+const $=id=>document.getElementById(id), wrap=$('grid');let all=[];
+const make=(tag,text,cl)=>{const el=document.createElement(tag);if(text!==undefined)el.textContent=text;if(cl)el.className=cl;return el};
+const go=(base,q,extra={})=>{const p=new URLSearchParams(extra);p.set('q',q);return base+'?'+p.toString()};
+const wiki=(name)=>'https://disney.fandom.com/wiki/'+encodeURIComponent(name.replace(/ /g,'_'));
+function draw(){const filter=$('filter').value,q=$('q').value.trim().toLocaleLowerCase();wrap.replaceChildren();const list=all.filter(c=>(filter==='all'||(filter==='missing'?!c.candidates:c.candidates))&&(!q||[c.jp,c.name,...c.films].join(' ').toLocaleLowerCase().includes(q)));
+ $('summary').replaceChildren(...[`${curated.length}キャラ登録`,`画像未公開 ${all.length}キャラ`,`そのうち候補なし ${all.filter(c=>!c.candidates).length}キャラ`,`画面表示 ${list.length}キャラ`].map(t=>make('span',t,'tag')));
+ if(!list.length){wrap.append(make('div','該当するキャラクターがありません。','empty'));return}
+ const frag=document.createDocumentFragment();for(const c of list){const card=make('article',undefined,'card');const h=make('h2',c.jp||c.name);card.append(h,make('p',c.name),make('p',c.films.join(' / ')),make('p',c.candidates?`候補 ${c.candidates} 件・未公開`:'画像候補なし','state'));
+ const links=make('div',undefined,'links');const text=c.name+' '+c.films[0]+' Disney character';const ja=c.jp+' '+c.films[0]+' ディズニー キャラクター';
+ for(const [label,href] of [['画像検索（英語）',go('https://www.google.com/search',text,{tbm:'isch'})],['画像検索（日本語）',go('https://www.google.com/search',ja,{tbm:'isch'})],['Disney Wiki',wiki(c.name)]]){const a=make('a',label);a.href=href;a.target='_blank';a.rel='noopener noreferrer';links.append(a)}card.append(links);frag.append(card)}wrap.append(frag)}
+async function init(){try{const [a,b]=await Promise.all([fetch('./images/manifest.json',{cache:'no-store'}),fetch('./images/new-candidates/index.json',{cache:'no-store'})]);if(!a.ok||!b.ok)throw Error('必要な画像一覧ファイルがありません');const m=await a.json(),index=(await b.json()).characters||{};all=curated.filter(c=>m[c.id]?.reviewed!==true).map(c=>({...c,candidates:(index[c.id]?.candidates||[]).length}));draw()}catch(e){wrap.append(make('div','読み込みに失敗しました。GitHub Pagesへの公開が終わっているか確認してください。','notice'))}}
+$('q').addEventListener('input',draw);$('filter').addEventListener('change',draw);init();
+</script></body></html>
