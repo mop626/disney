@@ -1,0 +1,176 @@
+[
+  {
+    "id": "mickey-&-friends-5",
+    "name": "Pluto",
+    "path": "images/mickey-_-friends-5.webp",
+    "reason": "別キャラクター・別作品または対象版の不一致"
+  },
+  {
+    "id": "mickey-&-friends-7",
+    "name": "Dale",
+    "path": "images/mickey-_-friends-7.webp",
+    "reason": "別キャラクター・別作品または対象版の不一致"
+  },
+  {
+    "id": "mickey-&-friends-11",
+    "name": "Dewey",
+    "path": "images/mickey-_-friends-11.webp",
+    "reason": "別キャラクター・別作品または対象版の不一致"
+  },
+  {
+    "id": "mickey-&-friends-12",
+    "name": "Louie",
+    "path": "images/mickey-_-friends-12.webp",
+    "reason": "別キャラクター・別作品または対象版の不一致"
+  },
+  {
+    "id": "cinderella-0",
+    "name": "Cinderella",
+    "path": "images/cinderella-0.webp",
+    "reason": "別キャラクター・別作品または対象版の不一致"
+  },
+  {
+    "id": "cinderella-4",
+    "name": "Prince Charming",
+    "path": "images/cinderella-4.webp",
+    "reason": "別キャラクター・別作品または対象版の不一致"
+  },
+  {
+    "id": "the-little-mermaid-2",
+    "name": "Sebastian",
+    "path": "images/the-little-mermaid-2.webp",
+    "reason": "別キャラクター・別作品または対象版の不一致"
+  },
+  {
+    "id": "beauty-and-the-beast-0",
+    "name": "Belle",
+    "path": "images/beauty-and-the-beast-0.webp",
+    "reason": "別キャラクター・別作品または対象版の不一致"
+  },
+  {
+    "id": "aladdin-1",
+    "name": "Jasmine",
+    "path": "images/aladdin-1.webp",
+    "reason": "別キャラクター・別作品または対象版の不一致"
+  },
+  {
+    "id": "aladdin-4",
+    "name": "Jafar",
+    "path": "images/aladdin-4.webp",
+    "reason": "複数キャラクター"
+  },
+  {
+    "id": "frozen-4",
+    "name": "Sven",
+    "path": "images/frozen-4.webp",
+    "reason": "別キャラクター・別作品または対象版の不一致"
+  },
+  {
+    "id": "frozen-5",
+    "name": "Hans",
+    "path": "images/frozen-5.webp",
+    "reason": "別キャラクター・別作品または対象版の不一致"
+  },
+  {
+    "id": "winnie-the-pooh-4",
+    "name": "Rabbit",
+    "path": "images/winnie-the-pooh-4.webp",
+    "reason": "別キャラクター・別作品または対象版の不一致"
+  },
+  {
+    "id": "winnie-the-pooh-5",
+    "name": "Owl",
+    "path": "images/winnie-the-pooh-5.webp",
+    "reason": "別キャラクター・別作品または対象版の不一致"
+  },
+  {
+    "id": "winnie-the-pooh-7",
+    "name": "Kanga",
+    "path": "images/winnie-the-pooh-7.webp",
+    "reason": "別キャラクター・別作品または対象版の不一致"
+  },
+  {
+    "id": "dumbo-0",
+    "name": "Dumbo",
+    "path": "images/dumbo-0.webp",
+    "reason": "複数キャラクター"
+  },
+  {
+    "id": "toy-story-0",
+    "name": "Woody",
+    "path": "images/toy-story-0.webp",
+    "reason": "別キャラクター・別作品または対象版の不一致"
+  },
+  {
+    "id": "toy-story-4",
+    "name": "Rex",
+    "path": "images/toy-story-4.webp",
+    "reason": "別キャラクター・別作品または対象版の不一致"
+  },
+  {
+    "id": "monsters,-inc.-2",
+    "name": "Boo",
+    "path": "images/monsters_-inc_-2.webp",
+    "reason": "別キャラクター・別作品または対象版の不一致"
+  },
+  {
+    "id": "finding-nemo-0",
+    "name": "Nemo",
+    "path": "images/finding-nemo-0.webp",
+    "reason": "別キャラクター・別作品または対象版の不一致"
+  },
+  {
+    "id": "finding-nemo-5",
+    "name": "Bruce",
+    "path": "images/finding-nemo-5.webp",
+    "reason": "別キャラクター・別作品または対象版の不一致"
+  },
+  {
+    "id": "wall-e-1",
+    "name": "EVE",
+    "path": "images/wall-e-1.webp",
+    "reason": "別キャラクター・別作品または対象版の不一致"
+  },
+  {
+    "id": "up-3",
+    "name": "Kevin",
+    "path": "images/up-3.webp",
+    "reason": "別キャラクター・別作品または対象版の不一致"
+  },
+  {
+    "id": "coco-2",
+    "name": "Dante",
+    "path": "images/coco-2.webp",
+    "reason": "別キャラクター・別作品または対象版の不一致"
+  },
+  {
+    "id": "big-hero-6-6",
+    "name": "Fred",
+    "path": "images/big-hero-6-6.webp",
+    "reason": "別キャラクター・別作品または対象版の不一致"
+  },
+  {
+    "id": "alice-in-wonderland-0",
+    "name": "Alice",
+    "path": "images/alice-in-wonderland-0.webp",
+    "reason": "別キャラクター・別作品または対象版の不一致"
+  },
+  {
+    "id": "the-nightmare-before-christmas-1",
+    "name": "Sally",
+    "path": "images/the-nightmare-before-christmas-1.webp",
+    "reason": "別キャラクター・別作品または対象版の不一致"
+  },
+  {
+    "id": "the-good-dinosaur-1",
+    "name": "Spot",
+    "path": "images/the-good-dinosaur-1.webp",
+    "reason": "別キャラクター・別作品または対象版の不一致"
+  },
+  {
+    "id": "sleeping-beauty-1",
+    "name": "Maleficent",
+    "path": "images/sleeping-beauty-1.webp",
+    "reason": "複数キャラクター（カラスを含む）"
+  }
+]

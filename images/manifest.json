@@ -1,172 +1,842 @@
 {
-  "the-jungle-book-1": "images/the-jungle-book-1.webp",
-  "beauty-and-the-beast-0": "images/beauty-and-the-beast-0.webp",
-  "aladdin-0": "images/aladdin-0.webp",
-  "alice-in-wonderland-0": "images/alice-in-wonderland-0.webp",
-  "lilo-&-stitch-5": "images/lilo-_-stitch-5.webp",
-  "bambi-0": "images/bambi-0.webp",
-  "the-jungle-book-2": "images/the-jungle-book-2.webp",
-  "sleeping-beauty-0": "images/sleeping-beauty-0.webp",
-  "big-hero-6-0": "images/big-hero-6-0.webp",
-  "the-good-dinosaur-0": "images/the-good-dinosaur-0.webp",
-  "frozen-0": "images/frozen-0.webp",
-  "aladdin-3": "images/aladdin-3.webp",
-  "snow-white-and-the-seven-dwarfs-5": "images/snow-white-and-the-seven-dwarfs-5.webp",
-  "the-little-mermaid-0": "images/the-little-mermaid-0.webp",
-  "beauty-and-the-beast-1": "images/beauty-and-the-beast-1.webp",
-  "monsters,-inc.-2": "images/monsters_-inc_-2.webp",
-  "the-aristocats-3": "images/the-aristocats-3.webp",
-  "finding-nemo-5": "images/finding-nemo-5.webp",
-  "peter-pan-3": "images/peter-pan-3.webp",
-  "cinderella-4": "images/cinderella-4.webp",
-  "ratatouille-2": "images/ratatouille-2.webp",
-  "cinderella-0": "images/cinderella-0.webp",
-  "zootopia-3": "images/zootopia-3.webp",
-  "beauty-and-the-beast-3": "images/beauty-and-the-beast-3.webp",
-  "mickey-&-friends-8": "images/mickey-_-friends-8.webp",
-  "mulan-2": "images/mulan-2.webp",
-  "alice-in-wonderland-1": "images/alice-in-wonderland-1.webp",
-  "mickey-&-friends-7": "images/mickey-_-friends-7.webp",
-  "peter-pan-2": "images/peter-pan-2.webp",
-  "mickey-&-friends-11": "images/mickey-_-friends-11.webp",
-  "a-bug’s-life-3": "images/a-bug_s-life-3.webp",
-  "101-dalmatians-2": "images/101-dalmatians-2.webp",
-  "winnie-the-pooh-3": "images/winnie-the-pooh-3.webp",
-  "snow-white-and-the-seven-dwarfs-7": "images/snow-white-and-the-seven-dwarfs-7.webp",
-  "mickey-&-friends-3": "images/mickey-_-friends-3.webp",
-  "mickey-&-friends-2": "images/mickey-_-friends-2.webp",
-  "snow-white-and-the-seven-dwarfs-1": "images/snow-white-and-the-seven-dwarfs-1.webp",
-  "dumbo-0": "images/dumbo-0.webp",
-  "the-aristocats-1": "images/the-aristocats-1.webp",
-  "coco-2": "images/coco-2.webp",
-  "the-princess-and-the-frog-2": "images/the-princess-and-the-frog-2.webp",
-  "zootopia-2": "images/zootopia-2.webp",
-  "pocahontas-2": "images/pocahontas-2.webp",
-  "big-hero-6-6": "images/big-hero-6-6.webp",
-  "tangled-1": "images/tangled-1.webp",
-  "zootopia-4": "images/zootopia-4.webp",
-  "beauty-and-the-beast-6": "images/beauty-and-the-beast-6.webp",
-  "bambi-2": "images/bambi-2.webp",
-  "the-little-mermaid-1": "images/the-little-mermaid-1.webp",
-  "wall-e-1": "images/wall-e-1.webp",
-  "cinderella-3": "images/cinderella-3.webp",
-  "the-little-mermaid-3": "images/the-little-mermaid-3.webp",
-  "frozen-1": "images/frozen-1.webp",
-  "snow-white-and-the-seven-dwarfs-3": "images/snow-white-and-the-seven-dwarfs-3.webp",
-  "snow-white-and-the-seven-dwarfs-2": "images/snow-white-and-the-seven-dwarfs-2.webp",
-  "big-hero-6-2": "images/big-hero-6-2.webp",
-  "frozen-5": "images/frozen-5.webp",
-  "aladdin-2": "images/aladdin-2.webp",
-  "hercules-0": "images/hercules-0.webp",
-  "mickey-&-friends-4": "images/mickey-_-friends-4.webp",
-  "hercules-2": "images/hercules-2.webp",
-  "moana-3": "images/moana-3.webp",
-  "big-hero-6-1": "images/big-hero-6-1.webp",
-  "dumbo-1": "images/dumbo-1.webp",
-  "aladdin-1": "images/aladdin-1.webp",
-  "aladdin-5": "images/aladdin-5.webp",
-  "lilo-&-stitch-3": "images/lilo-_-stitch-3.webp",
-  "the-jungle-book-5": "images/the-jungle-book-5.webp",
-  "aladdin-4": "images/aladdin-4.webp",
-  "zootopia-0": "images/zootopia-0.webp",
-  "soul-0": "images/soul-0.webp",
-  "big-hero-6-5": "images/big-hero-6-5.webp",
-  "winnie-the-pooh-7": "images/winnie-the-pooh-7.webp",
-  "up-3": "images/up-3.webp",
-  "the-jungle-book-3": "images/the-jungle-book-3.webp",
-  "frozen-3": "images/frozen-3.webp",
-  "beauty-and-the-beast-2": "images/beauty-and-the-beast-2.webp",
-  "the-jungle-book-4": "images/the-jungle-book-4.webp",
-  "mulan-3": "images/mulan-3.webp",
-  "alice-in-wonderland-2": "images/alice-in-wonderland-2.webp",
-  "sleeping-beauty-1": "images/sleeping-beauty-1.webp",
-  "moana-1": "images/moana-1.webp",
-  "snow-white-and-the-seven-dwarfs-9": "images/snow-white-and-the-seven-dwarfs-9.webp",
-  "frozen-6": "images/frozen-6.webp",
-  "tangled-3": "images/tangled-3.webp",
-  "pocahontas-1": "images/pocahontas-1.webp",
-  "aladdin-7": "images/aladdin-7.webp",
-  "mickey-&-friends-9": "images/mickey-_-friends-9.webp",
-  "hercules-1": "images/hercules-1.webp",
-  "the-aristocats-0": "images/the-aristocats-0.webp",
-  "raya-and-the-last-dragon-2": "images/raya-and-the-last-dragon-2.webp",
-  "the-nightmare-before-christmas-3": "images/the-nightmare-before-christmas-3.webp",
-  "the-lion-king-2": "images/the-lion-king-2.webp",
-  "tangled-4": "images/tangled-4.webp",
-  "the-jungle-book-0": "images/the-jungle-book-0.webp",
-  "winnie-the-pooh-5": "images/winnie-the-pooh-5.webp",
-  "the-lion-king-1": "images/the-lion-king-1.webp",
-  "moana-0": "images/moana-0.webp",
-  "mickey-&-friends-0": "images/mickey-_-friends-0.webp",
-  "finding-nemo-0": "images/finding-nemo-0.webp",
-  "frozen-2": "images/frozen-2.webp",
-  "the-aristocats-2": "images/the-aristocats-2.webp",
-  "the-princess-and-the-frog-1": "images/the-princess-and-the-frog-1.webp",
-  "mickey-&-friends-1": "images/mickey-_-friends-1.webp",
-  "mulan-1": "images/mulan-1.webp",
-  "101-dalmatians-1": "images/101-dalmatians-1.webp",
-  "beauty-and-the-beast-4": "images/beauty-and-the-beast-4.webp",
-  "winnie-the-pooh-4": "images/winnie-the-pooh-4.webp",
-  "hercules-4": "images/hercules-4.webp",
-  "mickey-&-friends-5": "images/mickey-_-friends-5.webp",
-  "winnie-the-pooh-1": "images/winnie-the-pooh-1.webp",
-  "lilo-&-stitch-4": "images/lilo-_-stitch-4.webp",
-  "the-lion-king-6": "images/the-lion-king-6.webp",
-  "hercules-3": "images/hercules-3.webp",
-  "sleeping-beauty-2": "images/sleeping-beauty-2.webp",
-  "moana-2": "images/moana-2.webp",
-  "pocahontas-0": "images/pocahontas-0.webp",
-  "tangled-2": "images/tangled-2.webp",
-  "the-lion-king-5": "images/the-lion-king-5.webp",
-  "101-dalmatians-0": "images/101-dalmatians-0.webp",
-  "alice-in-wonderland-3": "images/alice-in-wonderland-3.webp",
-  "aladdin-6": "images/aladdin-6.webp",
-  "peter-pan-0": "images/peter-pan-0.webp",
-  "the-little-mermaid-2": "images/the-little-mermaid-2.webp",
-  "tangled-0": "images/tangled-0.webp",
-  "toy-story-4": "images/toy-story-4.webp",
-  "the-nightmare-before-christmas-1": "images/the-nightmare-before-christmas-1.webp",
-  "raya-and-the-last-dragon-0": "images/raya-and-the-last-dragon-0.webp",
-  "the-lion-king-3": "images/the-lion-king-3.webp",
-  "winnie-the-pooh-6": "images/winnie-the-pooh-6.webp",
-  "the-lion-king-0": "images/the-lion-king-0.webp",
-  "raya-and-the-last-dragon-1": "images/raya-and-the-last-dragon-1.webp",
-  "frozen-4": "images/frozen-4.webp",
-  "the-good-dinosaur-1": "images/the-good-dinosaur-1.webp",
-  "pocahontas-3": "images/pocahontas-3.webp",
-  "moana-4": "images/moana-4.webp",
-  "snow-white-and-the-seven-dwarfs-0": "images/snow-white-and-the-seven-dwarfs-0.webp",
-  "snow-white-and-the-seven-dwarfs-4": "images/snow-white-and-the-seven-dwarfs-4.webp",
-  "lilo-&-stitch-0": "images/lilo-_-stitch-0.webp",
-  "the-nightmare-before-christmas-0": "images/the-nightmare-before-christmas-0.webp",
-  "snow-white-and-the-seven-dwarfs-6": "images/snow-white-and-the-seven-dwarfs-6.webp",
-  "peter-pan-4": "images/peter-pan-4.webp",
-  "the-little-mermaid-4": "images/the-little-mermaid-4.webp",
-  "peter-pan-1": "images/peter-pan-1.webp",
-  "the-aristocats-4": "images/the-aristocats-4.webp",
-  "the-little-mermaid-5": "images/the-little-mermaid-5.webp",
-  "the-princess-and-the-frog-0": "images/the-princess-and-the-frog-0.webp",
-  "big-hero-6-3": "images/big-hero-6-3.webp",
-  "bambi-1": "images/bambi-1.webp",
-  "raya-and-the-last-dragon-3": "images/raya-and-the-last-dragon-3.webp",
-  "winnie-the-pooh-2": "images/winnie-the-pooh-2.webp",
-  "the-lion-king-4": "images/the-lion-king-4.webp",
-  "wall-e-0": "images/wall-e-0.webp",
-  "big-hero-6-4": "images/big-hero-6-4.webp",
-  "winnie-the-pooh-0": "images/winnie-the-pooh-0.webp",
-  "the-nightmare-before-christmas-2": "images/the-nightmare-before-christmas-2.webp",
-  "alice-in-wonderland-4": "images/alice-in-wonderland-4.webp",
-  "toy-story-0": "images/toy-story-0.webp",
-  "zootopia-1": "images/zootopia-1.webp",
-  "the-lion-king-7": "images/the-lion-king-7.webp",
-  "encanto-4": "images/encanto-4.webp",
-  "wish-0": "images/wish-0.webp",
-  "encanto-3": "images/encanto-3.webp",
-  "encanto-1": "images/encanto-1.webp",
-  "mickey-&-friends-12": "images/mickey-_-friends-12.webp",
-  "encanto-2": "images/encanto-2.webp",
-  "wish-2": "images/wish-2.webp",
-  "encanto-0": "images/encanto-0.webp",
-  "wish-1": "images/wish-1.webp",
-  "wish-3": "images/wish-3.webp"
+  "mickey-&-friends-0": {
+    "path": "images/mickey-_-friends-0.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "mickey-&-friends-0"
+  },
+  "mickey-&-friends-1": {
+    "path": "images/mickey-_-friends-1.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "mickey-&-friends-1"
+  },
+  "mickey-&-friends-2": {
+    "path": "images/mickey-_-friends-2.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "mickey-&-friends-2"
+  },
+  "mickey-&-friends-3": {
+    "path": "images/mickey-_-friends-3.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "mickey-&-friends-3"
+  },
+  "mickey-&-friends-4": {
+    "path": "images/mickey-_-friends-4.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "mickey-&-friends-4"
+  },
+  "mickey-&-friends-8": {
+    "path": "images/mickey-_-friends-8.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "mickey-&-friends-8"
+  },
+  "mickey-&-friends-9": {
+    "path": "images/mickey-_-friends-9.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "mickey-&-friends-9"
+  },
+  "snow-white-and-the-seven-dwarfs-0": {
+    "path": "images/snow-white-and-the-seven-dwarfs-0.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "snow-white-and-the-seven-dwarfs-0"
+  },
+  "snow-white-and-the-seven-dwarfs-1": {
+    "path": "images/snow-white-and-the-seven-dwarfs-1.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "snow-white-and-the-seven-dwarfs-1"
+  },
+  "snow-white-and-the-seven-dwarfs-2": {
+    "path": "images/snow-white-and-the-seven-dwarfs-2.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "snow-white-and-the-seven-dwarfs-2"
+  },
+  "snow-white-and-the-seven-dwarfs-3": {
+    "path": "images/snow-white-and-the-seven-dwarfs-3.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "snow-white-and-the-seven-dwarfs-3"
+  },
+  "snow-white-and-the-seven-dwarfs-4": {
+    "path": "images/snow-white-and-the-seven-dwarfs-4.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "snow-white-and-the-seven-dwarfs-4"
+  },
+  "snow-white-and-the-seven-dwarfs-5": {
+    "path": "images/snow-white-and-the-seven-dwarfs-5.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "snow-white-and-the-seven-dwarfs-5"
+  },
+  "snow-white-and-the-seven-dwarfs-6": {
+    "path": "images/snow-white-and-the-seven-dwarfs-6.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "snow-white-and-the-seven-dwarfs-6"
+  },
+  "snow-white-and-the-seven-dwarfs-7": {
+    "path": "images/snow-white-and-the-seven-dwarfs-7.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "snow-white-and-the-seven-dwarfs-7"
+  },
+  "snow-white-and-the-seven-dwarfs-9": {
+    "path": "images/snow-white-and-the-seven-dwarfs-9.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "snow-white-and-the-seven-dwarfs-9"
+  },
+  "cinderella-3": {
+    "path": "images/cinderella-3.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "cinderella-3"
+  },
+  "sleeping-beauty-0": {
+    "path": "images/sleeping-beauty-0.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "sleeping-beauty-0"
+  },
+  "sleeping-beauty-2": {
+    "path": "images/sleeping-beauty-2.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "sleeping-beauty-2"
+  },
+  "the-little-mermaid-0": {
+    "path": "images/the-little-mermaid-0.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-little-mermaid-0"
+  },
+  "the-little-mermaid-1": {
+    "path": "images/the-little-mermaid-1.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-little-mermaid-1"
+  },
+  "the-little-mermaid-3": {
+    "path": "images/the-little-mermaid-3.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-little-mermaid-3"
+  },
+  "the-little-mermaid-4": {
+    "path": "images/the-little-mermaid-4.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-little-mermaid-4"
+  },
+  "the-little-mermaid-5": {
+    "path": "images/the-little-mermaid-5.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-little-mermaid-5"
+  },
+  "beauty-and-the-beast-1": {
+    "path": "images/beauty-and-the-beast-1.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "beauty-and-the-beast-1"
+  },
+  "beauty-and-the-beast-2": {
+    "path": "images/beauty-and-the-beast-2.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "beauty-and-the-beast-2"
+  },
+  "beauty-and-the-beast-3": {
+    "path": "images/beauty-and-the-beast-3.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "beauty-and-the-beast-3"
+  },
+  "beauty-and-the-beast-4": {
+    "path": "images/beauty-and-the-beast-4.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "beauty-and-the-beast-4"
+  },
+  "beauty-and-the-beast-6": {
+    "path": "images/beauty-and-the-beast-6.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "beauty-and-the-beast-6"
+  },
+  "aladdin-0": {
+    "path": "images/aladdin-0.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "aladdin-0"
+  },
+  "aladdin-2": {
+    "path": "images/aladdin-2.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "aladdin-2"
+  },
+  "aladdin-3": {
+    "path": "images/aladdin-3.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "aladdin-3"
+  },
+  "aladdin-5": {
+    "path": "images/aladdin-5.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "aladdin-5"
+  },
+  "aladdin-6": {
+    "path": "images/aladdin-6.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "aladdin-6"
+  },
+  "aladdin-7": {
+    "path": "images/aladdin-7.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "aladdin-7"
+  },
+  "the-lion-king-0": {
+    "path": "images/the-lion-king-0.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-lion-king-0"
+  },
+  "the-lion-king-1": {
+    "path": "images/the-lion-king-1.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-lion-king-1"
+  },
+  "the-lion-king-2": {
+    "path": "images/the-lion-king-2.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-lion-king-2"
+  },
+  "the-lion-king-3": {
+    "path": "images/the-lion-king-3.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-lion-king-3"
+  },
+  "the-lion-king-4": {
+    "path": "images/the-lion-king-4.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-lion-king-4"
+  },
+  "the-lion-king-5": {
+    "path": "images/the-lion-king-5.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-lion-king-5"
+  },
+  "the-lion-king-6": {
+    "path": "images/the-lion-king-6.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-lion-king-6"
+  },
+  "the-lion-king-7": {
+    "path": "images/the-lion-king-7.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-lion-king-7"
+  },
+  "pocahontas-0": {
+    "path": "images/pocahontas-0.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "pocahontas-0"
+  },
+  "pocahontas-1": {
+    "path": "images/pocahontas-1.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "pocahontas-1"
+  },
+  "pocahontas-2": {
+    "path": "images/pocahontas-2.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "pocahontas-2"
+  },
+  "pocahontas-3": {
+    "path": "images/pocahontas-3.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "pocahontas-3"
+  },
+  "mulan-1": {
+    "path": "images/mulan-1.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "mulan-1"
+  },
+  "mulan-2": {
+    "path": "images/mulan-2.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "mulan-2"
+  },
+  "mulan-3": {
+    "path": "images/mulan-3.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "mulan-3"
+  },
+  "the-princess-and-the-frog-0": {
+    "path": "images/the-princess-and-the-frog-0.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-princess-and-the-frog-0"
+  },
+  "the-princess-and-the-frog-1": {
+    "path": "images/the-princess-and-the-frog-1.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-princess-and-the-frog-1"
+  },
+  "the-princess-and-the-frog-2": {
+    "path": "images/the-princess-and-the-frog-2.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-princess-and-the-frog-2"
+  },
+  "tangled-0": {
+    "path": "images/tangled-0.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "tangled-0"
+  },
+  "tangled-1": {
+    "path": "images/tangled-1.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "tangled-1"
+  },
+  "tangled-2": {
+    "path": "images/tangled-2.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "tangled-2"
+  },
+  "tangled-3": {
+    "path": "images/tangled-3.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "tangled-3"
+  },
+  "tangled-4": {
+    "path": "images/tangled-4.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "tangled-4"
+  },
+  "frozen-0": {
+    "path": "images/frozen-0.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "frozen-0"
+  },
+  "frozen-1": {
+    "path": "images/frozen-1.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "frozen-1"
+  },
+  "frozen-2": {
+    "path": "images/frozen-2.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "frozen-2"
+  },
+  "frozen-3": {
+    "path": "images/frozen-3.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "frozen-3"
+  },
+  "frozen-6": {
+    "path": "images/frozen-6.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "frozen-6"
+  },
+  "moana-0": {
+    "path": "images/moana-0.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "moana-0"
+  },
+  "moana-1": {
+    "path": "images/moana-1.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "moana-1"
+  },
+  "moana-2": {
+    "path": "images/moana-2.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "moana-2"
+  },
+  "moana-3": {
+    "path": "images/moana-3.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "moana-3"
+  },
+  "moana-4": {
+    "path": "images/moana-4.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "moana-4"
+  },
+  "zootopia-0": {
+    "path": "images/zootopia-0.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "zootopia-0"
+  },
+  "zootopia-1": {
+    "path": "images/zootopia-1.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "zootopia-1"
+  },
+  "zootopia-2": {
+    "path": "images/zootopia-2.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "zootopia-2"
+  },
+  "zootopia-3": {
+    "path": "images/zootopia-3.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "zootopia-3"
+  },
+  "zootopia-4": {
+    "path": "images/zootopia-4.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "zootopia-4"
+  },
+  "lilo-&-stitch-0": {
+    "path": "images/lilo-_-stitch-0.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "lilo-&-stitch-0"
+  },
+  "lilo-&-stitch-3": {
+    "path": "images/lilo-_-stitch-3.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "lilo-&-stitch-3"
+  },
+  "lilo-&-stitch-4": {
+    "path": "images/lilo-_-stitch-4.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "lilo-&-stitch-4"
+  },
+  "lilo-&-stitch-5": {
+    "path": "images/lilo-_-stitch-5.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "lilo-&-stitch-5"
+  },
+  "peter-pan-0": {
+    "path": "images/peter-pan-0.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "peter-pan-0"
+  },
+  "peter-pan-1": {
+    "path": "images/peter-pan-1.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "peter-pan-1"
+  },
+  "peter-pan-2": {
+    "path": "images/peter-pan-2.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "peter-pan-2"
+  },
+  "peter-pan-3": {
+    "path": "images/peter-pan-3.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "peter-pan-3"
+  },
+  "peter-pan-4": {
+    "path": "images/peter-pan-4.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "peter-pan-4"
+  },
+  "winnie-the-pooh-0": {
+    "path": "images/winnie-the-pooh-0.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "winnie-the-pooh-0"
+  },
+  "winnie-the-pooh-1": {
+    "path": "images/winnie-the-pooh-1.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "winnie-the-pooh-1"
+  },
+  "winnie-the-pooh-2": {
+    "path": "images/winnie-the-pooh-2.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "winnie-the-pooh-2"
+  },
+  "winnie-the-pooh-3": {
+    "path": "images/winnie-the-pooh-3.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "winnie-the-pooh-3"
+  },
+  "winnie-the-pooh-6": {
+    "path": "images/winnie-the-pooh-6.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "winnie-the-pooh-6"
+  },
+  "dumbo-1": {
+    "path": "images/dumbo-1.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "dumbo-1"
+  },
+  "bambi-0": {
+    "path": "images/bambi-0.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "bambi-0"
+  },
+  "bambi-1": {
+    "path": "images/bambi-1.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "bambi-1"
+  },
+  "bambi-2": {
+    "path": "images/bambi-2.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "bambi-2"
+  },
+  "the-aristocats-0": {
+    "path": "images/the-aristocats-0.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-aristocats-0"
+  },
+  "the-aristocats-1": {
+    "path": "images/the-aristocats-1.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-aristocats-1"
+  },
+  "the-aristocats-2": {
+    "path": "images/the-aristocats-2.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-aristocats-2"
+  },
+  "the-aristocats-3": {
+    "path": "images/the-aristocats-3.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-aristocats-3"
+  },
+  "the-aristocats-4": {
+    "path": "images/the-aristocats-4.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-aristocats-4"
+  },
+  "ratatouille-2": {
+    "path": "images/ratatouille-2.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "ratatouille-2"
+  },
+  "wall-e-0": {
+    "path": "images/wall-e-0.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "wall-e-0"
+  },
+  "soul-0": {
+    "path": "images/soul-0.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "soul-0"
+  },
+  "encanto-0": {
+    "path": "images/encanto-0.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "encanto-0"
+  },
+  "encanto-1": {
+    "path": "images/encanto-1.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "encanto-1"
+  },
+  "encanto-2": {
+    "path": "images/encanto-2.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "encanto-2"
+  },
+  "encanto-3": {
+    "path": "images/encanto-3.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "encanto-3"
+  },
+  "encanto-4": {
+    "path": "images/encanto-4.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "encanto-4"
+  },
+  "big-hero-6-0": {
+    "path": "images/big-hero-6-0.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "big-hero-6-0"
+  },
+  "big-hero-6-1": {
+    "path": "images/big-hero-6-1.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "big-hero-6-1"
+  },
+  "big-hero-6-2": {
+    "path": "images/big-hero-6-2.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "big-hero-6-2"
+  },
+  "big-hero-6-3": {
+    "path": "images/big-hero-6-3.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "big-hero-6-3"
+  },
+  "big-hero-6-4": {
+    "path": "images/big-hero-6-4.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "big-hero-6-4"
+  },
+  "big-hero-6-5": {
+    "path": "images/big-hero-6-5.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "big-hero-6-5"
+  },
+  "hercules-0": {
+    "path": "images/hercules-0.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "hercules-0"
+  },
+  "hercules-1": {
+    "path": "images/hercules-1.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "hercules-1"
+  },
+  "hercules-2": {
+    "path": "images/hercules-2.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "hercules-2"
+  },
+  "hercules-3": {
+    "path": "images/hercules-3.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "hercules-3"
+  },
+  "hercules-4": {
+    "path": "images/hercules-4.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "hercules-4"
+  },
+  "the-jungle-book-0": {
+    "path": "images/the-jungle-book-0.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-jungle-book-0"
+  },
+  "the-jungle-book-1": {
+    "path": "images/the-jungle-book-1.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-jungle-book-1"
+  },
+  "the-jungle-book-2": {
+    "path": "images/the-jungle-book-2.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-jungle-book-2"
+  },
+  "the-jungle-book-3": {
+    "path": "images/the-jungle-book-3.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-jungle-book-3"
+  },
+  "the-jungle-book-4": {
+    "path": "images/the-jungle-book-4.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-jungle-book-4"
+  },
+  "the-jungle-book-5": {
+    "path": "images/the-jungle-book-5.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-jungle-book-5"
+  },
+  "alice-in-wonderland-1": {
+    "path": "images/alice-in-wonderland-1.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "alice-in-wonderland-1"
+  },
+  "alice-in-wonderland-2": {
+    "path": "images/alice-in-wonderland-2.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "alice-in-wonderland-2"
+  },
+  "alice-in-wonderland-3": {
+    "path": "images/alice-in-wonderland-3.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "alice-in-wonderland-3"
+  },
+  "alice-in-wonderland-4": {
+    "path": "images/alice-in-wonderland-4.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "alice-in-wonderland-4"
+  },
+  "the-nightmare-before-christmas-0": {
+    "path": "images/the-nightmare-before-christmas-0.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-nightmare-before-christmas-0"
+  },
+  "the-nightmare-before-christmas-2": {
+    "path": "images/the-nightmare-before-christmas-2.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-nightmare-before-christmas-2"
+  },
+  "the-nightmare-before-christmas-3": {
+    "path": "images/the-nightmare-before-christmas-3.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-nightmare-before-christmas-3"
+  },
+  "101-dalmatians-0": {
+    "path": "images/101-dalmatians-0.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "101-dalmatians-0"
+  },
+  "101-dalmatians-1": {
+    "path": "images/101-dalmatians-1.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "101-dalmatians-1"
+  },
+  "101-dalmatians-2": {
+    "path": "images/101-dalmatians-2.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "101-dalmatians-2"
+  },
+  "wish-0": {
+    "path": "images/wish-0.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "wish-0"
+  },
+  "wish-1": {
+    "path": "images/wish-1.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "wish-1"
+  },
+  "wish-2": {
+    "path": "images/wish-2.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "wish-2"
+  },
+  "wish-3": {
+    "path": "images/wish-3.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "wish-3"
+  },
+  "the-good-dinosaur-0": {
+    "path": "images/the-good-dinosaur-0.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "the-good-dinosaur-0"
+  },
+  "raya-and-the-last-dragon-0": {
+    "path": "images/raya-and-the-last-dragon-0.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "raya-and-the-last-dragon-0"
+  },
+  "raya-and-the-last-dragon-1": {
+    "path": "images/raya-and-the-last-dragon-1.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "raya-and-the-last-dragon-1"
+  },
+  "raya-and-the-last-dragon-2": {
+    "path": "images/raya-and-the-last-dragon-2.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "raya-and-the-last-dragon-2"
+  },
+  "raya-and-the-last-dragon-3": {
+    "path": "images/raya-and-the-last-dragon-3.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "raya-and-the-last-dragon-3"
+  }
 }
