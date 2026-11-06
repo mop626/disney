@@ -1,0 +1,42 @@
+name: Disney 621 character second-source image search
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Max characters to re-search (0 = all with no existing candidate)'
+        required: true
+        default: '0'
+        type: string
+permissions:
+  contents: write
+concurrency:
+  group: disney-image-import-621
+  cancel-in-progress: false
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install image library
+        run: python -m pip install 'Pillow>=10,<13'
+      - name: Look for additional image candidates (never publishes)
+        env:
+          RESEARCH_LIMIT: ${{ inputs.limit }}
+        run: python image_search_fallback_621.py --limit "$RESEARCH_LIMIT"
+      - name: Commit candidate image files and search report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add images/new-candidates/
+          if ! git diff --cached --quiet; then
+            git commit -m "Search second source for unreviewed Disney images"
+            git push
+          else
+            echo 'No changes to commit'
+          fi
