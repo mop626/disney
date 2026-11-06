@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "changes": [
+    {
+      "characterId": "extended-the-lion-king-shenzi",
+      "action": "add",
+      "reason": "new_image",
+      "oldPath": "",
+      "newPath": "images/fixed-extended-the-lion-king-shenzi-8a2b78f92a65.webp",
+      "source": "images/manual/extended-the-lion-king-shenzi.webp",
+      "at": "2026-11-06T09:19:08.648676+00:00"
+    },
+    {
+      "characterId": "extended-moana-te-ka",
+      "action": "add",
+      "reason": "new_image",
+      "oldPath": "",
+      "newPath": "images/fixed-extended-moana-te-ka-18153b0dc951.webp",
+      "source": "images/manual/extended-moana-te-ka.webp",
+      "at": "2026-11-06T09:19:08.648676+00:00"
+    },
+    {
+      "characterId": "extended-finding-nemo-bloat",
+      "action": "remove",
+      "reason": "multiple_characters",
+      "oldPath": "images/extended-finding-nemo-bloat.webp",
+      "newPath": "",
+      "source": "",
+      "at": "2026-11-06T09:19:08.648676+00:00"
+    }
+  ]
+}

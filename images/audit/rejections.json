@@ -12,6 +12,11 @@
       "path": "images/new-candidates/extended-moana-te-ka--wiki-582730-2.webp",
       "reason": "wrong_character",
       "note": "Moana (not Te Ka)"
+    },
+    {
+      "characterId": "extended-finding-nemo-bloat",
+      "path": "images/new-candidates/extended-finding-nemo-bloat--wiki-969279-1.webp",
+      "reason": "multiple_characters"
     }
   ]
 }

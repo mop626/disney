@@ -2603,12 +2603,6 @@
     "singleCharacter": true,
     "characterId": "extended-finding-nemo-darla"
   },
-  "extended-finding-nemo-bloat": {
-    "path": "images/extended-finding-nemo-bloat.webp",
-    "reviewed": true,
-    "singleCharacter": true,
-    "characterId": "extended-finding-nemo-bloat"
-  },
   "extended-finding-nemo-gurgle": {
     "path": "images/extended-finding-nemo-gurgle.webp",
     "reviewed": true,
@@ -3130,5 +3124,17 @@
     "reviewed": true,
     "singleCharacter": true,
     "characterId": "extended-elio-melmac"
+  },
+  "extended-the-lion-king-shenzi": {
+    "path": "images/fixed-extended-the-lion-king-shenzi-8a2b78f92a65.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-the-lion-king-shenzi"
+  },
+  "extended-moana-te-ka": {
+    "path": "images/fixed-extended-moana-te-ka-18153b0dc951.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-moana-te-ka"
   }
 }

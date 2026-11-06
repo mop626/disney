@@ -913,7 +913,7 @@
       ]
     },
     "extended-the-lion-king-shenzi": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-lion-king-shenzi--wiki-67784-1.webp",
@@ -2133,7 +2133,7 @@
       ]
     },
     "extended-moana-te-ka": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-moana-te-ka--wiki-754286-1.webp",
@@ -4030,7 +4030,7 @@
       ]
     },
     "extended-finding-nemo-bloat": {
-      "status": "PUBLISHED",
+      "status": "REQUIRES_NEW_IMAGE",
       "candidates": [
         {
           "path": "images/new-candidates/extended-finding-nemo-bloat--wiki-969279-1.webp",
@@ -4042,7 +4042,7 @@
           "width": 650,
           "height": 345,
           "sha256": "23841466ad27d1f45dbdf3c6c0e03652619a59677fb392ab7c0023e5b7573a30",
-          "publishedPath": "images/extended-finding-nemo-bloat.webp",
+          "publishedPath": "",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },

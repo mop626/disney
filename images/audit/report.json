@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T08:13:28.376779+00:00",
+  "generatedAt": "2026-11-06T09:19:08.706983+00:00",
   "catalog": 621,
-  "imageRegistered": 502,
-  "missing": 119,
-  "rejectedCandidates": 2,
+  "imageRegistered": 503,
+  "missing": 118,
+  "rejectedCandidates": 3,
   "issues": [
     {
       "characterId": "mickey-&-friends-5",
@@ -318,8 +318,8 @@
     },
     {
       "characterId": "extended-the-lion-king-shenzi",
-      "type": "missing",
-      "message": "画像未登録"
+      "type": "check",
+      "message": "過去に複数キャラ画像の指摘あり：現在画像を要確認"
     },
     {
       "characterId": "extended-the-lion-king-banzai",
@@ -373,11 +373,6 @@
     },
     {
       "characterId": "extended-frozen-ii-ryder",
-      "type": "missing",
-      "message": "画像未登録"
-    },
-    {
-      "characterId": "extended-moana-te-ka",
       "type": "missing",
       "message": "画像未登録"
     },
@@ -463,8 +458,8 @@
     },
     {
       "characterId": "extended-finding-nemo-bloat",
-      "type": "check",
-      "message": "候補の画像元名がキャラクター名と異なります（目視確認）"
+      "type": "missing",
+      "message": "画像未登録"
     },
     {
       "characterId": "extended-finding-nemo-deb",
