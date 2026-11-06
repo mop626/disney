@@ -1,0 +1,19 @@
+{
+  "original_count": 255,
+  "added_count": 366,
+  "total_count": 621,
+  "original_works": 53,
+  "total_works": 78,
+  "text_quiz_count": 366,
+  "skipped_duplicate_count": 1,
+  "added_by_franchise": {
+    "Disney": 246,
+    "Pixar": 120
+  },
+  "added_by_difficulty": {
+    "1": 5,
+    "2": 83,
+    "3": 224,
+    "4": 54
+  }
+}

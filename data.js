@@ -3510,5 +3510,5166 @@ export const curated = [
     "difficulty": 3,
     "imageUrl": "",
     "sourceUrl": "https://www.disney.co.jp/fc/pixar/inside-out/character/bing-bong"
+  },
+  {
+    "id": "extended-mickey-friends-pete",
+    "name": "Pete",
+    "jp": "ピート",
+    "aliases": [],
+    "films": [
+      "Mickey & Friends"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ミッキーたちの前に立ちはだかる大柄なネコのライバル"
+  },
+  {
+    "id": "extended-mickey-friends-horace-horsecollar",
+    "name": "Horace Horsecollar",
+    "jp": "ホーレス・ホースカラー",
+    "aliases": [],
+    "films": [
+      "Mickey & Friends"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "昔の短編作品で活躍する馬のキャラクター"
+  },
+  {
+    "id": "extended-mickey-friends-clarabelle-cow",
+    "name": "Clarabelle Cow",
+    "jp": "クララベル・カウ",
+    "aliases": [],
+    "films": [
+      "Mickey & Friends"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ミニーたちと仲のよいウシのキャラクター"
+  },
+  {
+    "id": "extended-mickey-friends-max-goof",
+    "name": "Max Goof",
+    "jp": "マックス",
+    "aliases": [],
+    "films": [
+      "Mickey & Friends"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "グーフィーの息子で、ダンスが得意な少年"
+  },
+  {
+    "id": "extended-mickey-friends-oswald-the-lucky-rabbit",
+    "name": "Oswald the Lucky Rabbit",
+    "jp": "オズワルド",
+    "aliases": [],
+    "films": [
+      "Mickey & Friends"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "大きな長い耳を持つ幸運のウサギ"
+  },
+  {
+    "id": "extended-mickey-friends-ortensia",
+    "name": "Ortensia",
+    "jp": "オルテンシア",
+    "aliases": [],
+    "films": [
+      "Mickey & Friends"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "幸運のウサギの恋人であるネコ"
+  },
+  {
+    "id": "extended-mickey-friends-ludwig-von-drake",
+    "name": "Ludwig Von Drake",
+    "jp": "ルードヴィヒ・フォン・ドレイク",
+    "aliases": [],
+    "films": [
+      "Mickey & Friends"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "知識豊富で講義好きなアヒルの博士"
+  },
+  {
+    "id": "extended-mickey-friends-jose-carioca",
+    "name": "José Carioca",
+    "jp": "ホセ・キャリオカ",
+    "aliases": [
+      "ホセ"
+    ],
+    "films": [
+      "Mickey & Friends"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ブラジル出身の陽気なオウム"
+  },
+  {
+    "id": "extended-mickey-friends-panchito-pistoles",
+    "name": "Panchito Pistoles",
+    "jp": "パンチート",
+    "aliases": [
+      "パンチート・ピストレス"
+    ],
+    "films": [
+      "Mickey & Friends"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "メキシコ出身の陽気な雄鶏"
+  },
+  {
+    "id": "extended-mickey-friends-webby-vanderquack",
+    "name": "Webby Vanderquack",
+    "jp": "ウェビー",
+    "aliases": [],
+    "films": [
+      "Mickey & Friends"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ダックバーグの冒険で活躍する少女"
+  },
+  {
+    "id": "extended-mickey-friends-magica-de-spell",
+    "name": "Magica De Spell",
+    "jp": "マジカ・デ・スペル",
+    "aliases": [],
+    "films": [
+      "Mickey & Friends"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "金貨を狙う魔女のアヒル"
+  },
+  {
+    "id": "extended-mickey-friends-launchpad-mcquack",
+    "name": "Launchpad McQuack",
+    "jp": "ランチパッド",
+    "aliases": [],
+    "films": [
+      "Mickey & Friends"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "飛行機を操縦するドジなアヒル"
+  },
+  {
+    "id": "extended-snow-white-and-the-seven-dwarfs-the-prince",
+    "name": "The Prince",
+    "jp": "王子",
+    "aliases": [],
+    "films": [
+      "Snow White and the Seven Dwarfs"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "白雪姫を目覚めさせる王子"
+  },
+  {
+    "id": "extended-snow-white-and-the-seven-dwarfs-the-huntsman",
+    "name": "The Huntsman",
+    "jp": "狩人",
+    "aliases": [],
+    "films": [
+      "Snow White and the Seven Dwarfs"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "白雪姫を森で逃がした心優しい男性"
+  },
+  {
+    "id": "extended-cinderella-lady-tremaine",
+    "name": "Lady Tremaine",
+    "jp": "トレメイン夫人",
+    "aliases": [
+      "トレメイン"
+    ],
+    "films": [
+      "Cinderella"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "シンデレラに冷たく当たる継母"
+  },
+  {
+    "id": "extended-cinderella-anastasia-tremaine",
+    "name": "Anastasia Tremaine",
+    "jp": "アナスタシア",
+    "aliases": [],
+    "films": [
+      "Cinderella"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "シンデレラの義理の姉妹で後にパン屋の男性と恋に落ちる"
+  },
+  {
+    "id": "extended-cinderella-drizella-tremaine",
+    "name": "Drizella Tremaine",
+    "jp": "ドリゼラ",
+    "aliases": [],
+    "films": [
+      "Cinderella"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "シンデレラの義理の姉妹で緑色の服を着る"
+  },
+  {
+    "id": "extended-cinderella-lucifer",
+    "name": "Lucifer",
+    "jp": "ルシファー",
+    "aliases": [],
+    "films": [
+      "Cinderella"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "継母がかわいがる意地悪な黒猫"
+  },
+  {
+    "id": "extended-cinderella-bruno",
+    "name": "Bruno",
+    "jp": "ブルーノ",
+    "aliases": [],
+    "films": [
+      "Cinderella"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "シンデレラを慕う犬"
+  },
+  {
+    "id": "extended-cinderella-major",
+    "name": "Major",
+    "jp": "メジャー",
+    "aliases": [],
+    "films": [
+      "Cinderella"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "シンデレラを助ける馬"
+  },
+  {
+    "id": "extended-cinderella-grand-duke",
+    "name": "Grand Duke",
+    "jp": "大公",
+    "aliases": [],
+    "films": [
+      "Cinderella"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ガラスの靴の持ち主を探す王宮の使者"
+  },
+  {
+    "id": "extended-sleeping-beauty-diablo",
+    "name": "Diablo",
+    "jp": "ディアブロ",
+    "aliases": [],
+    "films": [
+      "Sleeping Beauty"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "魔女に仕える黒いカラス"
+  },
+  {
+    "id": "extended-sleeping-beauty-king-stefan",
+    "name": "King Stefan",
+    "jp": "ステファン王",
+    "aliases": [],
+    "films": [
+      "Sleeping Beauty"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "眠れる森の姫の父親"
+  },
+  {
+    "id": "extended-sleeping-beauty-queen-leah",
+    "name": "Queen Leah",
+    "jp": "リア王妃",
+    "aliases": [],
+    "films": [
+      "Sleeping Beauty"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "眠れる森の姫の母親"
+  },
+  {
+    "id": "extended-sleeping-beauty-king-hubert",
+    "name": "King Hubert",
+    "jp": "ヒューバート王",
+    "aliases": [],
+    "films": [
+      "Sleeping Beauty"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "王子の父親である陽気な王"
+  },
+  {
+    "id": "extended-the-little-mermaid-scuttle",
+    "name": "Scuttle",
+    "jp": "スカットル",
+    "aliases": [],
+    "films": [
+      "The Little Mermaid"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "人間の道具を勘違いしながら教えるカモメ"
+  },
+  {
+    "id": "extended-the-little-mermaid-flotsam",
+    "name": "Flotsam",
+    "jp": "フロットサム",
+    "aliases": [],
+    "films": [
+      "The Little Mermaid"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "海の魔女に仕えるウツボ。名前は英語で水面を漂う漂流物を意味する"
+  },
+  {
+    "id": "extended-the-little-mermaid-jetsam",
+    "name": "Jetsam",
+    "jp": "ジェットサム",
+    "aliases": [],
+    "films": [
+      "The Little Mermaid"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "海の魔女に仕えるウツボ。名前は英語で船から捨てられた荷物を意味する"
+  },
+  {
+    "id": "extended-the-little-mermaid-chef-louis",
+    "name": "Chef Louis",
+    "jp": "ルイ",
+    "aliases": [],
+    "films": [
+      "The Little Mermaid"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "城の厨房で歌いながら料理するシェフ"
+  },
+  {
+    "id": "extended-the-little-mermaid-grimsby",
+    "name": "Grimsby",
+    "jp": "グリムズビー",
+    "aliases": [],
+    "films": [
+      "The Little Mermaid"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "王子の世話をする側近"
+  },
+  {
+    "id": "extended-the-little-mermaid-ii-return-to-the-sea-melody",
+    "name": "Melody",
+    "jp": "メロディ",
+    "aliases": [],
+    "films": [
+      "The Little Mermaid II: Return to the Sea"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "人間の世界で育った人魚姫の娘"
+  },
+  {
+    "id": "extended-the-little-mermaid-ii-return-to-the-sea-morgana",
+    "name": "Morgana",
+    "jp": "モルガナ",
+    "aliases": [],
+    "films": [
+      "The Little Mermaid II: Return to the Sea"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "海の魔女の妹"
+  },
+  {
+    "id": "extended-beauty-and-the-beast-maurice",
+    "name": "Maurice",
+    "jp": "モーリス",
+    "aliases": [],
+    "films": [
+      "Beauty and the Beast"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "発明が好きなベルの父親"
+  },
+  {
+    "id": "extended-beauty-and-the-beast-lefou",
+    "name": "LeFou",
+    "jp": "ル・フウ",
+    "aliases": [],
+    "films": [
+      "Beauty and the Beast"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "筋肉自慢の狩人にいつも付き従う男"
+  },
+  {
+    "id": "extended-beauty-and-the-beast-babette",
+    "name": "Babette",
+    "jp": "バベット",
+    "aliases": [],
+    "films": [
+      "Beauty and the Beast"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "城で羽根ばたきに変えられた召使い"
+  },
+  {
+    "id": "extended-beauty-and-the-beast-wardrobe",
+    "name": "Wardrobe",
+    "jp": "ワードローブ",
+    "aliases": [],
+    "films": [
+      "Beauty and the Beast"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "歌が得意な大きな洋服ダンス"
+  },
+  {
+    "id": "extended-beauty-and-the-beast-sultan",
+    "name": "Sultan",
+    "jp": "サルタン",
+    "aliases": [
+      "スルタン"
+    ],
+    "films": [
+      "Beauty and the Beast"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "城で足置きに変えられた犬"
+  },
+  {
+    "id": "extended-aladdin-the-sultan",
+    "name": "The Sultan",
+    "jp": "サルタン王",
+    "aliases": [
+      "サルタン"
+    ],
+    "films": [
+      "Aladdin"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ジャスミン姫の父親であるアグラバーの王"
+  },
+  {
+    "id": "extended-aladdin-razoul",
+    "name": "Razoul",
+    "jp": "ラズール",
+    "aliases": [],
+    "films": [
+      "Aladdin"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "アグラバーの衛兵隊長"
+  },
+  {
+    "id": "extended-aladdin-and-the-king-of-thieves-cassim",
+    "name": "Cassim",
+    "jp": "カシーム",
+    "aliases": [],
+    "films": [
+      "Aladdin and the King of Thieves"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "盗賊王として知られるアラジンの父"
+  },
+  {
+    "id": "extended-the-lion-king-shenzi",
+    "name": "Shenzi",
+    "jp": "シェンジ",
+    "aliases": [],
+    "films": [
+      "The Lion King"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ハイエナの群れを率いる雌のリーダー"
+  },
+  {
+    "id": "extended-the-lion-king-banzai",
+    "name": "Banzai",
+    "jp": "バンザイ",
+    "aliases": [],
+    "films": [
+      "The Lion King"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "スカーに従うおしゃべりなハイエナ"
+  },
+  {
+    "id": "extended-the-lion-king-ed",
+    "name": "Ed",
+    "jp": "エド",
+    "aliases": [],
+    "films": [
+      "The Lion King"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "笑い声が特徴的なハイエナ"
+  },
+  {
+    "id": "extended-the-lion-king-sarabi",
+    "name": "Sarabi",
+    "jp": "サラビ",
+    "aliases": [],
+    "films": [
+      "The Lion King"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "シンバの母親である雌ライオン"
+  },
+  {
+    "id": "extended-the-lion-king-sarafina",
+    "name": "Sarafina",
+    "jp": "サラフィナ",
+    "aliases": [],
+    "films": [
+      "The Lion King"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ナラの母親である雌ライオン"
+  },
+  {
+    "id": "extended-the-lion-king-ii-simba-s-pride-kiara",
+    "name": "Kiara",
+    "jp": "キアラ",
+    "aliases": [],
+    "films": [
+      "The Lion King II: Simba's Pride"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "プライドランドの王女でシンバの娘"
+  },
+  {
+    "id": "extended-the-lion-king-ii-simba-s-pride-kovu",
+    "name": "Kovu",
+    "jp": "コブ",
+    "aliases": [],
+    "films": [
+      "The Lion King II: Simba's Pride"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "敵対する群れで育った若い雄ライオン"
+  },
+  {
+    "id": "extended-the-lion-king-ii-simba-s-pride-zira",
+    "name": "Zira",
+    "jp": "ジラ",
+    "aliases": [],
+    "films": [
+      "The Lion King II: Simba's Pride"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "アウトランドのライオンたちを率いる母親"
+  },
+  {
+    "id": "extended-the-lion-king-ii-simba-s-pride-vitani",
+    "name": "Vitani",
+    "jp": "ビタニ",
+    "aliases": [],
+    "films": [
+      "The Lion King II: Simba's Pride"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "アウトランドで育った若い雌ライオン"
+  },
+  {
+    "id": "extended-the-lion-guard-kion",
+    "name": "Kion",
+    "jp": "カイオン",
+    "aliases": [],
+    "films": [
+      "The Lion Guard"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ライオン・ガードを率いるシンバの息子"
+  },
+  {
+    "id": "extended-the-lion-guard-fuli",
+    "name": "Fuli",
+    "jp": "フーリ",
+    "aliases": [],
+    "films": [
+      "The Lion Guard"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ライオン・ガードの俊足チーター"
+  },
+  {
+    "id": "extended-the-lion-guard-bunga",
+    "name": "Bunga",
+    "jp": "バンガ",
+    "aliases": [],
+    "films": [
+      "The Lion Guard"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ライオン・ガードの勇敢なラーテル"
+  },
+  {
+    "id": "extended-the-lion-guard-ono",
+    "name": "Ono",
+    "jp": "オーノ",
+    "aliases": [],
+    "films": [
+      "The Lion Guard"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ライオン・ガードの目が良い鳥"
+  },
+  {
+    "id": "extended-the-lion-guard-beshte",
+    "name": "Beshte",
+    "jp": "ベシティ",
+    "aliases": [],
+    "films": [
+      "The Lion Guard"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ライオン・ガードの力持ちのカバ"
+  },
+  {
+    "id": "extended-pocahontas-grandmother-willow",
+    "name": "Grandmother Willow",
+    "jp": "ウィローおばあさん",
+    "aliases": [
+      "ウィロー"
+    ],
+    "films": [
+      "Pocahontas"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "川辺に立つ話す柳の木"
+  },
+  {
+    "id": "extended-pocahontas-percy",
+    "name": "Percy",
+    "jp": "パーシー",
+    "aliases": [],
+    "films": [
+      "Pocahontas"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "総督がかわいがるおしゃれな犬"
+  },
+  {
+    "id": "extended-pocahontas-governor-ratcliffe",
+    "name": "Governor Ratcliffe",
+    "jp": "ラトクリフ総督",
+    "aliases": [],
+    "films": [
+      "Pocahontas"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "黄金を求めて新大陸にやって来た総督"
+  },
+  {
+    "id": "extended-pocahontas-thomas",
+    "name": "Thomas",
+    "jp": "トーマス",
+    "aliases": [],
+    "films": [
+      "Pocahontas"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ジョン・スミスと行動する若い入植者"
+  },
+  {
+    "id": "extended-pocahontas-nakoma",
+    "name": "Nakoma",
+    "jp": "ナコマ",
+    "aliases": [],
+    "films": [
+      "Pocahontas"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ポカホンタスの親友"
+  },
+  {
+    "id": "extended-pocahontas-chief-powhatan",
+    "name": "Chief Powhatan",
+    "jp": "ポウハタン首長",
+    "aliases": [],
+    "films": [
+      "Pocahontas"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ポカホンタスの父である部族の長"
+  },
+  {
+    "id": "extended-pocahontas-kocoum",
+    "name": "Kocoum",
+    "jp": "ココアム",
+    "aliases": [],
+    "films": [
+      "Pocahontas"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "部族の勇敢な戦士"
+  },
+  {
+    "id": "extended-mulan-shan-yu",
+    "name": "Shan Yu",
+    "jp": "シャン・ユー",
+    "aliases": [],
+    "films": [
+      "Mulan"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "フン族を率いる恐ろしい将軍"
+  },
+  {
+    "id": "extended-mulan-yao",
+    "name": "Yao",
+    "jp": "ヤオ",
+    "aliases": [],
+    "films": [
+      "Mulan"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "小柄で短気なムーランの戦友"
+  },
+  {
+    "id": "extended-mulan-ling",
+    "name": "Ling",
+    "jp": "リン",
+    "aliases": [],
+    "films": [
+      "Mulan"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "冗談好きのムーランの戦友"
+  },
+  {
+    "id": "extended-mulan-chien-po",
+    "name": "Chien-Po",
+    "jp": "チェン・ポー",
+    "aliases": [],
+    "films": [
+      "Mulan"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "大柄でおっとりしたムーランの戦友"
+  },
+  {
+    "id": "extended-mulan-fa-zhou",
+    "name": "Fa Zhou",
+    "jp": "ファ・ズー",
+    "aliases": [],
+    "films": [
+      "Mulan"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "病を抱えながらも出征しようとする父"
+  },
+  {
+    "id": "extended-mulan-fa-li",
+    "name": "Fa Li",
+    "jp": "ファ・リー",
+    "aliases": [],
+    "films": [
+      "Mulan"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ムーランを心配する母親"
+  },
+  {
+    "id": "extended-mulan-grandmother-fa",
+    "name": "Grandmother Fa",
+    "jp": "ファ家のおばあちゃん",
+    "aliases": [],
+    "films": [
+      "Mulan"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "コオロギのお守りを孫に渡す祖母"
+  },
+  {
+    "id": "extended-the-princess-and-the-frog-ray",
+    "name": "Ray",
+    "jp": "レイ",
+    "aliases": [],
+    "films": [
+      "The Princess and the Frog"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "星に恋するホタル"
+  },
+  {
+    "id": "extended-the-princess-and-the-frog-louis",
+    "name": "Louis",
+    "jp": "ルイス",
+    "aliases": [],
+    "films": [
+      "The Princess and the Frog"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "トランペットを吹きたがるワニ"
+  },
+  {
+    "id": "extended-the-princess-and-the-frog-charlotte-la-bouff",
+    "name": "Charlotte La Bouff",
+    "jp": "シャーロット",
+    "aliases": [],
+    "films": [
+      "The Princess and the Frog"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ティアナの陽気な幼なじみ"
+  },
+  {
+    "id": "extended-the-princess-and-the-frog-big-daddy-la-bouff",
+    "name": "Big Daddy La Bouff",
+    "jp": "ビッグ・ダディ",
+    "aliases": [],
+    "films": [
+      "The Princess and the Frog"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "シャーロットを溺愛する裕福な父親"
+  },
+  {
+    "id": "extended-the-princess-and-the-frog-mama-odie",
+    "name": "Mama Odie",
+    "jp": "ママ・オーディ",
+    "aliases": [],
+    "films": [
+      "The Princess and the Frog"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "沼地に住む不思議な力を持つおばあさん"
+  },
+  {
+    "id": "extended-the-princess-and-the-frog-eudora",
+    "name": "Eudora",
+    "jp": "ユードラ",
+    "aliases": [],
+    "films": [
+      "The Princess and the Frog"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "裁縫が得意なティアナの母"
+  },
+  {
+    "id": "extended-the-princess-and-the-frog-lawrence",
+    "name": "Lawrence",
+    "jp": "ローレンス",
+    "aliases": [],
+    "films": [
+      "The Princess and the Frog"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "王子に仕える野心家の従者"
+  },
+  {
+    "id": "extended-tangled-hook-hand",
+    "name": "Hook Hand",
+    "jp": "フックハンド",
+    "aliases": [],
+    "films": [
+      "Tangled"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "酒場にいるピアニスト志望の荒くれ者"
+  },
+  {
+    "id": "extended-tangled-shorty",
+    "name": "Shorty",
+    "jp": "ショーティー",
+    "aliases": [],
+    "films": [
+      "Tangled"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "酒場で出会う小柄なお年寄り"
+  },
+  {
+    "id": "extended-tangled-vladimir",
+    "name": "Vladimir",
+    "jp": "ヴラッド",
+    "aliases": [],
+    "films": [
+      "Tangled"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ユニコーンをこよなく愛する大男"
+  },
+  {
+    "id": "extended-tangled-queen-arianna",
+    "name": "Queen Arianna",
+    "jp": "アリアナ王妃",
+    "aliases": [],
+    "films": [
+      "Tangled"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "長年行方不明だった王女を待つ母親"
+  },
+  {
+    "id": "extended-tangled-king-frederic",
+    "name": "King Frederic",
+    "jp": "フレデリック王",
+    "aliases": [],
+    "films": [
+      "Tangled"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "娘の帰りを待ち続ける王"
+  },
+  {
+    "id": "extended-tangled-the-series-cassandra",
+    "name": "Cassandra",
+    "jp": "カサンドラ",
+    "aliases": [],
+    "films": [
+      "Tangled: The Series"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "王女に仕える侍女で剣が得意"
+  },
+  {
+    "id": "extended-tangled-the-series-varian",
+    "name": "Varian",
+    "jp": "ヴァリアン",
+    "aliases": [],
+    "films": [
+      "Tangled: The Series"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "錬金術に詳しい若い発明家"
+  },
+  {
+    "id": "extended-tangled-the-series-lance-strongbow",
+    "name": "Lance Strongbow",
+    "jp": "ランス",
+    "aliases": [],
+    "films": [
+      "Tangled: The Series"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "大泥棒の古くからの友人"
+  },
+  {
+    "id": "extended-frozen-oaken",
+    "name": "Oaken",
+    "jp": "オーケン",
+    "aliases": [],
+    "films": [
+      "Frozen"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "山の雑貨屋とサウナを営む店主"
+  },
+  {
+    "id": "extended-frozen-duke-of-weselton",
+    "name": "Duke of Weselton",
+    "jp": "ウェーゼルトン公爵",
+    "aliases": [],
+    "films": [
+      "Frozen"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "南の島から来た商売熱心な貴族"
+  },
+  {
+    "id": "extended-frozen-grand-pabbie",
+    "name": "Grand Pabbie",
+    "jp": "パビー",
+    "aliases": [],
+    "films": [
+      "Frozen"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "トロールたちの長老"
+  },
+  {
+    "id": "extended-frozen-ii-yelena",
+    "name": "Yelena",
+    "jp": "イエレナ",
+    "aliases": [],
+    "films": [
+      "Frozen II"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ノーサルドラの民を率いる女性"
+  },
+  {
+    "id": "extended-frozen-ii-honeymaren",
+    "name": "Honeymaren",
+    "jp": "ハニーマレン",
+    "aliases": [],
+    "films": [
+      "Frozen II"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "森で暮らすノーサルドラの女性"
+  },
+  {
+    "id": "extended-frozen-ii-ryder",
+    "name": "Ryder",
+    "jp": "ライダー",
+    "aliases": [],
+    "films": [
+      "Frozen II"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "トナカイが大好きなノーサルドラの青年"
+  },
+  {
+    "id": "extended-frozen-ii-bruni",
+    "name": "Bruni",
+    "jp": "ブルーニ",
+    "aliases": [],
+    "films": [
+      "Frozen II"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "火の精霊である小さなサンショウウオ"
+  },
+  {
+    "id": "extended-frozen-ii-gale",
+    "name": "Gale",
+    "jp": "ゲイル",
+    "aliases": [],
+    "films": [
+      "Frozen II"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "森でいたずらをする風の精霊"
+  },
+  {
+    "id": "extended-frozen-ii-lieutenant-mattias",
+    "name": "Lieutenant Mattias",
+    "jp": "マティアス中尉",
+    "aliases": [],
+    "films": [
+      "Frozen II"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "長く魔法の森に閉じ込められていた兵士"
+  },
+  {
+    "id": "extended-frozen-ii-queen-iduna",
+    "name": "Queen Iduna",
+    "jp": "イドゥナ",
+    "aliases": [],
+    "films": [
+      "Frozen II"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "幼い姉妹の母である王妃"
+  },
+  {
+    "id": "extended-frozen-ii-king-agnarr",
+    "name": "King Agnarr",
+    "jp": "アグナル",
+    "aliases": [],
+    "films": [
+      "Frozen II"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "幼い姉妹の父である王"
+  },
+  {
+    "id": "extended-frozen-ii-the-nokk",
+    "name": "The Nokk",
+    "jp": "ノック",
+    "aliases": [],
+    "films": [
+      "Frozen II"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "水の精霊である美しい馬"
+  },
+  {
+    "id": "extended-moana-gramma-tala",
+    "name": "Gramma Tala",
+    "jp": "タラおばあちゃん",
+    "aliases": [],
+    "films": [
+      "Moana"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "海を愛するヒロインの祖母"
+  },
+  {
+    "id": "extended-moana-chief-tui",
+    "name": "Chief Tui",
+    "jp": "トゥイ",
+    "aliases": [],
+    "films": [
+      "Moana"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "島の村を率いるモアナの父"
+  },
+  {
+    "id": "extended-moana-sina",
+    "name": "Sina",
+    "jp": "シーナ",
+    "aliases": [],
+    "films": [
+      "Moana"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "娘を優しく見守るモアナの母"
+  },
+  {
+    "id": "extended-moana-te-ka",
+    "name": "Te Kā",
+    "jp": "テ・カァ",
+    "aliases": [],
+    "films": [
+      "Moana"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "燃える溶岩の姿をした存在"
+  },
+  {
+    "id": "extended-moana-2-simea",
+    "name": "Simea",
+    "jp": "シメア",
+    "aliases": [],
+    "films": [
+      "Moana 2"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "https://www.disney.co.jp/fc/moana2",
+    "hint": "モアナに憧れる幼い妹"
+  },
+  {
+    "id": "extended-moana-2-matangi",
+    "name": "Matangi",
+    "jp": "マタンギ",
+    "aliases": [],
+    "films": [
+      "Moana 2"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "https://www.disney.co.jp/fc/moana2",
+    "hint": "コウモリたちを操る謎めいた女性"
+  },
+  {
+    "id": "extended-moana-2-moni",
+    "name": "Moni",
+    "jp": "モニ",
+    "aliases": [],
+    "films": [
+      "Moana 2"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "https://www.disney.co.jp/fc/moana2",
+    "hint": "昔の英雄伝説に詳しい青年"
+  },
+  {
+    "id": "extended-moana-2-loto",
+    "name": "Loto",
+    "jp": "ロト",
+    "aliases": [],
+    "films": [
+      "Moana 2"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "https://www.disney.co.jp/fc/moana2",
+    "hint": "発明が大好きな乗組員"
+  },
+  {
+    "id": "extended-moana-2-kele",
+    "name": "Kele",
+    "jp": "ケレ",
+    "aliases": [],
+    "films": [
+      "Moana 2"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "https://www.disney.co.jp/fc/moana2",
+    "hint": "気難しい料理担当の乗組員"
+  },
+  {
+    "id": "extended-moana-2-nalo",
+    "name": "Nalo",
+    "jp": "ナロ",
+    "aliases": [],
+    "films": [
+      "Moana 2"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "https://www.disney.co.jp/fc/moana2",
+    "hint": "海の航路を封じた嵐の神"
+  },
+  {
+    "id": "extended-zootopia-chief-bogo",
+    "name": "Chief Bogo",
+    "jp": "ボゴ署長",
+    "aliases": [],
+    "films": [
+      "Zootopia"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ズートピア警察の厳格な水牛の上司"
+  },
+  {
+    "id": "extended-zootopia-mayor-lionheart",
+    "name": "Mayor Lionheart",
+    "jp": "ライオンハート市長",
+    "aliases": [],
+    "films": [
+      "Zootopia"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "街を治める立派なたてがみの市長"
+  },
+  {
+    "id": "extended-zootopia-mr-big",
+    "name": "Mr. Big",
+    "jp": "ミスター・ビッグ",
+    "aliases": [],
+    "films": [
+      "Zootopia"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "裏社会を仕切る小さなトガリネズミ"
+  },
+  {
+    "id": "extended-zootopia-finnick",
+    "name": "Finnick",
+    "jp": "フィニック",
+    "aliases": [],
+    "films": [
+      "Zootopia"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "キツネの相棒と赤ちゃんのふりをする小柄なキツネ"
+  },
+  {
+    "id": "extended-zootopia-yax",
+    "name": "Yax",
+    "jp": "ヤックス",
+    "aliases": [],
+    "films": [
+      "Zootopia"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ナチュリストクラブで働くヤク"
+  },
+  {
+    "id": "extended-zootopia-duke-weaselton",
+    "name": "Duke Weaselton",
+    "jp": "デューク・ウィーゼルトン",
+    "aliases": [],
+    "films": [
+      "Zootopia"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "違法DVDを売るイタチ"
+  },
+  {
+    "id": "extended-zootopia-fru-fru",
+    "name": "Fru Fru",
+    "jp": "フルー・フルー",
+    "aliases": [],
+    "films": [
+      "Zootopia"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "裏社会のボスを父に持つトガリネズミ"
+  },
+  {
+    "id": "extended-zootopia-2-gary-de-snake",
+    "name": "Gary De'Snake",
+    "jp": "ゲイリー・ダ・スネーク",
+    "aliases": [
+      "ゲイリー"
+    ],
+    "films": [
+      "Zootopia 2"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "https://www.disney.co.jp/fc/zootopia2",
+    "hint": "街の大きな秘密を知る青いヘビ"
+  },
+  {
+    "id": "extended-zootopia-2-nibbles-maplestick",
+    "name": "Nibbles Maplestick",
+    "jp": "ニブルズ・メープルスティック",
+    "aliases": [
+      "ニブルズ"
+    ],
+    "films": [
+      "Zootopia 2"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "https://www.disney.co.jp/fc/zootopia2",
+    "hint": "陰謀論を語るビーバーの配信者"
+  },
+  {
+    "id": "extended-zootopia-2-pawbert-lynxley",
+    "name": "Pawbert Lynxley",
+    "jp": "パウバート・リンクスリー",
+    "aliases": [
+      "パウバート"
+    ],
+    "films": [
+      "Zootopia 2"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "https://www.disney.co.jp/fc/zootopia2",
+    "hint": "街の創設者一族に生まれたオオヤマネコ"
+  },
+  {
+    "id": "extended-zootopia-2-milton-lynxley",
+    "name": "Milton Lynxley",
+    "jp": "ミルトン・リンクスリー",
+    "aliases": [],
+    "films": [
+      "Zootopia 2"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "https://www.disney.co.jp/fc/zootopia2",
+    "hint": "創設者一族の当主であるオオヤマネコ"
+  },
+  {
+    "id": "extended-zootopia-2-mayor-winddancer",
+    "name": "Mayor Winddancer",
+    "jp": "ウィンドダンサー市長",
+    "aliases": [],
+    "films": [
+      "Zootopia 2"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "https://www.disney.co.jp/fc/zootopia2",
+    "hint": "街の市長を務める馬"
+  },
+  {
+    "id": "extended-zootopia-2-dr-fuzzby",
+    "name": "Dr. Fuzzby",
+    "jp": "Dr.ファズビー",
+    "aliases": [],
+    "films": [
+      "Zootopia 2"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "https://www.disney.co.jp/fc/zootopia2",
+    "hint": "警察でカウンセリングを担当する動物"
+  },
+  {
+    "id": "extended-lilo-stitch-cobra-bubbles",
+    "name": "Cobra Bubbles",
+    "jp": "コブラ・バブルス",
+    "aliases": [],
+    "films": [
+      "Lilo & Stitch"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "黒いスーツとサングラスの社会福祉局員"
+  },
+  {
+    "id": "extended-lilo-stitch-david-kawena",
+    "name": "David Kawena",
+    "jp": "デイヴィッド",
+    "aliases": [],
+    "films": [
+      "Lilo & Stitch"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "サーフィンが得意なナニの友人"
+  },
+  {
+    "id": "extended-lilo-stitch-grand-councilwoman",
+    "name": "Grand Councilwoman",
+    "jp": "銀河連邦議長",
+    "aliases": [],
+    "films": [
+      "Lilo & Stitch"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "宇宙の銀河連邦をまとめる指導者"
+  },
+  {
+    "id": "extended-lilo-stitch-reuben",
+    "name": "Reuben",
+    "jp": "ルーベン",
+    "aliases": [],
+    "films": [
+      "Lilo & Stitch"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "サンドイッチ好きの試作品625号"
+  },
+  {
+    "id": "extended-lilo-stitch-leroy",
+    "name": "Leroy",
+    "jp": "リロイ",
+    "aliases": [],
+    "films": [
+      "Lilo & Stitch"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "赤い体をした試作品"
+  },
+  {
+    "id": "extended-lilo-stitch-sparky",
+    "name": "Sparky",
+    "jp": "スパーキー",
+    "aliases": [],
+    "films": [
+      "Lilo & Stitch"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "電気を操る試作品221号"
+  },
+  {
+    "id": "extended-lilo-stitch-dr-hamsterviel",
+    "name": "Dr. Hamsterviel",
+    "jp": "ハムスターヴィール博士",
+    "aliases": [],
+    "films": [
+      "Lilo & Stitch"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "小さな体の悪役科学者"
+  },
+  {
+    "id": "extended-peter-pan-john-darling",
+    "name": "John Darling",
+    "jp": "ジョン",
+    "aliases": [],
+    "films": [
+      "Peter Pan"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ウェンディの弟でメガネをかけた男の子"
+  },
+  {
+    "id": "extended-peter-pan-michael-darling",
+    "name": "Michael Darling",
+    "jp": "マイケル",
+    "aliases": [],
+    "films": [
+      "Peter Pan"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "クマのぬいぐるみを持つ末っ子"
+  },
+  {
+    "id": "extended-peter-pan-tiger-lily",
+    "name": "Tiger Lily",
+    "jp": "タイガー・リリー",
+    "aliases": [],
+    "films": [
+      "Peter Pan"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ネバーランドに住む部族の娘"
+  },
+  {
+    "id": "extended-peter-pan-nana",
+    "name": "Nana",
+    "jp": "ナナ",
+    "aliases": [],
+    "films": [
+      "Peter Pan"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ダーリング家の子供たちのお世話をする犬"
+  },
+  {
+    "id": "extended-peter-pan-tick-tock-crocodile",
+    "name": "Tick-Tock Crocodile",
+    "jp": "チクタクワニ",
+    "aliases": [],
+    "films": [
+      "Peter Pan"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "時計の音とともに海賊船を追うワニ"
+  },
+  {
+    "id": "extended-return-to-never-land-jane",
+    "name": "Jane",
+    "jp": "ジェーン",
+    "aliases": [],
+    "films": [
+      "Return to Never Land"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ウェンディの娘でネバーランドを訪れる少女"
+  },
+  {
+    "id": "extended-winnie-the-pooh-christopher-robin",
+    "name": "Christopher Robin",
+    "jp": "クリストファー・ロビン",
+    "aliases": [],
+    "films": [
+      "Winnie the Pooh"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "100エーカーの森の仲間と遊ぶ少年"
+  },
+  {
+    "id": "extended-winnie-the-pooh-gopher",
+    "name": "Gopher",
+    "jp": "ゴーファー",
+    "aliases": [],
+    "films": [
+      "Winnie the Pooh"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "穴掘りが好きな地面の下の住人"
+  },
+  {
+    "id": "extended-pooh-s-heffalump-movie-lumpy",
+    "name": "Lumpy",
+    "jp": "ランピー",
+    "aliases": [],
+    "films": [
+      "Pooh's Heffalump Movie"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ルーと友達になる子ゾウ"
+  },
+  {
+    "id": "extended-bambi-faline",
+    "name": "Faline",
+    "jp": "ファリーン",
+    "aliases": [],
+    "films": [
+      "Bambi"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "森で育った子ジカの幼なじみ"
+  },
+  {
+    "id": "extended-bambi-friend-owl",
+    "name": "Friend Owl",
+    "jp": "フレンド・オウル",
+    "aliases": [],
+    "films": [
+      "Bambi"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "春になると恋の話をするフクロウ"
+  },
+  {
+    "id": "extended-bambi-the-great-prince-of-the-forest",
+    "name": "The Great Prince of the Forest",
+    "jp": "森の王様",
+    "aliases": [],
+    "films": [
+      "Bambi"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "森を守る威厳あるシカ"
+  },
+  {
+    "id": "extended-the-aristocats-edgar",
+    "name": "Edgar",
+    "jp": "エドガー",
+    "aliases": [],
+    "films": [
+      "The Aristocats"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "猫たちを遠くに連れ去ろうとする執事"
+  },
+  {
+    "id": "extended-the-aristocats-scat-cat",
+    "name": "Scat Cat",
+    "jp": "スキャット・キャット",
+    "aliases": [],
+    "films": [
+      "The Aristocats"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ジャズを演奏する猫バンドのリーダー"
+  },
+  {
+    "id": "extended-the-aristocats-roquefort",
+    "name": "Roquefort",
+    "jp": "ロックフォール",
+    "aliases": [],
+    "films": [
+      "The Aristocats"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "猫たちを助けるネズミ"
+  },
+  {
+    "id": "extended-the-aristocats-frou-frou",
+    "name": "Frou-Frou",
+    "jp": "フルーフルー",
+    "aliases": [],
+    "films": [
+      "The Aristocats"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "上品な屋敷で暮らす馬"
+  },
+  {
+    "id": "extended-toy-story-andy-davis",
+    "name": "Andy Davis",
+    "jp": "アンディ",
+    "aliases": [],
+    "films": [
+      "Toy Story"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "カウボーイ人形を大切にする男の子"
+  },
+  {
+    "id": "extended-toy-story-3-bonnie-anderson",
+    "name": "Bonnie Anderson",
+    "jp": "ボニー",
+    "aliases": [],
+    "films": [
+      "Toy Story 3"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "おもちゃたちの新しい持ち主の女の子"
+  },
+  {
+    "id": "extended-toy-story-3-lotso",
+    "name": "Lotso",
+    "jp": "ロッツォ",
+    "aliases": [],
+    "films": [
+      "Toy Story 3"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "イチゴの香りがするピンクのクマ"
+  },
+  {
+    "id": "extended-toy-story-2-bullseye",
+    "name": "Bullseye",
+    "jp": "ブルズアイ",
+    "aliases": [],
+    "films": [
+      "Toy Story 2"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "カウボーイの相棒の馬"
+  },
+  {
+    "id": "extended-toy-story-2-stinky-pete",
+    "name": "Stinky Pete",
+    "jp": "プロスペクター",
+    "aliases": [],
+    "films": [
+      "Toy Story 2"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "おもちゃのコレクションに残りたがる炭鉱夫人形"
+  },
+  {
+    "id": "extended-toy-story-2-wheezy",
+    "name": "Wheezy",
+    "jp": "ウィージー",
+    "aliases": [],
+    "films": [
+      "Toy Story 2"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "笛が壊れたペンギンのおもちゃ"
+  },
+  {
+    "id": "extended-toy-story-3-ken",
+    "name": "Ken",
+    "jp": "ケン",
+    "aliases": [],
+    "films": [
+      "Toy Story 3"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "おしゃれ好きな着せ替え人形"
+  },
+  {
+    "id": "extended-toy-story-3-barbie",
+    "name": "Barbie",
+    "jp": "バービー",
+    "aliases": [],
+    "films": [
+      "Toy Story 3"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "保育園でケンと出会う着せ替え人形"
+  },
+  {
+    "id": "extended-toy-story-3-trixie",
+    "name": "Trixie",
+    "jp": "トリクシー",
+    "aliases": [],
+    "films": [
+      "Toy Story 3"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "恐竜の形をした青いおもちゃ"
+  },
+  {
+    "id": "extended-toy-story-3-buttercup",
+    "name": "Buttercup",
+    "jp": "バターカップ",
+    "aliases": [],
+    "films": [
+      "Toy Story 3"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "白いユニコーンのぬいぐるみ"
+  },
+  {
+    "id": "extended-toy-story-3-mr-pricklepants",
+    "name": "Mr. Pricklepants",
+    "jp": "ミスター・プリックルパンツ",
+    "aliases": [],
+    "films": [
+      "Toy Story 3"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "役者気取りのハリネズミのぬいぐるみ"
+  },
+  {
+    "id": "extended-toy-story-4-gabby-gabby",
+    "name": "Gabby Gabby",
+    "jp": "ギャビー・ギャビー",
+    "aliases": [],
+    "films": [
+      "Toy Story 4"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "アンティークショップにいる人形"
+  },
+  {
+    "id": "extended-toy-story-4-duke-caboom",
+    "name": "Duke Caboom",
+    "jp": "デューク・カブーン",
+    "aliases": [],
+    "films": [
+      "Toy Story 4"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "カナダのスタントマン人形"
+  },
+  {
+    "id": "extended-toy-story-4-ducky",
+    "name": "Ducky",
+    "jp": "ダッキー",
+    "aliases": [],
+    "films": [
+      "Toy Story 4"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "黄色いヒヨコのぬいぐるみ"
+  },
+  {
+    "id": "extended-toy-story-4-bunny",
+    "name": "Bunny",
+    "jp": "バニー",
+    "aliases": [],
+    "films": [
+      "Toy Story 4"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "青と緑色のウサギのぬいぐるみ"
+  },
+  {
+    "id": "extended-toy-story-4-benson",
+    "name": "Benson",
+    "jp": "ベンソン",
+    "aliases": [],
+    "films": [
+      "Toy Story 4"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "アンティークショップの腹話術人形"
+  },
+  {
+    "id": "extended-toy-story-3-dolly",
+    "name": "Dolly",
+    "jp": "ドーリー",
+    "aliases": [],
+    "films": [
+      "Toy Story 3"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ぼろ布でできた女の子のぬいぐるみ"
+  },
+  {
+    "id": "extended-toy-story-mrs-potato-head",
+    "name": "Mrs. Potato Head",
+    "jp": "ミセス・ポテトヘッド",
+    "aliases": [],
+    "films": [
+      "Toy Story"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ジャガイモ型のおもちゃの奥さん"
+  },
+  {
+    "id": "extended-monsters-inc-celia-mae",
+    "name": "Celia Mae",
+    "jp": "セリア",
+    "aliases": [],
+    "films": [
+      "Monsters, Inc."
+    ],
+    "franchise": "Pixar",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ヘビのような髪を持つ受付係"
+  },
+  {
+    "id": "extended-monsters-inc-henry-j-waternoose",
+    "name": "Henry J. Waternoose",
+    "jp": "ウォーターヌース",
+    "aliases": [],
+    "films": [
+      "Monsters, Inc."
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "怖がらせ会社の社長"
+  },
+  {
+    "id": "extended-monsters-inc-george-sanderson",
+    "name": "George Sanderson",
+    "jp": "ジョージ",
+    "aliases": [],
+    "films": [
+      "Monsters, Inc."
+    ],
+    "franchise": "Pixar",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "人間のものが付着してしまうモンスター"
+  },
+  {
+    "id": "extended-monsters-inc-fungus",
+    "name": "Fungus",
+    "jp": "ファンガス",
+    "aliases": [],
+    "films": [
+      "Monsters, Inc."
+    ],
+    "franchise": "Pixar",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "紫色の体をしたカメレオンの助手"
+  },
+  {
+    "id": "extended-monsters-university-dean-hardscrabble",
+    "name": "Dean Hardscrabble",
+    "jp": "ハードスクラブル学長",
+    "aliases": [],
+    "films": [
+      "Monsters University"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "モンスター大学で怖がらせ学部を率いる学長"
+  },
+  {
+    "id": "extended-monsters-university-art",
+    "name": "Art",
+    "jp": "アート",
+    "aliases": [],
+    "films": [
+      "Monsters University"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "細長い体とたくさんの足を持つ学生"
+  },
+  {
+    "id": "extended-monsters-university-squishy",
+    "name": "Squishy",
+    "jp": "スクイシー",
+    "aliases": [],
+    "films": [
+      "Monsters University"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ピンク色の丸い体をした学生"
+  },
+  {
+    "id": "extended-monsters-university-don-carlton",
+    "name": "Don Carlton",
+    "jp": "ドン・カールトン",
+    "aliases": [],
+    "films": [
+      "Monsters University"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "社会人経験を経て大学に入った学生"
+  },
+  {
+    "id": "extended-monsters-university-johnny-worthington",
+    "name": "Johnny Worthington",
+    "jp": "ジョニー・ワーシントン",
+    "aliases": [],
+    "films": [
+      "Monsters University"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ライバルチームを率いる学生"
+  },
+  {
+    "id": "extended-finding-nemo-squirt",
+    "name": "Squirt",
+    "jp": "スクワート",
+    "aliases": [],
+    "films": [
+      "Finding Nemo"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "海流で遊ぶ小さなウミガメ"
+  },
+  {
+    "id": "extended-finding-nemo-darla",
+    "name": "Darla",
+    "jp": "ダーラ",
+    "aliases": [],
+    "films": [
+      "Finding Nemo"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "歯医者の姪で魚を飼いたがる少女"
+  },
+  {
+    "id": "extended-finding-nemo-bubbles",
+    "name": "Bubbles",
+    "jp": "バブルス",
+    "aliases": [],
+    "films": [
+      "Finding Nemo"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "水槽の泡が大好きな魚"
+  },
+  {
+    "id": "extended-finding-nemo-bloat",
+    "name": "Bloat",
+    "jp": "ブロート",
+    "aliases": [],
+    "films": [
+      "Finding Nemo"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "驚くと膨らむハリセンボン"
+  },
+  {
+    "id": "extended-finding-nemo-deb",
+    "name": "Deb",
+    "jp": "デブ",
+    "aliases": [],
+    "films": [
+      "Finding Nemo"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ガラスの反射を姉妹だと思う魚"
+  },
+  {
+    "id": "extended-finding-nemo-peach",
+    "name": "Peach",
+    "jp": "ピーチ",
+    "aliases": [],
+    "films": [
+      "Finding Nemo"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "水槽のガラスに張り付くヒトデ"
+  },
+  {
+    "id": "extended-finding-nemo-gurgle",
+    "name": "Gurgle",
+    "jp": "ガーグル",
+    "aliases": [],
+    "films": [
+      "Finding Nemo"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "きれい好きな水槽の魚"
+  },
+  {
+    "id": "extended-finding-nemo-nigel",
+    "name": "Nigel",
+    "jp": "ナイジェル",
+    "aliases": [],
+    "films": [
+      "Finding Nemo"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "歯医者の窓を訪れるペリカン"
+  },
+  {
+    "id": "extended-finding-dory-hank",
+    "name": "Hank",
+    "jp": "ハンク",
+    "aliases": [],
+    "films": [
+      "Finding Dory"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "逃げ足が速い七本足のタコ"
+  },
+  {
+    "id": "extended-finding-dory-destiny",
+    "name": "Destiny",
+    "jp": "デスティニー",
+    "aliases": [],
+    "films": [
+      "Finding Dory"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "近視のジンベエザメ"
+  },
+  {
+    "id": "extended-finding-dory-bailey",
+    "name": "Bailey",
+    "jp": "ベイリー",
+    "aliases": [],
+    "films": [
+      "Finding Dory"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "頭から音波を出せるシロイルカ"
+  },
+  {
+    "id": "extended-finding-dory-becky",
+    "name": "Becky",
+    "jp": "ベッキー",
+    "aliases": [],
+    "films": [
+      "Finding Dory"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "水族館で暮らす変わった海鳥"
+  },
+  {
+    "id": "extended-the-incredibles-syndrome",
+    "name": "Syndrome",
+    "jp": "シンドローム",
+    "aliases": [],
+    "films": [
+      "The Incredibles"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ヒーローに強い恨みを持つ発明家"
+  },
+  {
+    "id": "extended-the-incredibles-mirage",
+    "name": "Mirage",
+    "jp": "ミラージュ",
+    "aliases": [],
+    "films": [
+      "The Incredibles"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "悪役のもとで働く謎の女性"
+  },
+  {
+    "id": "extended-the-incredibles-the-underminer",
+    "name": "The Underminer",
+    "jp": "アンダーマイナー",
+    "aliases": [],
+    "films": [
+      "The Incredibles"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "巨大なドリルマシンを操る悪党"
+  },
+  {
+    "id": "extended-incredibles-2-evelyn-deavor",
+    "name": "Evelyn Deavor",
+    "jp": "イヴリン・ディヴァー",
+    "aliases": [],
+    "films": [
+      "Incredibles 2"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "通信技術に詳しい実業家の妹"
+  },
+  {
+    "id": "extended-incredibles-2-winston-deavor",
+    "name": "Winston Deavor",
+    "jp": "ウィンストン・ディヴァー",
+    "aliases": [],
+    "films": [
+      "Incredibles 2"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ヒーロー復活を目指す実業家"
+  },
+  {
+    "id": "extended-incredibles-2-voyd",
+    "name": "Voyd",
+    "jp": "ヴォイド",
+    "aliases": [],
+    "films": [
+      "Incredibles 2"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "空間に穴を開ける力を持つ新米ヒーロー"
+  },
+  {
+    "id": "extended-incredibles-2-brick",
+    "name": "Brick",
+    "jp": "ブリック",
+    "aliases": [],
+    "films": [
+      "Incredibles 2"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "岩のように頑丈な体を持つヒーロー"
+  },
+  {
+    "id": "extended-cars-fillmore",
+    "name": "Fillmore",
+    "jp": "フィルモア",
+    "aliases": [],
+    "films": [
+      "Cars"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "自然派の燃料を売るワーゲンバス"
+  },
+  {
+    "id": "extended-cars-sarge",
+    "name": "Sarge",
+    "jp": "サージ",
+    "aliases": [],
+    "films": [
+      "Cars"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "軍隊風のジープの店主"
+  },
+  {
+    "id": "extended-cars-ramone",
+    "name": "Ramone",
+    "jp": "ラモーン",
+    "aliases": [],
+    "films": [
+      "Cars"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "カラフルな塗装が得意な車"
+  },
+  {
+    "id": "extended-cars-flo",
+    "name": "Flo",
+    "jp": "フロー",
+    "aliases": [],
+    "films": [
+      "Cars"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "町でカフェを営むピンクの車"
+  },
+  {
+    "id": "extended-cars-lizzie",
+    "name": "Lizzie",
+    "jp": "リジー",
+    "aliases": [],
+    "films": [
+      "Cars"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "町の土産物店で働く古い車"
+  },
+  {
+    "id": "extended-cars-sheriff",
+    "name": "Sheriff",
+    "jp": "シェリフ",
+    "aliases": [],
+    "films": [
+      "Cars"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ラジエーター・スプリングスの警察車両"
+  },
+  {
+    "id": "extended-cars-mack",
+    "name": "Mack",
+    "jp": "マック",
+    "aliases": [],
+    "films": [
+      "Cars"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "赤いトレーラーでレーサーを運ぶトラック"
+  },
+  {
+    "id": "extended-cars-chick-hicks",
+    "name": "Chick Hicks",
+    "jp": "チック・ヒックス",
+    "aliases": [],
+    "films": [
+      "Cars"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "勝つために反則もする緑色のレーサー"
+  },
+  {
+    "id": "extended-cars-the-king",
+    "name": "The King",
+    "jp": "キング",
+    "aliases": [],
+    "films": [
+      "Cars"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ベテランの青いレースカー"
+  },
+  {
+    "id": "extended-cars-2-francesco-bernoulli",
+    "name": "Francesco Bernoulli",
+    "jp": "フランチェスコ",
+    "aliases": [],
+    "films": [
+      "Cars 2"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "イタリア出身の自信家レーサー"
+  },
+  {
+    "id": "extended-cars-2-finn-mcmissile",
+    "name": "Finn McMissile",
+    "jp": "フィン・マックミサイル",
+    "aliases": [],
+    "films": [
+      "Cars 2"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "秘密の装備を持つ英国のスパイカー"
+  },
+  {
+    "id": "extended-cars-2-holley-shiftwell",
+    "name": "Holley Shiftwell",
+    "jp": "ホリー・シフトウェル",
+    "aliases": [],
+    "films": [
+      "Cars 2"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "英国の若いスパイカー"
+  },
+  {
+    "id": "extended-cars-3-cruz-ramirez",
+    "name": "Cruz Ramirez",
+    "jp": "クルーズ・ラミレス",
+    "aliases": [],
+    "films": [
+      "Cars 3"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "黄色いレーサーのトレーナー"
+  },
+  {
+    "id": "extended-cars-3-jackson-storm",
+    "name": "Jackson Storm",
+    "jp": "ジャクソン・ストーム",
+    "aliases": [],
+    "films": [
+      "Cars 3"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "新世代の黒いライバルレーサー"
+  },
+  {
+    "id": "extended-cars-3-smokey",
+    "name": "Smokey",
+    "jp": "スモーキー",
+    "aliases": [],
+    "films": [
+      "Cars 3"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "古い時代のレースを知るベテラントラック"
+  },
+  {
+    "id": "extended-ratatouille-chef-skinner",
+    "name": "Chef Skinner",
+    "jp": "スキナー",
+    "aliases": [],
+    "films": [
+      "Ratatouille"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "レストランを仕切る小柄な料理長"
+  },
+  {
+    "id": "extended-ratatouille-emile",
+    "name": "Emile",
+    "jp": "エミール",
+    "aliases": [],
+    "films": [
+      "Ratatouille"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "食べることが好きなレミーの兄"
+  },
+  {
+    "id": "extended-ratatouille-django",
+    "name": "Django",
+    "jp": "ジャンゴ",
+    "aliases": [],
+    "films": [
+      "Ratatouille"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ネズミの群れを率いるレミーの父"
+  },
+  {
+    "id": "extended-ratatouille-auguste-gusteau",
+    "name": "Auguste Gusteau",
+    "jp": "グストー",
+    "aliases": [],
+    "films": [
+      "Ratatouille"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "料理は誰でもできると信じた伝説のシェフ"
+  },
+  {
+    "id": "extended-wall-e-auto",
+    "name": "AUTO",
+    "jp": "オート",
+    "aliases": [],
+    "films": [
+      "WALL-E"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "宇宙船の操縦を担当する自動操縦装置"
+  },
+  {
+    "id": "extended-wall-e-captain-mccrea",
+    "name": "Captain McCrea",
+    "jp": "マクリー艦長",
+    "aliases": [],
+    "films": [
+      "WALL-E"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "宇宙船アクシオムの船長"
+  },
+  {
+    "id": "extended-wall-e-hal",
+    "name": "Hal",
+    "jp": "ハル",
+    "aliases": [],
+    "films": [
+      "WALL-E"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "小さなゴキブリの友達"
+  },
+  {
+    "id": "extended-up-ellie-fredricksen",
+    "name": "Ellie Fredricksen",
+    "jp": "エリー",
+    "aliases": [],
+    "films": [
+      "Up"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "冒険の夢をカールと分かち合った妻"
+  },
+  {
+    "id": "extended-up-charles-muntz",
+    "name": "Charles Muntz",
+    "jp": "チャールズ・マンツ",
+    "aliases": [],
+    "films": [
+      "Up"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "幻の鳥を追い続けた探検家"
+  },
+  {
+    "id": "extended-up-alpha",
+    "name": "Alpha",
+    "jp": "アルファ",
+    "aliases": [],
+    "films": [
+      "Up"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "探検家に仕える犬たちのリーダー"
+  },
+  {
+    "id": "extended-up-beta",
+    "name": "Beta",
+    "jp": "ベータ",
+    "aliases": [],
+    "films": [
+      "Up"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "首輪で人間の言葉を話す探検家の犬"
+  },
+  {
+    "id": "extended-brave-king-fergus",
+    "name": "King Fergus",
+    "jp": "ファーガス王",
+    "aliases": [],
+    "films": [
+      "Brave"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "片脚を失った豪快な王"
+  },
+  {
+    "id": "extended-brave-the-witch",
+    "name": "The Witch",
+    "jp": "魔女",
+    "aliases": [],
+    "films": [
+      "Brave"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "木彫りを売りながら呪文を使う老婆"
+  },
+  {
+    "id": "extended-brave-lord-macguffin",
+    "name": "Lord MacGuffin",
+    "jp": "マクガフィン卿",
+    "aliases": [],
+    "films": [
+      "Brave"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "王女の縁談で城を訪れる一族の長"
+  },
+  {
+    "id": "extended-inside-out-riley-andersen",
+    "name": "Riley Andersen",
+    "jp": "ライリー",
+    "aliases": [],
+    "films": [
+      "Inside Out"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "頭の中に感情たちが住む少女"
+  },
+  {
+    "id": "extended-inside-out-2-nostalgia",
+    "name": "Nostalgia",
+    "jp": "ナツカシ",
+    "aliases": [
+      "ノスタルジア"
+    ],
+    "films": [
+      "Inside Out 2"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "思い出を懐かしがる年配の感情"
+  },
+  {
+    "id": "extended-inside-out-2-bloofy",
+    "name": "Bloofy",
+    "jp": "ブルーフィー",
+    "aliases": [],
+    "films": [
+      "Inside Out 2"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "昔の子供番組に登場する青い犬"
+  },
+  {
+    "id": "extended-inside-out-2-pouchy",
+    "name": "Pouchy",
+    "jp": "ポーチー",
+    "aliases": [],
+    "films": [
+      "Inside Out 2"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "道具を取り出せる便利なポーチ"
+  },
+  {
+    "id": "extended-coco-mama-coco",
+    "name": "Mamá Coco",
+    "jp": "ママ・ココ",
+    "aliases": [
+      "ママココ"
+    ],
+    "films": [
+      "Coco"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "家族の大切な思い出を胸に秘めた曽祖母"
+  },
+  {
+    "id": "extended-coco-abuelita-elena",
+    "name": "Abuelita Elena",
+    "jp": "エレナおばあちゃん",
+    "aliases": [],
+    "films": [
+      "Coco"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "音楽に厳しいミゲルの祖母"
+  },
+  {
+    "id": "extended-coco-pepita",
+    "name": "Pepita",
+    "jp": "ペピータ",
+    "aliases": [],
+    "films": [
+      "Coco"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "翼を持つ大きな霊獣"
+  },
+  {
+    "id": "extended-coco-chicharron",
+    "name": "Chicharrón",
+    "jp": "チチャロン",
+    "aliases": [],
+    "films": [
+      "Coco"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "死者の国に住む老いた骸骨"
+  },
+  {
+    "id": "extended-soul-moonwind",
+    "name": "Moonwind",
+    "jp": "ムーンウィンド",
+    "aliases": [],
+    "films": [
+      "Soul"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "迷える魂を助ける船乗りのような人物"
+  },
+  {
+    "id": "extended-soul-terry",
+    "name": "Terry",
+    "jp": "テリー",
+    "aliases": [],
+    "films": [
+      "Soul"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "魂の数を管理する几帳面な存在"
+  },
+  {
+    "id": "extended-soul-dorothea-williams",
+    "name": "Dorothea Williams",
+    "jp": "ドロシア・ウィリアムズ",
+    "aliases": [],
+    "films": [
+      "Soul"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "有名ジャズカルテットのリーダー"
+  },
+  {
+    "id": "extended-luca-massimo-marcovaldo",
+    "name": "Massimo Marcovaldo",
+    "jp": "マッシモ",
+    "aliases": [],
+    "films": [
+      "Luca"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "漁師をしているジュリアの父"
+  },
+  {
+    "id": "extended-luca-ercole-visconti",
+    "name": "Ercole Visconti",
+    "jp": "エルコレ",
+    "aliases": [],
+    "films": [
+      "Luca"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "町で威張っている自転車レースの常連"
+  },
+  {
+    "id": "extended-luca-daniela-paguro",
+    "name": "Daniela Paguro",
+    "jp": "ダニエラ",
+    "aliases": [],
+    "films": [
+      "Luca"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "息子の安全を心配する海の怪物の母"
+  },
+  {
+    "id": "extended-luca-lorenzo-paguro",
+    "name": "Lorenzo Paguro",
+    "jp": "ロレンツォ",
+    "aliases": [],
+    "films": [
+      "Luca"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "海底で家族と暮らす父親"
+  },
+  {
+    "id": "extended-turning-red-ming-lee",
+    "name": "Ming Lee",
+    "jp": "ミン",
+    "aliases": [],
+    "films": [
+      "Turning Red"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "娘の変化に戸惑う過保護な母"
+  },
+  {
+    "id": "extended-turning-red-jin-lee",
+    "name": "Jin Lee",
+    "jp": "ジン",
+    "aliases": [],
+    "films": [
+      "Turning Red"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "料理上手なメイの父"
+  },
+  {
+    "id": "extended-turning-red-tyler-nguyen-baker",
+    "name": "Tyler Nguyen-Baker",
+    "jp": "タイラー",
+    "aliases": [],
+    "films": [
+      "Turning Red"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "学校でメイをからかう同級生"
+  },
+  {
+    "id": "extended-elemental-cinder-lumen",
+    "name": "Cinder Lumen",
+    "jp": "シンダー",
+    "aliases": [],
+    "films": [
+      "Elemental"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "炎の町で店を切り盛りするエンバーの母"
+  },
+  {
+    "id": "extended-elemental-clod",
+    "name": "Clod",
+    "jp": "クロッド",
+    "aliases": [],
+    "films": [
+      "Elemental"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "小さな土の男の子で花を咲かせる"
+  },
+  {
+    "id": "extended-elemental-brook-ripple",
+    "name": "Brook Ripple",
+    "jp": "ブルック",
+    "aliases": [],
+    "films": [
+      "Elemental"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "水の一族の母親"
+  },
+  {
+    "id": "extended-onward-laurel-lightfoot",
+    "name": "Laurel Lightfoot",
+    "jp": "ローレル",
+    "aliases": [],
+    "films": [
+      "Onward"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "二人の息子を育てるエルフの母"
+  },
+  {
+    "id": "extended-onward-corey-the-manticore",
+    "name": "Corey the Manticore",
+    "jp": "マンティコア",
+    "aliases": [],
+    "films": [
+      "Onward"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "冒険酒場のオーナーである伝説の獣"
+  },
+  {
+    "id": "extended-onward-colt-bronco",
+    "name": "Colt Bronco",
+    "jp": "コルト",
+    "aliases": [],
+    "films": [
+      "Onward"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "警察官であるケンタウロス"
+  },
+  {
+    "id": "extended-encanto-julieta-madrigal",
+    "name": "Julieta Madrigal",
+    "jp": "フリエッタ",
+    "aliases": [],
+    "films": [
+      "Encanto"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "https://www.disney.co.jp/fc/mirabel",
+    "hint": "料理で人を癒す魔法を持つミラベルの母"
+  },
+  {
+    "id": "extended-encanto-agustin-madrigal",
+    "name": "Agustín Madrigal",
+    "jp": "アグスティン",
+    "aliases": [],
+    "films": [
+      "Encanto"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "https://www.disney.co.jp/fc/mirabel",
+    "hint": "ハチに刺されることが多いミラベルの父"
+  },
+  {
+    "id": "extended-encanto-pepa-madrigal",
+    "name": "Pepa Madrigal",
+    "jp": "ペパ",
+    "aliases": [],
+    "films": [
+      "Encanto"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "https://www.disney.co.jp/fc/mirabel",
+    "hint": "気分によって天気を変えてしまうおば"
+  },
+  {
+    "id": "extended-encanto-felix-madrigal",
+    "name": "Félix Madrigal",
+    "jp": "フェリックス",
+    "aliases": [
+      "フェリックス"
+    ],
+    "films": [
+      "Encanto"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "https://www.disney.co.jp/fc/mirabel",
+    "hint": "陽気でダンスが大好きなおじ"
+  },
+  {
+    "id": "extended-encanto-dolores-madrigal",
+    "name": "Dolores Madrigal",
+    "jp": "ドロレス",
+    "aliases": [],
+    "films": [
+      "Encanto"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "https://www.disney.co.jp/fc/mirabel",
+    "hint": "小さなささやき声も聞こえるいとこ"
+  },
+  {
+    "id": "extended-encanto-camilo-madrigal",
+    "name": "Camilo Madrigal",
+    "jp": "カミロ",
+    "aliases": [],
+    "films": [
+      "Encanto"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "https://www.disney.co.jp/fc/mirabel",
+    "hint": "好きな人に変身できるいとこ"
+  },
+  {
+    "id": "extended-encanto-antonio-madrigal",
+    "name": "Antonio Madrigal",
+    "jp": "アントニオ",
+    "aliases": [],
+    "films": [
+      "Encanto"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "https://www.disney.co.jp/fc/mirabel",
+    "hint": "動物と会話できるいとこ"
+  },
+  {
+    "id": "extended-encanto-mariano-guzman",
+    "name": "Mariano Guzmán",
+    "jp": "マリアーノ",
+    "aliases": [],
+    "films": [
+      "Encanto"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "https://www.disney.co.jp/fc/mirabel",
+    "hint": "村で人気の青年"
+  },
+  {
+    "id": "extended-big-hero-6-aunt-cass",
+    "name": "Aunt Cass",
+    "jp": "キャスおばさん",
+    "aliases": [],
+    "films": [
+      "Big Hero 6"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "カフェを営むヒロたちの保護者"
+  },
+  {
+    "id": "extended-big-hero-6-professor-callaghan",
+    "name": "Professor Callaghan",
+    "jp": "キャラハン教授",
+    "aliases": [],
+    "films": [
+      "Big Hero 6"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "大学で研究に取り組むヒロの指導者"
+  },
+  {
+    "id": "extended-big-hero-6-mochi",
+    "name": "Mochi",
+    "jp": "モチ",
+    "aliases": [],
+    "films": [
+      "Big Hero 6"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ハマダ家で飼われる太った三毛猫"
+  },
+  {
+    "id": "extended-hercules-zeus",
+    "name": "Zeus",
+    "jp": "ゼウス",
+    "aliases": [],
+    "films": [
+      "Hercules"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "天界の王で主人公の父親"
+  },
+  {
+    "id": "extended-hercules-hera",
+    "name": "Hera",
+    "jp": "ヘラ",
+    "aliases": [],
+    "films": [
+      "Hercules"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "天界に住む主人公の母親"
+  },
+  {
+    "id": "extended-hercules-pain",
+    "name": "Pain",
+    "jp": "ペイン",
+    "aliases": [],
+    "films": [
+      "Hercules"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "冥界の神に仕える細長い子分"
+  },
+  {
+    "id": "extended-hercules-panic",
+    "name": "Panic",
+    "jp": "パニック",
+    "aliases": [],
+    "films": [
+      "Hercules"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "冥界の神に仕える小柄な子分"
+  },
+  {
+    "id": "extended-hercules-hermes",
+    "name": "Hermes",
+    "jp": "ヘルメス",
+    "aliases": [],
+    "films": [
+      "Hercules"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "神々の伝令を務める翼の生えた神"
+  },
+  {
+    "id": "extended-the-jungle-book-colonel-hathi",
+    "name": "Colonel Hathi",
+    "jp": "ハティ大佐",
+    "aliases": [],
+    "films": [
+      "The Jungle Book"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "行進するゾウの群れを率いる隊長"
+  },
+  {
+    "id": "extended-the-jungle-book-akela",
+    "name": "Akela",
+    "jp": "アキーラ",
+    "aliases": [],
+    "films": [
+      "The Jungle Book"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ジャングルのオオカミの長"
+  },
+  {
+    "id": "extended-the-jungle-book-raksha",
+    "name": "Raksha",
+    "jp": "ラクシャ",
+    "aliases": [],
+    "films": [
+      "The Jungle Book"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "人間の赤ん坊を育てた母オオカミ"
+  },
+  {
+    "id": "extended-alice-in-wonderland-tweedledee",
+    "name": "Tweedledee",
+    "jp": "トゥイードルディー",
+    "aliases": [],
+    "films": [
+      "Alice in Wonderland"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "そっくりな双子。名前はアルファベットのDの音で終わる"
+  },
+  {
+    "id": "extended-alice-in-wonderland-tweedledum",
+    "name": "Tweedledum",
+    "jp": "トゥイードルダム",
+    "aliases": [],
+    "films": [
+      "Alice in Wonderland"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "そっくりな双子。名前の最後は太鼓の音のように響く"
+  },
+  {
+    "id": "extended-alice-in-wonderland-caterpillar",
+    "name": "Caterpillar",
+    "jp": "いもむし",
+    "aliases": [],
+    "films": [
+      "Alice in Wonderland"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "キノコの上で水ギセルを吸う謎の生き物"
+  },
+  {
+    "id": "extended-alice-in-wonderland-march-hare",
+    "name": "March Hare",
+    "jp": "三月ウサギ",
+    "aliases": [],
+    "films": [
+      "Alice in Wonderland"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "終わらないお茶会に参加するウサギ"
+  },
+  {
+    "id": "extended-alice-in-wonderland-dormouse",
+    "name": "Dormouse",
+    "jp": "ヤマネ",
+    "aliases": [],
+    "films": [
+      "Alice in Wonderland"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "お茶会で眠ってしまう小さなネズミ"
+  },
+  {
+    "id": "extended-alice-in-wonderland-king-of-hearts",
+    "name": "King of Hearts",
+    "jp": "ハートの王",
+    "aliases": [],
+    "films": [
+      "Alice in Wonderland"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "怒りっぽい女王の夫"
+  },
+  {
+    "id": "extended-alice-in-wonderland-dodo",
+    "name": "Dodo",
+    "jp": "ドードー",
+    "aliases": [],
+    "films": [
+      "Alice in Wonderland"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "不思議の国で走り回る鳥"
+  },
+  {
+    "id": "extended-101-dalmatians-roger-radcliffe",
+    "name": "Roger Radcliffe",
+    "jp": "ロジャー",
+    "aliases": [],
+    "films": [
+      "101 Dalmatians"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "音楽を作るダルメシアンの飼い主"
+  },
+  {
+    "id": "extended-101-dalmatians-anita-radcliffe",
+    "name": "Anita Radcliffe",
+    "jp": "アニータ",
+    "aliases": [],
+    "films": [
+      "101 Dalmatians"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "犬を大切にするロジャーの妻"
+  },
+  {
+    "id": "extended-101-dalmatians-jasper-badun",
+    "name": "Jasper Badun",
+    "jp": "ジャスパー",
+    "aliases": [],
+    "films": [
+      "101 Dalmatians"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "子犬を盗もうとする二人組の一人"
+  },
+  {
+    "id": "extended-101-dalmatians-horace-badun",
+    "name": "Horace Badun",
+    "jp": "ホーレス",
+    "aliases": [],
+    "films": [
+      "101 Dalmatians"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "子犬を盗もうとする二人組のもう一人"
+  },
+  {
+    "id": "extended-101-dalmatians-rolly",
+    "name": "Rolly",
+    "jp": "ローリー",
+    "aliases": [],
+    "films": [
+      "101 Dalmatians"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "食べることが大好きな子犬"
+  },
+  {
+    "id": "extended-101-dalmatians-patch",
+    "name": "Patch",
+    "jp": "パッチ",
+    "aliases": [],
+    "films": [
+      "101 Dalmatians"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "片目の周りに黒い模様のある子犬"
+  },
+  {
+    "id": "extended-101-dalmatians-lucky",
+    "name": "Lucky",
+    "jp": "ラッキー",
+    "aliases": [],
+    "films": [
+      "101 Dalmatians"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "テレビが好きなダルメシアンの子犬"
+  },
+  {
+    "id": "extended-the-nightmare-before-christmas-the-mayor",
+    "name": "The Mayor",
+    "jp": "メイヤー",
+    "aliases": [],
+    "films": [
+      "The Nightmare Before Christmas"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "顔が回転するハロウィンタウンの町長"
+  },
+  {
+    "id": "extended-the-nightmare-before-christmas-dr-finkelstein",
+    "name": "Dr. Finkelstein",
+    "jp": "フィンケルスタイン博士",
+    "aliases": [],
+    "films": [
+      "The Nightmare Before Christmas"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "頭を開けて脳を触れる発明家"
+  },
+  {
+    "id": "extended-the-nightmare-before-christmas-lock",
+    "name": "Lock",
+    "jp": "ロック",
+    "aliases": [],
+    "films": [
+      "The Nightmare Before Christmas"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "悪ガキ三人組の悪魔の仮装の少年"
+  },
+  {
+    "id": "extended-the-nightmare-before-christmas-shock",
+    "name": "Shock",
+    "jp": "ショック",
+    "aliases": [],
+    "films": [
+      "The Nightmare Before Christmas"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "悪ガキ三人組の魔女の仮装の少女"
+  },
+  {
+    "id": "extended-the-nightmare-before-christmas-barrel",
+    "name": "Barrel",
+    "jp": "バレル",
+    "aliases": [],
+    "films": [
+      "The Nightmare Before Christmas"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "悪ガキ三人組のガイコツの仮装の少年"
+  },
+  {
+    "id": "extended-the-nightmare-before-christmas-santa-claus",
+    "name": "Santa Claus",
+    "jp": "サンタクロース",
+    "aliases": [],
+    "films": [
+      "The Nightmare Before Christmas"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "クリスマスを届ける赤い服の人"
+  },
+  {
+    "id": "extended-wish-queen-amaya",
+    "name": "Queen Amaya",
+    "jp": "アマヤ王妃",
+    "aliases": [],
+    "films": [
+      "Wish"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "魔法の王国で優しさを見せる王妃"
+  },
+  {
+    "id": "extended-wish-dahlia",
+    "name": "Dahlia",
+    "jp": "ダリア",
+    "aliases": [],
+    "films": [
+      "Wish"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "主人公の親友で焼き菓子が得意"
+  },
+  {
+    "id": "extended-wish-simon",
+    "name": "Simon",
+    "jp": "サイモン",
+    "aliases": [],
+    "films": [
+      "Wish"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "主人公の仲間で眠そうな青年"
+  },
+  {
+    "id": "extended-wish-gabo",
+    "name": "Gabo",
+    "jp": "ガボ",
+    "aliases": [],
+    "films": [
+      "Wish"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "小柄で皮肉屋な主人公の友人"
+  },
+  {
+    "id": "extended-wish-safi",
+    "name": "Safi",
+    "jp": "サフィ",
+    "aliases": [],
+    "films": [
+      "Wish"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "くしゃみが止まらない主人公の友人"
+  },
+  {
+    "id": "extended-the-good-dinosaur-poppa-henry",
+    "name": "Poppa Henry",
+    "jp": "パパ",
+    "aliases": [],
+    "films": [
+      "The Good Dinosaur"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "家族に農作業を教える恐竜の父"
+  },
+  {
+    "id": "extended-the-good-dinosaur-momma-ida",
+    "name": "Momma Ida",
+    "jp": "ママ",
+    "aliases": [],
+    "films": [
+      "The Good Dinosaur"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "農場を守る恐竜の母"
+  },
+  {
+    "id": "extended-the-good-dinosaur-buck",
+    "name": "Buck",
+    "jp": "バック",
+    "aliases": [],
+    "films": [
+      "The Good Dinosaur"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "お調子者な恐竜の兄"
+  },
+  {
+    "id": "extended-the-good-dinosaur-libby",
+    "name": "Libby",
+    "jp": "リビー",
+    "aliases": [],
+    "films": [
+      "The Good Dinosaur"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "機転が利く恐竜の姉"
+  },
+  {
+    "id": "extended-the-good-dinosaur-butch",
+    "name": "Butch",
+    "jp": "ブッチ",
+    "aliases": [],
+    "films": [
+      "The Good Dinosaur"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "牛を追うティラノサウルスの父"
+  },
+  {
+    "id": "extended-the-good-dinosaur-ramsey",
+    "name": "Ramsey",
+    "jp": "ラムジー",
+    "aliases": [],
+    "films": [
+      "The Good Dinosaur"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ティラノサウルス一家の娘"
+  },
+  {
+    "id": "extended-the-good-dinosaur-nash",
+    "name": "Nash",
+    "jp": "ナッシュ",
+    "aliases": [],
+    "films": [
+      "The Good Dinosaur"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ティラノサウルス一家の息子"
+  },
+  {
+    "id": "extended-raya-and-the-last-dragon-boun",
+    "name": "Boun",
+    "jp": "ブーン",
+    "aliases": [],
+    "films": [
+      "Raya and the Last Dragon"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "船で料理を作る少年"
+  },
+  {
+    "id": "extended-raya-and-the-last-dragon-little-noi",
+    "name": "Little Noi",
+    "jp": "ノイ",
+    "aliases": [],
+    "films": [
+      "Raya and the Last Dragon"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "猿たちと一緒に行動する小さな女の子"
+  },
+  {
+    "id": "extended-raya-and-the-last-dragon-tong",
+    "name": "Tong",
+    "jp": "トング",
+    "aliases": [],
+    "films": [
+      "Raya and the Last Dragon"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "大柄で強そうな戦士"
+  },
+  {
+    "id": "extended-raya-and-the-last-dragon-chief-benja",
+    "name": "Chief Benja",
+    "jp": "ベンジャ",
+    "aliases": [],
+    "films": [
+      "Raya and the Last Dragon"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "龍の石を守るラーヤの父親"
+  },
+  {
+    "id": "extended-a-bugs-life-francis",
+    "name": "Francis",
+    "jp": "フランシス",
+    "aliases": [],
+    "films": [
+      "A Bug’s Life"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "テントウムシなのに女の子扱いされる曲芸師"
+  },
+  {
+    "id": "extended-a-bugs-life-heimlich",
+    "name": "Heimlich",
+    "jp": "ハイムリック",
+    "aliases": [],
+    "films": [
+      "A Bug’s Life"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "食いしん坊の青虫"
+  },
+  {
+    "id": "extended-a-bugs-life-manny",
+    "name": "Manny",
+    "jp": "マニー",
+    "aliases": [],
+    "films": [
+      "A Bug’s Life"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "マジックが得意なカマキリ"
+  },
+  {
+    "id": "extended-a-bugs-life-gypsy",
+    "name": "Gypsy",
+    "jp": "ジプシー",
+    "aliases": [],
+    "films": [
+      "A Bug’s Life"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "マジシャンと共演する蛾"
+  },
+  {
+    "id": "extended-a-bugs-life-slim",
+    "name": "Slim",
+    "jp": "スリム",
+    "aliases": [],
+    "films": [
+      "A Bug’s Life"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "細長い体をしたナナフシの曲芸師"
+  },
+  {
+    "id": "extended-a-bugs-life-tuck",
+    "name": "Tuck",
+    "jp": "タック",
+    "aliases": [],
+    "films": [
+      "A Bug’s Life"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "双子のダンゴムシ。名前は英語の折りたたむという動詞と同じ"
+  },
+  {
+    "id": "extended-a-bugs-life-roll",
+    "name": "Roll",
+    "jp": "ロール",
+    "aliases": [],
+    "films": [
+      "A Bug’s Life"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "双子のダンゴムシ。名前は英語の転がるという動詞と同じ"
+  },
+  {
+    "id": "extended-a-bugs-life-p-t-flea",
+    "name": "P.T. Flea",
+    "jp": "P.T.フリー",
+    "aliases": [],
+    "films": [
+      "A Bug’s Life"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "サーカスを経営するノミ"
+  },
+  {
+    "id": "extended-pinocchio-pinocchio",
+    "name": "Pinocchio",
+    "jp": "ピノキオ",
+    "aliases": [],
+    "films": [
+      "Pinocchio"
+    ],
+    "franchise": "Disney",
+    "difficulty": 1,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "木で作られた人形が本物の男の子を目指す"
+  },
+  {
+    "id": "extended-pinocchio-jiminy-cricket",
+    "name": "Jiminy Cricket",
+    "jp": "ジミニー・クリケット",
+    "aliases": [],
+    "films": [
+      "Pinocchio"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "木の人形の良心を務めるコオロギ"
+  },
+  {
+    "id": "extended-pinocchio-geppetto",
+    "name": "Geppetto",
+    "jp": "ゼペット",
+    "aliases": [],
+    "films": [
+      "Pinocchio"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "木製人形を作る優しいおじいさん"
+  },
+  {
+    "id": "extended-pinocchio-figaro",
+    "name": "Figaro",
+    "jp": "フィガロ",
+    "aliases": [],
+    "films": [
+      "Pinocchio"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "人形職人と暮らす白黒の子猫"
+  },
+  {
+    "id": "extended-pinocchio-cleo",
+    "name": "Cleo",
+    "jp": "クレオ",
+    "aliases": [],
+    "films": [
+      "Pinocchio"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "人形職人の家にいる金魚"
+  },
+  {
+    "id": "extended-pinocchio-the-blue-fairy",
+    "name": "The Blue Fairy",
+    "jp": "ブルー・フェアリー",
+    "aliases": [],
+    "films": [
+      "Pinocchio"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "木の人形に命を与えた青い妖精"
+  },
+  {
+    "id": "extended-pinocchio-honest-john",
+    "name": "Honest John",
+    "jp": "ファウルフェロー",
+    "aliases": [],
+    "films": [
+      "Pinocchio"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "木の人形をだますキツネ"
+  },
+  {
+    "id": "extended-pinocchio-gideon",
+    "name": "Gideon",
+    "jp": "ギデオン",
+    "aliases": [],
+    "films": [
+      "Pinocchio"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "詐欺師のキツネと行動するネコ"
+  },
+  {
+    "id": "extended-pinocchio-stromboli",
+    "name": "Stromboli",
+    "jp": "ストロンボリ",
+    "aliases": [],
+    "films": [
+      "Pinocchio"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "人形劇を営む強欲な男"
+  },
+  {
+    "id": "extended-pinocchio-monstro",
+    "name": "Monstro",
+    "jp": "モンストロ",
+    "aliases": [],
+    "films": [
+      "Pinocchio"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "海を泳ぐ巨大なクジラ"
+  },
+  {
+    "id": "extended-tarzan-tarzan",
+    "name": "Tarzan",
+    "jp": "ターザン",
+    "aliases": [],
+    "films": [
+      "Tarzan"
+    ],
+    "franchise": "Disney",
+    "difficulty": 1,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ゴリラに育てられたジャングルの青年"
+  },
+  {
+    "id": "extended-tarzan-jane-porter",
+    "name": "Jane Porter",
+    "jp": "ジェーン",
+    "aliases": [],
+    "films": [
+      "Tarzan"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ジャングルを調査する好奇心旺盛な女性"
+  },
+  {
+    "id": "extended-tarzan-kala",
+    "name": "Kala",
+    "jp": "カーラ",
+    "aliases": [],
+    "films": [
+      "Tarzan"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ジャングルの青年を育てたゴリラの母"
+  },
+  {
+    "id": "extended-tarzan-kerchak",
+    "name": "Kerchak",
+    "jp": "カーチャック",
+    "aliases": [],
+    "films": [
+      "Tarzan"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ゴリラの群れを率いる厳しい長"
+  },
+  {
+    "id": "extended-tarzan-terk",
+    "name": "Terk",
+    "jp": "ターク",
+    "aliases": [],
+    "films": [
+      "Tarzan"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ジャングルの青年の親友のゴリラ"
+  },
+  {
+    "id": "extended-tarzan-tantor",
+    "name": "Tantor",
+    "jp": "タントー",
+    "aliases": [],
+    "films": [
+      "Tarzan"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "臆病だけど優しいゾウ"
+  },
+  {
+    "id": "extended-tarzan-clayton",
+    "name": "Clayton",
+    "jp": "クレイトン",
+    "aliases": [],
+    "films": [
+      "Tarzan"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "狩猟を目的にジャングルへ来た男"
+  },
+  {
+    "id": "extended-atlantis-the-lost-empire-milo-thatch",
+    "name": "Milo Thatch",
+    "jp": "マイロ・サッチ",
+    "aliases": [],
+    "films": [
+      "Atlantis: The Lost Empire"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "失われた古代都市の謎を追う言語学者"
+  },
+  {
+    "id": "extended-atlantis-the-lost-empire-kida",
+    "name": "Kida",
+    "jp": "キーダ",
+    "aliases": [],
+    "films": [
+      "Atlantis: The Lost Empire"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "失われた王国の王女"
+  },
+  {
+    "id": "extended-atlantis-the-lost-empire-commander-rourke",
+    "name": "Commander Rourke",
+    "jp": "ローク司令官",
+    "aliases": [],
+    "films": [
+      "Atlantis: The Lost Empire"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "探検隊を率いる軍人"
+  },
+  {
+    "id": "extended-atlantis-the-lost-empire-vinny-santorini",
+    "name": "Vinny Santorini",
+    "jp": "ヴィニー",
+    "aliases": [],
+    "films": [
+      "Atlantis: The Lost Empire"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "爆発物の扱いが得意な探検隊員"
+  },
+  {
+    "id": "extended-atlantis-the-lost-empire-mole",
+    "name": "Mole",
+    "jp": "モール",
+    "aliases": [],
+    "films": [
+      "Atlantis: The Lost Empire"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "地面を掘るのが大好きな探検隊員"
+  },
+  {
+    "id": "extended-atlantis-the-lost-empire-audrey-ramirez",
+    "name": "Audrey Ramirez",
+    "jp": "オードリー",
+    "aliases": [],
+    "films": [
+      "Atlantis: The Lost Empire"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "探検隊の機械技師の少女"
+  },
+  {
+    "id": "extended-atlantis-the-lost-empire-dr-sweet",
+    "name": "Dr. Sweet",
+    "jp": "スウィート博士",
+    "aliases": [],
+    "films": [
+      "Atlantis: The Lost Empire"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "探検隊の陽気な医師"
+  },
+  {
+    "id": "extended-treasure-planet-jim-hawkins",
+    "name": "Jim Hawkins",
+    "jp": "ジム・ホーキンス",
+    "aliases": [
+      "ジム"
+    ],
+    "films": [
+      "Treasure Planet"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "宇宙の宝の地図を手に入れる少年"
+  },
+  {
+    "id": "extended-treasure-planet-john-silver",
+    "name": "John Silver",
+    "jp": "ジョン・シルバー",
+    "aliases": [],
+    "films": [
+      "Treasure Planet"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "片腕が機械の料理人"
+  },
+  {
+    "id": "extended-treasure-planet-b-e-n",
+    "name": "B.E.N.",
+    "jp": "ベン",
+    "aliases": [
+      "ベン"
+    ],
+    "films": [
+      "Treasure Planet"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "記憶装置をなくした古いロボット"
+  },
+  {
+    "id": "extended-treasure-planet-captain-amelia",
+    "name": "Captain Amelia",
+    "jp": "アメリア船長",
+    "aliases": [],
+    "films": [
+      "Treasure Planet"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "宇宙船を率いるネコのような船長"
+  },
+  {
+    "id": "extended-treasure-planet-dr-doppler",
+    "name": "Dr. Doppler",
+    "jp": "ドップラー博士",
+    "aliases": [],
+    "films": [
+      "Treasure Planet"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "主人公の母を慕う科学者"
+  },
+  {
+    "id": "extended-treasure-planet-morph",
+    "name": "Morph",
+    "jp": "モーフ",
+    "aliases": [],
+    "films": [
+      "Treasure Planet"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "姿を自由に変えられる小さな生物"
+  },
+  {
+    "id": "extended-treasure-planet-scroop",
+    "name": "Scroop",
+    "jp": "スクループ",
+    "aliases": [],
+    "films": [
+      "Treasure Planet"
+    ],
+    "franchise": "Disney",
+    "difficulty": 4,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "海賊団に加わる巨大なクモのような宇宙人"
+  },
+  {
+    "id": "extended-the-hunchback-of-notre-dame-quasimodo",
+    "name": "Quasimodo",
+    "jp": "カジモド",
+    "aliases": [],
+    "films": [
+      "The Hunchback of Notre Dame"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "大聖堂の鐘を鳴らす心優しい青年"
+  },
+  {
+    "id": "extended-the-hunchback-of-notre-dame-esmeralda",
+    "name": "Esmeralda",
+    "jp": "エスメラルダ",
+    "aliases": [],
+    "films": [
+      "The Hunchback of Notre Dame"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "美しい踊りで人々を魅了する女性"
+  },
+  {
+    "id": "extended-the-hunchback-of-notre-dame-phoebus",
+    "name": "Phoebus",
+    "jp": "フィーバス",
+    "aliases": [],
+    "films": [
+      "The Hunchback of Notre Dame"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "大聖堂の街を守る勇敢な隊長"
+  },
+  {
+    "id": "extended-the-hunchback-of-notre-dame-judge-frollo",
+    "name": "Judge Frollo",
+    "jp": "フロロー",
+    "aliases": [],
+    "films": [
+      "The Hunchback of Notre Dame"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "厳格な判事で主人公を閉じ込める男"
+  },
+  {
+    "id": "extended-the-hunchback-of-notre-dame-clopin",
+    "name": "Clopin",
+    "jp": "クロパン",
+    "aliases": [],
+    "films": [
+      "The Hunchback of Notre Dame"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "祭りを盛り上げる道化師"
+  },
+  {
+    "id": "extended-the-hunchback-of-notre-dame-djali",
+    "name": "Djali",
+    "jp": "ジャリ",
+    "aliases": [],
+    "films": [
+      "The Hunchback of Notre Dame"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "踊り子と一緒にいる小さなヤギ"
+  },
+  {
+    "id": "extended-robin-hood-robin-hood",
+    "name": "Robin Hood",
+    "jp": "ロビン・フッド",
+    "aliases": [],
+    "films": [
+      "Robin Hood"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "貧しい人に宝を配るキツネの義賊"
+  },
+  {
+    "id": "extended-robin-hood-maid-marian",
+    "name": "Maid Marian",
+    "jp": "マリアン",
+    "aliases": [],
+    "films": [
+      "Robin Hood"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "森の英雄を愛するキツネの令嬢"
+  },
+  {
+    "id": "extended-robin-hood-little-john",
+    "name": "Little John",
+    "jp": "リトル・ジョン",
+    "aliases": [],
+    "films": [
+      "Robin Hood"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "義賊の相棒の大きなクマ"
+  },
+  {
+    "id": "extended-robin-hood-prince-john",
+    "name": "Prince John",
+    "jp": "プリンス・ジョン",
+    "aliases": [],
+    "films": [
+      "Robin Hood"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "税金を取り立てる臆病なライオン"
+  },
+  {
+    "id": "extended-robin-hood-sir-hiss",
+    "name": "Sir Hiss",
+    "jp": "サー・ヒス",
+    "aliases": [],
+    "films": [
+      "Robin Hood"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "王子に仕える催眠術が得意なヘビ"
+  },
+  {
+    "id": "extended-robin-hood-friar-tuck",
+    "name": "Friar Tuck",
+    "jp": "タック神父",
+    "aliases": [],
+    "films": [
+      "Robin Hood"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "人々に親しまれるアナグマの神父"
+  },
+  {
+    "id": "extended-the-emperor-s-new-groove-kuzco",
+    "name": "Kuzco",
+    "jp": "クスコ",
+    "aliases": [],
+    "films": [
+      "The Emperor's New Groove"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "ラマに姿を変えられてしまう若い皇帝"
+  },
+  {
+    "id": "extended-the-emperor-s-new-groove-pacha",
+    "name": "Pacha",
+    "jp": "パチャ",
+    "aliases": [],
+    "films": [
+      "The Emperor's New Groove"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "皇帝を助ける村人の父親"
+  },
+  {
+    "id": "extended-the-emperor-s-new-groove-yzma",
+    "name": "Yzma",
+    "jp": "イズマ",
+    "aliases": [],
+    "films": [
+      "The Emperor's New Groove"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "皇帝の王座を狙う長身の元相談役"
+  },
+  {
+    "id": "extended-the-emperor-s-new-groove-kronk",
+    "name": "Kronk",
+    "jp": "クロンク",
+    "aliases": [],
+    "films": [
+      "The Emperor's New Groove"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "料理上手で心優しい悪役の部下"
+  },
+  {
+    "id": "extended-the-emperor-s-new-groove-chicha",
+    "name": "Chicha",
+    "jp": "チチャ",
+    "aliases": [],
+    "films": [
+      "The Emperor's New Groove"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "村で子どもたちを育てる母親"
+  },
+  {
+    "id": "extended-wreck-it-ralph-wreck-it-ralph",
+    "name": "Wreck-It Ralph",
+    "jp": "ラルフ",
+    "aliases": [
+      "レック・イット・ラルフ"
+    ],
+    "films": [
+      "Wreck-It Ralph"
+    ],
+    "franchise": "Disney",
+    "difficulty": 1,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "悪役扱いに悩む巨大なゲームキャラクター"
+  },
+  {
+    "id": "extended-wreck-it-ralph-vanellope-von-schweetz",
+    "name": "Vanellope von Schweetz",
+    "jp": "ヴァネロペ",
+    "aliases": [
+      "ヴァネロペ・フォン・シュウィーツ"
+    ],
+    "films": [
+      "Wreck-It Ralph"
+    ],
+    "franchise": "Disney",
+    "difficulty": 1,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "お菓子のレースゲームに住む少女"
+  },
+  {
+    "id": "extended-wreck-it-ralph-fix-it-felix-jr",
+    "name": "Fix-It Felix Jr.",
+    "jp": "フェリックス",
+    "aliases": [],
+    "films": [
+      "Wreck-It Ralph"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "壊れた建物を魔法のハンマーで直す男"
+  },
+  {
+    "id": "extended-wreck-it-ralph-sergeant-calhoun",
+    "name": "Sergeant Calhoun",
+    "jp": "カルホーン軍曹",
+    "aliases": [],
+    "films": [
+      "Wreck-It Ralph"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "シューティングゲームで戦う女軍人"
+  },
+  {
+    "id": "extended-wreck-it-ralph-king-candy",
+    "name": "King Candy",
+    "jp": "キャンディ大王",
+    "aliases": [],
+    "films": [
+      "Wreck-It Ralph"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "お菓子の国のレースゲームを支配する王"
+  },
+  {
+    "id": "extended-wreck-it-ralph-taffyta-muttonfudge",
+    "name": "Taffyta Muttonfudge",
+    "jp": "タフィタ",
+    "aliases": [
+      "タフィタ・マトンファッジ"
+    ],
+    "films": [
+      "Wreck-It Ralph"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "お菓子のレースゲームにいる少女レーサー"
+  },
+  {
+    "id": "extended-ralph-breaks-the-internet-shank",
+    "name": "Shank",
+    "jp": "シャンク",
+    "aliases": [],
+    "films": [
+      "Ralph Breaks the Internet"
+    ],
+    "franchise": "Disney",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "インターネットのレースゲームで活躍する女性"
+  },
+  {
+    "id": "extended-ralph-breaks-the-internet-yesss",
+    "name": "Yesss",
+    "jp": "イエス",
+    "aliases": [],
+    "films": [
+      "Ralph Breaks the Internet"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "流行の動画を見つけるサイトの責任者"
+  },
+  {
+    "id": "extended-ralph-breaks-the-internet-knowsmore",
+    "name": "KnowsMore",
+    "jp": "ノウズモア",
+    "aliases": [],
+    "films": [
+      "Ralph Breaks the Internet"
+    ],
+    "franchise": "Disney",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "",
+    "hint": "検索の先回りが得意な小さなキャラクター"
+  },
+  {
+    "id": "extended-elio-elio-solis",
+    "name": "Elio Solis",
+    "jp": "エリオ",
+    "aliases": [],
+    "films": [
+      "Elio"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 1,
+    "imageUrl": "",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/elio",
+    "hint": "宇宙に居場所を求める少年"
+  },
+  {
+    "id": "extended-elio-glordon",
+    "name": "Glordon",
+    "jp": "グロードン",
+    "aliases": [],
+    "films": [
+      "Elio"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/elio",
+    "hint": "強い父に憧れながらも気弱な宇宙人の少年"
+  },
+  {
+    "id": "extended-elio-olga-solis",
+    "name": "Olga Solis",
+    "jp": "オルガ",
+    "aliases": [],
+    "films": [
+      "Elio"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 2,
+    "imageUrl": "",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/elio",
+    "hint": "甥を育てながら宇宙飛行士を目指す女性"
+  },
+  {
+    "id": "extended-elio-lord-grigon",
+    "name": "Lord Grigon",
+    "jp": "グライゴン",
+    "aliases": [],
+    "films": [
+      "Elio"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/elio",
+    "hint": "息子の弱さを嘆く恐ろしい宇宙人の戦士"
+  },
+  {
+    "id": "extended-elio-ooooo",
+    "name": "Ooooo",
+    "jp": "ウゥゥゥゥ",
+    "aliases": [
+      "ウーウー",
+      "ウゥゥゥゥ"
+    ],
+    "films": [
+      "Elio"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/elio",
+    "hint": "宇宙の共同体で案内する液状コンピューター"
+  },
+  {
+    "id": "extended-elio-melmac",
+    "name": "Melmac",
+    "jp": "メルマック",
+    "aliases": [],
+    "films": [
+      "Elio"
+    ],
+    "franchise": "Pixar",
+    "difficulty": 3,
+    "imageUrl": "",
+    "sourceUrl": "https://www.disney.co.jp/fc/pixar/elio",
+    "hint": "宇宙からの通信を追い続ける無線マニア"
   }
 ];

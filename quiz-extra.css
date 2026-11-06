@@ -1,0 +1,9 @@
+/* 既存 styles.css は変更せず、文字ヒント検定に必要な追加スタイルのみ指定 */
+.mode[data-action="text"]{background:linear-gradient(135deg,#4d5c9aaa,#42307daa)}
+.hint-scene{min-height:290px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:15px;margin:16px 0 20px;padding:28px 22px;border-radius:22px;border:1px solid #e6d5ff45;background:radial-gradient(ellipse at 50% 15%,#8e74cf51,transparent 70%),linear-gradient(155deg,#40235fbb,#241342d9);box-shadow:inset 0 0 38px #b886ed19}
+.hint-symbol{font-size:2.7rem;filter:drop-shadow(0 0 12px #dec7ff7d)}
+.hint-heading{font-weight:800;color:#ffe5ae;letter-spacing:.12em;font-size:.91rem}
+.hint-text{font-size:clamp(1.1rem,3.3vw,1.35rem);line-height:1.85;font-weight:800;color:#ffffff;max-width:530px;margin:0}
+.hint-work{font-size:.85rem;color:#e7ddff;padding:8px 13px;background:#ffffff15;border:1px solid #ffffff23;border-radius:22px;overflow-wrap:anywhere}
+.clue-thumb{display:grid;place-items:center;flex:none;width:68px;height:68px;border-radius:12px;background:#ffffff21;font-size:1.5rem}
+@media(max-width:650px){.hint-scene{min-height:250px;padding:20px 15px}}
