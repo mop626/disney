@@ -65,7 +65,7 @@
       ]
     },
     "extended-mickey-friends-max-goof": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-mickey-friends-max-goof--wiki-3823-1.webp",
@@ -77,7 +77,7 @@
           "width": 400,
           "height": 500,
           "sha256": "b60d5226e69a20c90a079adc2b3a30b2d43656d47f773f1e9c59693f5d0759d1",
-          "publishedPath": "",
+          "publishedPath": "images/extended-mickey-friends-max-goof.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -200,7 +200,7 @@
       ]
     },
     "extended-mickey-friends-magica-de-spell": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-mickey-friends-magica-de-spell--wiki-7401-1.webp",
@@ -212,7 +212,7 @@
           "width": 371,
           "height": 500,
           "sha256": "d5cc2f9d07a59959588dd7f1c43fd405c214c1fa66c16766f871c37099f268bc",
-          "publishedPath": "",
+          "publishedPath": "images/extended-mickey-friends-magica-de-spell.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -270,7 +270,7 @@
       ]
     },
     "extended-snow-white-and-the-seven-dwarfs-the-huntsman": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-snow-white-and-the-seven-dwarfs-the-huntsman--user-reference.webp",
@@ -282,7 +282,7 @@
           "width": 700,
           "height": 519,
           "sha256": "6200d0e8a1128fd4bf80cb780a477deff79b060156e36e50e1403cf22cf4474a",
-          "publishedPath": "",
+          "publishedPath": "images/extended-snow-white-and-the-seven-dwarfs-the-huntsman.webp",
           "reviewRequired": true,
           "searchProvider": "User-supplied reference (rights unverified)"
         }
@@ -415,7 +415,7 @@
       ]
     },
     "extended-cinderella-grand-duke": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-cinderella-grand-duke--user-reference.webp",
@@ -427,7 +427,7 @@
           "width": 584,
           "height": 700,
           "sha256": "1b0bfd6eaffc716747427f529eb78eebe6a6233b6efd288d9b6d52ca05c796e7",
-          "publishedPath": "",
+          "publishedPath": "images/extended-cinderella-grand-duke.webp",
           "reviewRequired": true,
           "searchProvider": "User-supplied reference (rights unverified)"
         }
@@ -771,7 +771,7 @@
       ]
     },
     "extended-beauty-and-the-beast-babette": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-beauty-and-the-beast-babette--7839.webp",
@@ -795,7 +795,7 @@
           "width": 211,
           "height": 285,
           "sha256": "e6818e89a1cc5e08cf5c23192d9f09b209edc8144f6e997509ef75efd87b7f2c",
-          "publishedPath": "",
+          "publishedPath": "images/extended-beauty-and-the-beast-babette.webp",
           "reviewRequired": true,
           "searchProvider": "User-supplied reference (rights unverified)"
         }
@@ -848,7 +848,7 @@
       ]
     },
     "extended-aladdin-the-sultan": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-aladdin-the-sultan--9834.webp",
@@ -872,7 +872,7 @@
           "width": 234,
           "height": 270,
           "sha256": "ed156fd5a98693e4e308dd500e7fbc262ec6da660fdcd178912664220460e935",
-          "publishedPath": "",
+          "publishedPath": "images/extended-aladdin-the-sultan.webp",
           "reviewRequired": true,
           "searchProvider": "User-supplied reference (rights unverified)"
         }
@@ -1151,7 +1151,7 @@
       ]
     },
     "extended-the-lion-guard-fuli": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-lion-guard-fuli--2508.webp",
@@ -1163,12 +1163,12 @@
           "width": 546,
           "height": 586,
           "sha256": "12b1b0f841210c4390d7d9b7f542688ed4bab4a8a0dd965838983b294bd99a51",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-lion-guard-fuli.webp"
         }
       ]
     },
     "extended-the-lion-guard-bunga": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-lion-guard-bunga--949.webp",
@@ -1180,12 +1180,12 @@
           "width": 406,
           "height": 440,
           "sha256": "0546c92f2253ae4b5e47a38becd7267e51f92a4a6b27aa11ce04455baeacc0ca",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-lion-guard-bunga.webp"
         }
       ]
     },
     "extended-the-lion-guard-ono": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-lion-guard-ono--5030.webp",
@@ -1197,12 +1197,12 @@
           "width": 583,
           "height": 554,
           "sha256": "3e1714f10789f93882c090b4e700fb5a457d0b090cefb6cdb4eae8a81b50cb02",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-lion-guard-ono.webp"
         }
       ]
     },
     "extended-the-lion-guard-beshte": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-lion-guard-beshte--616.webp",
@@ -1214,12 +1214,12 @@
           "width": 700,
           "height": 486,
           "sha256": "707ea53247078f509f3b8423a5a2c56c5a18c9feb4b7131c8f94869409cc9150",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-lion-guard-beshte.webp"
         }
       ]
     },
     "extended-pocahontas-grandmother-willow": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-pocahontas-grandmother-willow--2808.webp",
@@ -1231,12 +1231,12 @@
           "width": 700,
           "height": 394,
           "sha256": "911022a9082b0ce919d244bf6b672e660ee8bfe78108951c1664cc71cf549b1c",
-          "publishedPath": ""
+          "publishedPath": "images/extended-pocahontas-grandmother-willow.webp"
         }
       ]
     },
     "extended-pocahontas-percy": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-pocahontas-percy--5230.webp",
@@ -1248,7 +1248,7 @@
           "width": 612,
           "height": 700,
           "sha256": "02c9292424855672c99c3ef42d5ead4387d3d6193ff5803a9c394def5a9dacdd",
-          "publishedPath": ""
+          "publishedPath": "images/extended-pocahontas-percy.webp"
         },
         {
           "path": "images/new-candidates/extended-pocahontas-percy--5228.webp",
@@ -1265,7 +1265,7 @@
       ]
     },
     "extended-pocahontas-governor-ratcliffe": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-pocahontas-governor-ratcliffe--5619.webp",
@@ -1277,7 +1277,7 @@
           "width": 683,
           "height": 700,
           "sha256": "eaa266c5dfd4a96e2d694b7e84aaaa436cc0bcc107de060f9227fac9b3c87e80",
-          "publishedPath": ""
+          "publishedPath": "images/extended-pocahontas-governor-ratcliffe.webp"
         }
       ]
     },
@@ -1311,7 +1311,7 @@
       ]
     },
     "extended-pocahontas-nakoma": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-pocahontas-nakoma--4788.webp",
@@ -1323,12 +1323,12 @@
           "width": 553,
           "height": 696,
           "sha256": "a10d52c1bf16913b0cc8bcdee92acc4184951f6cd4f463e2fa6db3a79ad17637",
-          "publishedPath": ""
+          "publishedPath": "images/extended-pocahontas-nakoma.webp"
         }
       ]
     },
     "extended-pocahontas-chief-powhatan": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-pocahontas-chief-powhatan--5435.webp",
@@ -1340,7 +1340,7 @@
           "width": 595,
           "height": 700,
           "sha256": "2b596a5c678285e9943179107663ff6f253df17665a71a276b86e15368eef4ff",
-          "publishedPath": ""
+          "publishedPath": "images/extended-pocahontas-chief-powhatan.webp"
         }
       ]
     },
@@ -1580,7 +1580,7 @@
       ]
     },
     "extended-the-princess-and-the-frog-big-daddy-la-bouff": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-princess-and-the-frog-big-daddy-la-bouff--wiki-9456-1.webp",
@@ -1592,7 +1592,7 @@
           "width": 636,
           "height": 650,
           "sha256": "79c4777823accaaae260b3d3e10ede81c1c0fa927b19c99fcdaee012bb709a02",
-          "publishedPath": "",
+          "publishedPath": "images/extended-the-princess-and-the-frog-big-daddy-la-bouff.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -1863,7 +1863,7 @@
       ]
     },
     "extended-frozen-ii-yelena": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-frozen-ii-yelena--wiki-1103917-1.webp",
@@ -1875,7 +1875,7 @@
           "width": 557,
           "height": 650,
           "sha256": "bce520e359b98f4ad0e31d578b43fb3ca6e5ad6e422aa71bf550c3cb8daab6b5",
-          "publishedPath": "",
+          "publishedPath": "images/extended-frozen-ii-yelena.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -1981,7 +1981,7 @@
       ]
     },
     "extended-frozen-ii-queen-iduna": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-frozen-ii-queen-iduna--wiki-923938-1.webp",
@@ -1993,7 +1993,7 @@
           "width": 648,
           "height": 650,
           "sha256": "cfafda6d18324ada0ff0620907390d422452b4c06522ae720a98a370f7c34657",
-          "publishedPath": "",
+          "publishedPath": "images/extended-frozen-ii-queen-iduna.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -2017,7 +2017,7 @@
       ]
     },
     "extended-frozen-ii-king-agnarr": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-frozen-ii-king-agnarr--wiki-282485-1.webp",
@@ -2029,7 +2029,7 @@
           "width": 650,
           "height": 484,
           "sha256": "0cef465f8fecb701d0845e1a0925fc2685effd5a4c5664eb8333ac77c88f322e",
-          "publishedPath": "",
+          "publishedPath": "images/extended-frozen-ii-king-agnarr.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -2217,7 +2217,7 @@
       ]
     },
     "extended-moana-2-loto": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-moana-2-loto--wiki-1419785-1.webp",
@@ -2229,7 +2229,7 @@
           "width": 509,
           "height": 650,
           "sha256": "61149fc6e2737905fbb0fbcfd5663ffc26d8b2746d75aae99feda01062d25f9f",
-          "publishedPath": "",
+          "publishedPath": "images/extended-moana-2-loto.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -2449,7 +2449,7 @@
       ]
     },
     "extended-zootopia-2-pawbert-lynxley": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-zootopia-2-pawbert-lynxley--wiki-1484694-1.webp",
@@ -2461,7 +2461,7 @@
           "width": 528,
           "height": 577,
           "sha256": "42c06fa856195ab6057f90d645c6bcb5f6b1912b4701e0810b68a07007df4ac6",
-          "publishedPath": "",
+          "publishedPath": "images/extended-zootopia-2-pawbert-lynxley.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -2482,7 +2482,7 @@
       ]
     },
     "extended-zootopia-2-milton-lynxley": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-zootopia-2-milton-lynxley--wiki-1486580-1.webp",
@@ -2494,7 +2494,7 @@
           "width": 650,
           "height": 503,
           "sha256": "8a0cca49f27fac35b3ee8d257266e967e216004858b349ca7808522913b39ccc",
-          "publishedPath": "",
+          "publishedPath": "images/extended-zootopia-2-milton-lynxley.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -2532,7 +2532,7 @@
       ]
     },
     "extended-zootopia-2-dr-fuzzby": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-zootopia-2-dr-fuzzby--wiki-1478095-1.webp",
@@ -2544,7 +2544,7 @@
           "width": 426,
           "height": 577,
           "sha256": "67991f5b790d0c86a7d104fa3c1f380bc67cec41a3085f0f28155235fc44f12e",
-          "publishedPath": "",
+          "publishedPath": "images/extended-zootopia-2-dr-fuzzby.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -2706,7 +2706,7 @@
       ]
     },
     "extended-lilo-stitch-dr-hamsterviel": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-lilo-stitch-dr-hamsterviel--wiki-441149-1.webp",
@@ -2718,7 +2718,7 @@
           "width": 351,
           "height": 351,
           "sha256": "07cdb507533f05927e0b0f09d41be1838b39124c974dc592942242fb5184a44c",
-          "publishedPath": "",
+          "publishedPath": "images/extended-lilo-stitch-dr-hamsterviel.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -2837,7 +2837,7 @@
       ]
     },
     "extended-peter-pan-tick-tock-crocodile": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-peter-pan-tick-tock-crocodile--wiki-55358-1.webp",
@@ -2849,7 +2849,7 @@
           "width": 650,
           "height": 614,
           "sha256": "04acf94893881a99d7f6ccfa3574e570fafbb3c17b786c8f630133a346a7c55b",
-          "publishedPath": "",
+          "publishedPath": "images/extended-peter-pan-tick-tock-crocodile.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -2916,7 +2916,7 @@
       ]
     },
     "extended-winnie-the-pooh-gopher": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-winnie-the-pooh-gopher--2766.webp",
@@ -2940,7 +2940,7 @@
           "width": 517,
           "height": 700,
           "sha256": "0ba7e231b8a224aa670db7c01a32b177f69398fc5fb8e717f26b9b7172fec843",
-          "publishedPath": ""
+          "publishedPath": "images/extended-winnie-the-pooh-gopher.webp"
         }
       ]
     },
@@ -2996,7 +2996,7 @@
       ]
     },
     "extended-bambi-the-great-prince-of-the-forest": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-bambi-the-great-prince-of-the-forest--2823.webp",
@@ -3008,7 +3008,7 @@
           "width": 563,
           "height": 700,
           "sha256": "e3ec326379450beb782c68020089437dc152c872735a9c8d287a2cf34ce88121",
-          "publishedPath": ""
+          "publishedPath": "images/extended-bambi-the-great-prince-of-the-forest.webp"
         }
       ]
     },
@@ -3105,7 +3105,7 @@
       ]
     },
     "extended-toy-story-andy-davis": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-toy-story-andy-davis--wiki-8670-1.webp",
@@ -3117,7 +3117,7 @@
           "width": 650,
           "height": 650,
           "sha256": "ad0ce2ede9863f3d791b273d3a1c793fd6ab2298bdb844800c97f6dc318d276e",
-          "publishedPath": "",
+          "publishedPath": "images/extended-toy-story-andy-davis.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -3138,7 +3138,7 @@
       ]
     },
     "extended-toy-story-3-bonnie-anderson": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-toy-story-3-bonnie-anderson--wiki-15362-1.webp",
@@ -3150,7 +3150,7 @@
           "width": 554,
           "height": 650,
           "sha256": "284cc2634a3de63315b19b050cfbbe68e572c368824ac6b7d8ae26a80ffdbd0f",
-          "publishedPath": "",
+          "publishedPath": "images/extended-toy-story-3-bonnie-anderson.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -3171,7 +3171,7 @@
       ]
     },
     "extended-toy-story-3-lotso": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-toy-story-3-lotso--wiki-9698-1.webp",
@@ -3183,7 +3183,7 @@
           "width": 650,
           "height": 551,
           "sha256": "7c2ed1f3f493eeed304558cda93b30937b1946d4c004c9b29292f1aea81e5d3a",
-          "publishedPath": "",
+          "publishedPath": "images/extended-toy-story-3-lotso.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -3204,7 +3204,7 @@
       ]
     },
     "extended-toy-story-2-bullseye": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-toy-story-2-bullseye--wiki-14843-1.webp",
@@ -3230,14 +3230,14 @@
           "width": 567,
           "height": 650,
           "sha256": "78e7e39c522fbcd74ab8a70c9d6e69dc9360e87757750ddf047076a12ec8b269",
-          "publishedPath": "",
+          "publishedPath": "images/extended-toy-story-2-bullseye.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         }
       ]
     },
     "extended-toy-story-2-stinky-pete": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-toy-story-2-stinky-pete--wiki-10111-1.webp",
@@ -3249,7 +3249,7 @@
           "width": 650,
           "height": 650,
           "sha256": "3bb3d4ccb2738213dc5e622e44cd58dbc8686ff366ece35642456048847d0e26",
-          "publishedPath": "",
+          "publishedPath": "images/extended-toy-story-2-stinky-pete.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -3270,7 +3270,7 @@
       ]
     },
     "extended-toy-story-2-wheezy": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-toy-story-2-wheezy--wiki-17498-1.webp",
@@ -3282,7 +3282,7 @@
           "width": 630,
           "height": 650,
           "sha256": "30e2c5fefec6191e85b17e68d632566e386c2c69a7decfbcc67ce565d57c2988",
-          "publishedPath": "",
+          "publishedPath": "images/extended-toy-story-2-wheezy.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -3303,7 +3303,7 @@
       ]
     },
     "extended-toy-story-3-ken": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-toy-story-3-ken--wiki-9753-1.webp",
@@ -3315,7 +3315,7 @@
           "width": 461,
           "height": 650,
           "sha256": "c1a0aa4dfa906e1181b53f6c9afdc44ba627ebc1c7a41eac1d74d207a5cae032",
-          "publishedPath": "",
+          "publishedPath": "images/extended-toy-story-3-ken.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -3336,7 +3336,7 @@
       ]
     },
     "extended-toy-story-3-barbie": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-toy-story-3-barbie--wiki-15282-1.webp",
@@ -3348,7 +3348,7 @@
           "width": 402,
           "height": 635,
           "sha256": "b5caccbea6a48bdbdd408c5061c763f8baf50bde6d14a5bf206c68a1fb9f9b3d",
-          "publishedPath": "",
+          "publishedPath": "images/extended-toy-story-3-barbie.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -3386,7 +3386,7 @@
       ]
     },
     "extended-toy-story-3-buttercup": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-toy-story-3-buttercup--wiki-15256-1.webp",
@@ -3398,7 +3398,7 @@
           "width": 433,
           "height": 624,
           "sha256": "f952617dd5a53a33f47523f97d1339824fc6002f77d0e9e154c904be0cf1f804",
-          "publishedPath": "",
+          "publishedPath": "images/extended-toy-story-3-buttercup.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -3419,7 +3419,7 @@
       ]
     },
     "extended-toy-story-3-mr-pricklepants": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-toy-story-3-mr-pricklepants--wiki-9699-1.webp",
@@ -3431,7 +3431,7 @@
           "width": 348,
           "height": 371,
           "sha256": "6469241813d911090932dc151a24952f171b7057c5c9c499b5faabf5ba9dd098",
-          "publishedPath": "",
+          "publishedPath": "images/extended-toy-story-3-mr-pricklepants.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -3455,7 +3455,7 @@
       ]
     },
     "extended-toy-story-4-gabby-gabby": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-toy-story-4-gabby-gabby--wiki-1040168-1.webp",
@@ -3467,7 +3467,7 @@
           "width": 551,
           "height": 650,
           "sha256": "eb838cdebee2b46d8e5f58260b7bc17e4d98788cab8c39c4b4f250f00380346b",
-          "publishedPath": "",
+          "publishedPath": "images/extended-toy-story-4-gabby-gabby.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -3488,7 +3488,7 @@
       ]
     },
     "extended-toy-story-4-duke-caboom": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-toy-story-4-duke-caboom--wiki-1040657-1.webp",
@@ -3500,7 +3500,7 @@
           "width": 567,
           "height": 650,
           "sha256": "335812223cdd5347aaa4511a2169a72ff22e4bfc990ea5c1570e3524cfbe40ad",
-          "publishedPath": "",
+          "publishedPath": "images/extended-toy-story-4-duke-caboom.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -3587,7 +3587,7 @@
       ]
     },
     "extended-toy-story-4-benson": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-toy-story-4-benson--wiki-1043183-1.webp",
@@ -3599,7 +3599,7 @@
           "width": 612,
           "height": 518,
           "sha256": "fa9420595f969fe960fa4cebc9cbf407433c3c72443b68b7a37b9ad33f4baa77",
-          "publishedPath": "",
+          "publishedPath": "images/extended-toy-story-4-benson.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -3637,7 +3637,7 @@
       ]
     },
     "extended-toy-story-mrs-potato-head": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-toy-story-mrs-potato-head--wiki-14828-1.webp",
@@ -3649,7 +3649,7 @@
           "width": 650,
           "height": 650,
           "sha256": "194006375a8d6e299b7386cf835f83c0374440847f6a3de0e3736addf2d3c5af",
-          "publishedPath": "",
+          "publishedPath": "images/extended-toy-story-mrs-potato-head.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -3670,7 +3670,7 @@
       ]
     },
     "extended-monsters-inc-celia-mae": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-monsters-inc-celia-mae--wiki-23654-1.webp",
@@ -3682,7 +3682,7 @@
           "width": 650,
           "height": 572,
           "sha256": "6afc42c84effa6d7ca7363367eb62330f6ec0d77ec5d7f552d0c2a754b38a0b9",
-          "publishedPath": "",
+          "publishedPath": "images/extended-monsters-inc-celia-mae.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -3703,7 +3703,7 @@
       ]
     },
     "extended-monsters-inc-henry-j-waternoose": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-monsters-inc-henry-j-waternoose--wiki-60621-1.webp",
@@ -3715,7 +3715,7 @@
           "width": 650,
           "height": 352,
           "sha256": "244349f476351bfaffb55c5f8deafff9a73467bfe8e3ebdaea5b268d29176844",
-          "publishedPath": "",
+          "publishedPath": "images/extended-monsters-inc-henry-j-waternoose.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -3736,7 +3736,7 @@
       ]
     },
     "extended-monsters-inc-george-sanderson": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-monsters-inc-george-sanderson--wiki-23661-1.webp",
@@ -3748,7 +3748,7 @@
           "width": 650,
           "height": 490,
           "sha256": "fc4165394b4c058bd54bcfc15908cef33b7f1b4364696ec07d9373c1a20a05bc",
-          "publishedPath": "",
+          "publishedPath": "images/extended-monsters-inc-george-sanderson.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -3769,7 +3769,7 @@
       ]
     },
     "extended-monsters-inc-fungus": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-monsters-inc-fungus--wiki-23659-1.webp",
@@ -3781,7 +3781,7 @@
           "width": 650,
           "height": 650,
           "sha256": "211ea87674cd1ca533026b07a9a569057f6dd16320fc56929b5c486c6cd674ba",
-          "publishedPath": "",
+          "publishedPath": "images/extended-monsters-inc-fungus.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -3802,7 +3802,7 @@
       ]
     },
     "extended-monsters-university-dean-hardscrabble": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-monsters-university-dean-hardscrabble--wiki-156116-1.webp",
@@ -3814,7 +3814,7 @@
           "width": 449,
           "height": 650,
           "sha256": "5fce7d32a1a5ec158b3f3ee69f9d63a6458aac707f7e8165eefdd18b2f8dbd17",
-          "publishedPath": "",
+          "publishedPath": "images/extended-monsters-university-dean-hardscrabble.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -3852,7 +3852,7 @@
       ]
     },
     "extended-monsters-university-squishy": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-monsters-university-squishy--wiki-156272-1.webp",
@@ -3864,7 +3864,7 @@
           "width": 413,
           "height": 567,
           "sha256": "f5806568f8aa9e4d213414b348cec6767cf266222c689c95fcda5b0ca1ec5488",
-          "publishedPath": "",
+          "publishedPath": "images/extended-monsters-university-squishy.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -3885,7 +3885,7 @@
       ]
     },
     "extended-monsters-university-don-carlton": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-monsters-university-don-carlton--wiki-156302-1.webp",
@@ -3897,7 +3897,7 @@
           "width": 575,
           "height": 542,
           "sha256": "f4e76a8b510dc2228287675be5ee4677cd08635515139cdb704340519eed8a5b",
-          "publishedPath": "",
+          "publishedPath": "images/extended-monsters-university-don-carlton.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -3918,7 +3918,7 @@
       ]
     },
     "extended-monsters-university-johnny-worthington": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-monsters-university-johnny-worthington--wiki-316004-1.webp",
@@ -3930,7 +3930,7 @@
           "width": 571,
           "height": 650,
           "sha256": "3dfc3017bb77fbfe112cac48dafd468a5993f9ce6f01c6deccd1b9df5c23cb32",
-          "publishedPath": "",
+          "publishedPath": "images/extended-monsters-university-johnny-worthington.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -3968,7 +3968,7 @@
       ]
     },
     "extended-finding-nemo-darla": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-finding-nemo-darla--wiki-11840-1.webp",
@@ -3980,7 +3980,7 @@
           "width": 577,
           "height": 649,
           "sha256": "7c99c1f538817db1fd2a7c8d0125348ff1e4b5212bc257599669e24a2d292daf",
-          "publishedPath": "",
+          "publishedPath": "images/extended-finding-nemo-darla.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -4030,7 +4030,7 @@
       ]
     },
     "extended-finding-nemo-bloat": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-finding-nemo-bloat--wiki-969279-1.webp",
@@ -4042,7 +4042,7 @@
           "width": 650,
           "height": 345,
           "sha256": "23841466ad27d1f45dbdf3c6c0e03652619a59677fb392ab7c0023e5b7573a30",
-          "publishedPath": "",
+          "publishedPath": "images/extended-finding-nemo-bloat.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -4129,7 +4129,7 @@
       ]
     },
     "extended-finding-nemo-gurgle": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-finding-nemo-gurgle--wiki-969279-1.webp",
@@ -4155,7 +4155,7 @@
           "width": 436,
           "height": 650,
           "sha256": "378b04cc208d63712a516521c8ca5bd1e4e5623f9674506dbaf3c627b7211b8c",
-          "publishedPath": "",
+          "publishedPath": "images/extended-finding-nemo-gurgle.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         }
@@ -4208,7 +4208,7 @@
       ]
     },
     "extended-finding-dory-destiny": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-finding-dory-destiny--wiki-1419544-1.webp",
@@ -4220,7 +4220,7 @@
           "width": 650,
           "height": 476,
           "sha256": "a50f9f52e8438740f07216887fd61bbb77b80fa24b3f4d365e88821d0d3e6ea5",
-          "publishedPath": "",
+          "publishedPath": "images/extended-finding-dory-destiny.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -4258,7 +4258,7 @@
       ]
     },
     "extended-finding-dory-becky": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-finding-dory-becky--wiki-675721-1.webp",
@@ -4270,7 +4270,7 @@
           "width": 210,
           "height": 240,
           "sha256": "db1d4e6312db36866a79b41739c3dcddf60a859294d4f14aa995a9f787986037",
-          "publishedPath": "",
+          "publishedPath": "images/extended-finding-dory-becky.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -4291,7 +4291,7 @@
       ]
     },
     "extended-the-incredibles-syndrome": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-incredibles-syndrome--wiki-23865-1.webp",
@@ -4303,7 +4303,7 @@
           "width": 613,
           "height": 650,
           "sha256": "a174cd55094bdf89f45b70b13743dc53ad3b45a246011df2f0043f207b3b06b6",
-          "publishedPath": "",
+          "publishedPath": "images/extended-the-incredibles-syndrome.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -4341,7 +4341,7 @@
       ]
     },
     "extended-the-incredibles-the-underminer": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-incredibles-the-underminer--wiki-65346-1.webp",
@@ -4353,7 +4353,7 @@
           "width": 650,
           "height": 363,
           "sha256": "4bcc3dea2af4bbc330953ce34374db689cf3c03a26bbfcb5a3a188f04ad6f9a9",
-          "publishedPath": "",
+          "publishedPath": "images/extended-the-incredibles-the-underminer.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -4374,7 +4374,7 @@
       ]
     },
     "extended-incredibles-2-evelyn-deavor": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-incredibles-2-evelyn-deavor--wiki-902586-1.webp",
@@ -4386,7 +4386,7 @@
           "width": 397,
           "height": 650,
           "sha256": "58100cf9140313c09cc6ca13b6ad559dbb20642c5e66b47d7bebcfa1cfcd1af5",
-          "publishedPath": "",
+          "publishedPath": "images/extended-incredibles-2-evelyn-deavor.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -4407,7 +4407,7 @@
       ]
     },
     "extended-incredibles-2-winston-deavor": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-incredibles-2-winston-deavor--wiki-902583-1.webp",
@@ -4419,7 +4419,7 @@
           "width": 640,
           "height": 650,
           "sha256": "6366c98fdc798edc0168fb2b1046b30777d66f1b882f9237a58c4927419d03ca",
-          "publishedPath": "",
+          "publishedPath": "images/extended-incredibles-2-winston-deavor.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -4440,7 +4440,7 @@
       ]
     },
     "extended-incredibles-2-voyd": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-incredibles-2-voyd--wiki-902579-1.webp",
@@ -4452,7 +4452,7 @@
           "width": 441,
           "height": 650,
           "sha256": "c09caed5f37ebee84b0bac6a8def6076ad0770199240d67b7936c89ed14d63b6",
-          "publishedPath": "",
+          "publishedPath": "images/extended-incredibles-2-voyd.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -4490,7 +4490,7 @@
       ]
     },
     "extended-cars-fillmore": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-cars-fillmore--wiki-33849-1.webp",
@@ -4502,7 +4502,7 @@
           "width": 559,
           "height": 543,
           "sha256": "a99b27e10af8bc8226e34630c8ef0e7ace2f4a2e3fe2262e21fbc7d9eb772947",
-          "publishedPath": "",
+          "publishedPath": "images/extended-cars-fillmore.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -4523,7 +4523,7 @@
       ]
     },
     "extended-cars-sarge": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-cars-sarge--wiki-72948-1.webp",
@@ -4549,14 +4549,14 @@
           "width": 468,
           "height": 544,
           "sha256": "56e4cd431751236cc0e66339f2ea8d16f0993531bd699c883d0813faa69727b2",
-          "publishedPath": "",
+          "publishedPath": "images/extended-cars-sarge.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         }
       ]
     },
     "extended-cars-ramone": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-cars-ramone--wiki-43544-1.webp",
@@ -4568,7 +4568,7 @@
           "width": 650,
           "height": 329,
           "sha256": "ef84d776c6a9660abd4d298148ddd9ad6b043f920de1888073b7b729b02f095c",
-          "publishedPath": "",
+          "publishedPath": "images/extended-cars-ramone.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -4635,7 +4635,7 @@
       ]
     },
     "extended-cars-sheriff": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-cars-sheriff--wiki-24992-1.webp",
@@ -4647,7 +4647,7 @@
           "width": 590,
           "height": 372,
           "sha256": "1b4b6b18a29f80e18e28e8b34ad63c6fdf2a86e773383d499de4f4726804a418",
-          "publishedPath": "",
+          "publishedPath": "images/extended-cars-sheriff.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -4685,7 +4685,7 @@
       ]
     },
     "extended-cars-chick-hicks": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-cars-chick-hicks--wiki-12634-1.webp",
@@ -4697,7 +4697,7 @@
           "width": 650,
           "height": 432,
           "sha256": "c7b6bc6a516500aba376b8f06c44a9045b1a5481afd69ef1cf3688120adff5de",
-          "publishedPath": "",
+          "publishedPath": "images/extended-cars-chick-hicks.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -4747,7 +4747,7 @@
       ]
     },
     "extended-cars-2-francesco-bernoulli": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-cars-2-francesco-bernoulli--wiki-33140-1.webp",
@@ -4759,7 +4759,7 @@
           "width": 650,
           "height": 312,
           "sha256": "530e8b31d5d5d026b6cd318601d6668a04c9c4c7cfb2a25d194cde971e08e38b",
-          "publishedPath": "",
+          "publishedPath": "images/extended-cars-2-francesco-bernoulli.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -4780,7 +4780,7 @@
       ]
     },
     "extended-cars-2-finn-mcmissile": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-cars-2-finn-mcmissile--wiki-29051-1.webp",
@@ -4806,14 +4806,14 @@
           "width": 650,
           "height": 329,
           "sha256": "754c5a9487a83efcf2ab1856d00a256edeb02c5f2df99ca7caf707a495f7fc5a",
-          "publishedPath": "",
+          "publishedPath": "images/extended-cars-2-finn-mcmissile.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         }
       ]
     },
     "extended-cars-2-holley-shiftwell": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-cars-2-holley-shiftwell--wiki-32549-1.webp",
@@ -4825,7 +4825,7 @@
           "width": 650,
           "height": 441,
           "sha256": "e10c8210cc2838c063a77e0a5b4f88db0f894f4f19025ca467c0a9e61b91f840",
-          "publishedPath": "",
+          "publishedPath": "images/extended-cars-2-holley-shiftwell.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -4846,7 +4846,7 @@
       ]
     },
     "extended-cars-3-cruz-ramirez": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-cars-3-cruz-ramirez--wiki-1354095-1.webp",
@@ -4858,7 +4858,7 @@
           "width": 650,
           "height": 298,
           "sha256": "a0d97ff979235be64931dd0787eb5ca6689014bc9273a7b45a61746d166c95c6",
-          "publishedPath": "",
+          "publishedPath": "images/extended-cars-3-cruz-ramirez.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -4879,7 +4879,7 @@
       ]
     },
     "extended-cars-3-jackson-storm": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-cars-3-jackson-storm--wiki-710131-1.webp",
@@ -4891,7 +4891,7 @@
           "width": 650,
           "height": 300,
           "sha256": "e09736e91fb9cfa6d4a32e21bce07993cc6249404e459f0e9ddf6fa016c71c94",
-          "publishedPath": "",
+          "publishedPath": "images/extended-cars-3-jackson-storm.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -4912,7 +4912,7 @@
       ]
     },
     "extended-cars-3-smokey": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-cars-3-smokey--wiki-829173-1.webp",
@@ -4924,7 +4924,7 @@
           "width": 650,
           "height": 451,
           "sha256": "95edf40cceae38665570f3dbd3d8eea99ba2483d1642acd3b1363161a3fb8b47",
-          "publishedPath": "",
+          "publishedPath": "images/extended-cars-3-smokey.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -4945,7 +4945,7 @@
       ]
     },
     "extended-ratatouille-chef-skinner": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-ratatouille-chef-skinner--wiki-11904-1.webp",
@@ -4957,7 +4957,7 @@
           "width": 650,
           "height": 520,
           "sha256": "d5acab7f697933ccdc8af7575e4663bea0fcc20088df2bcb717db2fe102c50cc",
-          "publishedPath": "",
+          "publishedPath": "images/extended-ratatouille-chef-skinner.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -4978,7 +4978,7 @@
       ]
     },
     "extended-ratatouille-emile": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-ratatouille-emile--wiki-13775-1.webp",
@@ -4990,7 +4990,7 @@
           "width": 593,
           "height": 650,
           "sha256": "f06605e1892cbbf3bc7d9bcb4b9885af2e22aa0115c9dcbdb62f63c4c5e9a98f",
-          "publishedPath": "",
+          "publishedPath": "images/extended-ratatouille-emile.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -5011,7 +5011,7 @@
       ]
     },
     "extended-ratatouille-django": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-ratatouille-django--wiki-21684-1.webp",
@@ -5023,7 +5023,7 @@
           "width": 599,
           "height": 641,
           "sha256": "31ef401434d81acb03fb9a44732d8bf7445b047322b5bb01be6d28a53da49279",
-          "publishedPath": "",
+          "publishedPath": "images/extended-ratatouille-django.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -5044,7 +5044,7 @@
       ]
     },
     "extended-ratatouille-auguste-gusteau": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-ratatouille-auguste-gusteau--wiki-21687-1.webp",
@@ -5056,7 +5056,7 @@
           "width": 403,
           "height": 349,
           "sha256": "40a7eae3466f1588085a8d7426721d1ff68af4e12bd005e461f3b1c94edf935a",
-          "publishedPath": "",
+          "publishedPath": "images/extended-ratatouille-auguste-gusteau.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -5077,7 +5077,7 @@
       ]
     },
     "extended-wall-e-auto": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-wall-e-auto--wiki-8798-1.webp",
@@ -5103,14 +5103,14 @@
           "width": 600,
           "height": 600,
           "sha256": "e4fe6c8e1c635ec175e68783178763725951322223dd845b9edf968a975165f6",
-          "publishedPath": "",
+          "publishedPath": "images/extended-wall-e-auto.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         }
       ]
     },
     "extended-wall-e-captain-mccrea": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-wall-e-captain-mccrea--wiki-14486-1.webp",
@@ -5122,7 +5122,7 @@
           "width": 560,
           "height": 650,
           "sha256": "8faad9dea2cf9c4d274316254115e6da54e57f98dfb8d3782fc4d453be590b5d",
-          "publishedPath": "",
+          "publishedPath": "images/extended-wall-e-captain-mccrea.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -5172,7 +5172,7 @@
       ]
     },
     "extended-up-ellie-fredricksen": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-up-ellie-fredricksen--wiki-11437-1.webp",
@@ -5184,7 +5184,7 @@
           "width": 650,
           "height": 586,
           "sha256": "0ef3e588c86a3b94b0ad40016df49cf16eb17c5b63ee6635d8931c24dcc8e944",
-          "publishedPath": "",
+          "publishedPath": "images/extended-up-ellie-fredricksen.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -5205,7 +5205,7 @@
       ]
     },
     "extended-up-charles-muntz": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-up-charles-muntz--wiki-63478-1.webp",
@@ -5217,7 +5217,7 @@
           "width": 635,
           "height": 650,
           "sha256": "61723d6684b198d46c0ee708d767993b63b7e292d7f24254f2262576cf9431d1",
-          "publishedPath": "",
+          "publishedPath": "images/extended-up-charles-muntz.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -5238,7 +5238,7 @@
       ]
     },
     "extended-up-alpha": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-up-alpha--wiki-9467-1.webp",
@@ -5250,7 +5250,7 @@
           "width": 471,
           "height": 650,
           "sha256": "a2d231fa0c7aec26e7c82348811b30640f96a96e29c4e0fca5c00a2c5036a60c",
-          "publishedPath": "",
+          "publishedPath": "images/extended-up-alpha.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -5288,7 +5288,7 @@
       ]
     },
     "extended-brave-king-fergus": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-brave-king-fergus--wiki-36605-1.webp",
@@ -5300,7 +5300,7 @@
           "width": 648,
           "height": 650,
           "sha256": "4541778431004458a804a02adc05f6f22d5cff5e719f1542a51a2b287feb884e",
-          "publishedPath": "",
+          "publishedPath": "images/extended-brave-king-fergus.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -5321,7 +5321,7 @@
       ]
     },
     "extended-brave-the-witch": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-brave-the-witch--wiki-136726-1.webp",
@@ -5347,7 +5347,7 @@
           "width": 300,
           "height": 300,
           "sha256": "57180a435720e7c73fffe7e9e82acf82363360f899a3a0e73beb35c88d32904d",
-          "publishedPath": "",
+          "publishedPath": "images/extended-brave-the-witch.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         }
@@ -5357,7 +5357,7 @@
       ]
     },
     "extended-brave-lord-macguffin": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-brave-lord-macguffin--wiki-36607-1.webp",
@@ -5369,7 +5369,7 @@
           "width": 650,
           "height": 552,
           "sha256": "301d42ed30247f51eb3e3d2477d22fe646521fef8f0f0b3a6a8ace5387b062a5",
-          "publishedPath": "",
+          "publishedPath": "images/extended-brave-lord-macguffin.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -5390,7 +5390,7 @@
       ]
     },
     "extended-inside-out-riley-andersen": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-inside-out-riley-andersen--wiki-229914-1.webp",
@@ -5402,7 +5402,7 @@
           "width": 472,
           "height": 649,
           "sha256": "1ae2053860bae336b987a96d09a75952d1d2d45ae1d984bd3304a46736e69cb4",
-          "publishedPath": "",
+          "publishedPath": "images/extended-inside-out-riley-andersen.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -5423,7 +5423,7 @@
       ]
     },
     "extended-inside-out-2-nostalgia": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-inside-out-2-nostalgia--wiki-1409537-1.webp",
@@ -5435,7 +5435,7 @@
           "width": 620,
           "height": 650,
           "sha256": "90dac7abe47e1829e936d681dbfcc23a98961bc735360206688a8c4ad4d563c4",
-          "publishedPath": "",
+          "publishedPath": "images/extended-inside-out-2-nostalgia.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -5456,7 +5456,7 @@
       ]
     },
     "extended-inside-out-2-bloofy": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-inside-out-2-bloofy--wiki-1412794-1.webp",
@@ -5468,7 +5468,7 @@
           "width": 485,
           "height": 650,
           "sha256": "fb2735aec9e558c6002d0896f532eab35c497b77ef7ac8c04e2352cdeb5a4755",
-          "publishedPath": "",
+          "publishedPath": "images/extended-inside-out-2-bloofy.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -5489,7 +5489,7 @@
       ]
     },
     "extended-inside-out-2-pouchy": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-inside-out-2-pouchy--wiki-1419673-1.webp",
@@ -5501,7 +5501,7 @@
           "width": 650,
           "height": 442,
           "sha256": "f9aa0c2700e57e413b4cd860c8553199e69b1ab0b4a192bec620699b2a49e4c2",
-          "publishedPath": "",
+          "publishedPath": "images/extended-inside-out-2-pouchy.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -5522,7 +5522,7 @@
       ]
     },
     "extended-coco-mama-coco": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-coco-mama-coco--wiki-797316-1.webp",
@@ -5534,7 +5534,7 @@
           "width": 513,
           "height": 600,
           "sha256": "5e085ece8e4dbc7bec4717c8fdb666aa4ad511f284a35ae66feb58fd835dcf7e",
-          "publishedPath": "",
+          "publishedPath": "images/extended-coco-mama-coco.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -5555,7 +5555,7 @@
       ]
     },
     "extended-coco-abuelita-elena": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-coco-abuelita-elena--wiki-803938-1.webp",
@@ -5567,7 +5567,7 @@
           "width": 483,
           "height": 570,
           "sha256": "f2650ef110f90e1942d4d5a2706c9e82d3e6a532af87338051e55bbcdda31a2b",
-          "publishedPath": "",
+          "publishedPath": "images/extended-coco-abuelita-elena.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -5588,7 +5588,7 @@
       ]
     },
     "extended-coco-pepita": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-coco-pepita--wiki-861339-1.webp",
@@ -5600,7 +5600,7 @@
           "width": 650,
           "height": 584,
           "sha256": "aaf47b3b9e5c972f09d3fb04f795392e9a665c3b342ccde24b460c7bd40bc035",
-          "publishedPath": "",
+          "publishedPath": "images/extended-coco-pepita.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -5621,7 +5621,7 @@
       ]
     },
     "extended-coco-chicharron": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-coco-chicharron--wiki-895214-1.webp",
@@ -5633,7 +5633,7 @@
           "width": 650,
           "height": 594,
           "sha256": "748d9afb42f6c9e3c75e39bc866f9e0b574e8d486c5577fd445ac0ba7d62127c",
-          "publishedPath": "",
+          "publishedPath": "images/extended-coco-chicharron.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -5704,7 +5704,7 @@
       ]
     },
     "extended-soul-dorothea-williams": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-soul-dorothea-williams--wiki-1251396-1.webp",
@@ -5730,14 +5730,14 @@
           "width": 650,
           "height": 648,
           "sha256": "e5669814a42d9075c0facd0f6c0242e6526129001c7174ecc7d9d606bdaf0010",
-          "publishedPath": "",
+          "publishedPath": "images/extended-soul-dorothea-williams.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         }
       ]
     },
     "extended-luca-massimo-marcovaldo": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-luca-massimo-marcovaldo--wiki-1265444-1.webp",
@@ -5749,7 +5749,7 @@
           "width": 341,
           "height": 402,
           "sha256": "f33985de1074125c547cb0ce0756c3ee0b0eaa411a3788b36cb287295e6dbbca",
-          "publishedPath": "",
+          "publishedPath": "images/extended-luca-massimo-marcovaldo.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -5770,7 +5770,7 @@
       ]
     },
     "extended-luca-ercole-visconti": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-luca-ercole-visconti--wiki-1275902-1.webp",
@@ -5782,7 +5782,7 @@
           "width": 548,
           "height": 650,
           "sha256": "98caac2417956387f1e312f652eb71de8fd478f8af3e8e5d62665229cac53e94",
-          "publishedPath": "",
+          "publishedPath": "images/extended-luca-ercole-visconti.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -5803,7 +5803,7 @@
       ]
     },
     "extended-luca-daniela-paguro": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-luca-daniela-paguro--wiki-1280311-1.webp",
@@ -5815,7 +5815,7 @@
           "width": 533,
           "height": 650,
           "sha256": "8c96d874c91131df15f13981d4eaa722d1eb5590b34d17c87288fc27ef045261",
-          "publishedPath": "",
+          "publishedPath": "images/extended-luca-daniela-paguro.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -5836,7 +5836,7 @@
       ]
     },
     "extended-luca-lorenzo-paguro": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-luca-lorenzo-paguro--wiki-1280314-1.webp",
@@ -5848,7 +5848,7 @@
           "width": 564,
           "height": 650,
           "sha256": "c62e58c1bf5a4049bf240e5b50cd787f8dac2f151d1682761e37b5f451ee812f",
-          "publishedPath": "",
+          "publishedPath": "images/extended-luca-lorenzo-paguro.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -5869,7 +5869,7 @@
       ]
     },
     "extended-turning-red-ming-lee": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-turning-red-ming-lee--wiki-1290760-1.webp",
@@ -5881,7 +5881,7 @@
           "width": 285,
           "height": 650,
           "sha256": "a20122225d4a94e367d8a5ad7c8ce882565ff67465b34a0d25d6f173e1071ca0",
-          "publishedPath": "",
+          "publishedPath": "images/extended-turning-red-ming-lee.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -5902,7 +5902,7 @@
       ]
     },
     "extended-turning-red-jin-lee": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-turning-red-jin-lee--wiki-1324045-1.webp",
@@ -5914,7 +5914,7 @@
           "width": 584,
           "height": 650,
           "sha256": "0c9872868768b473bf4c9c055b5b5c8a08b592e4977993c727407656c1867ee3",
-          "publishedPath": "",
+          "publishedPath": "images/extended-turning-red-jin-lee.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -5935,7 +5935,7 @@
       ]
     },
     "extended-turning-red-tyler-nguyen-baker": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-turning-red-tyler-nguyen-baker--wiki-1326186-1.webp",
@@ -5947,7 +5947,7 @@
           "width": 530,
           "height": 650,
           "sha256": "cb02f3d6d459ad1d88a251b2233bf74b7b92ca1eb0e982f86947686404952149",
-          "publishedPath": "",
+          "publishedPath": "images/extended-turning-red-tyler-nguyen-baker.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -5968,7 +5968,7 @@
       ]
     },
     "extended-elemental-cinder-lumen": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-elemental-cinder-lumen--wiki-1369113-1.webp",
@@ -5994,14 +5994,14 @@
           "width": 644,
           "height": 650,
           "sha256": "d9c2540c76b8bd8de7ec8d9949fb3cc88607a9fb0e9eae2dbcc6e2fac6e7eb34",
-          "publishedPath": "",
+          "publishedPath": "images/extended-elemental-cinder-lumen.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         }
       ]
     },
     "extended-elemental-clod": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-elemental-clod--wiki-1369147-1.webp",
@@ -6013,7 +6013,7 @@
           "width": 467,
           "height": 650,
           "sha256": "5758b391060512ca1fc77f023acaa31c6519156a3ee37ea9430852627af967a1",
-          "publishedPath": "",
+          "publishedPath": "images/extended-elemental-clod.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -6067,7 +6067,7 @@
       ]
     },
     "extended-onward-laurel-lightfoot": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-onward-laurel-lightfoot--wiki-1065710-1.webp",
@@ -6079,7 +6079,7 @@
           "width": 448,
           "height": 650,
           "sha256": "c089e166c8c6d518100ee566de9a8985e47acc3c502c2c296f9a87dbceffa356",
-          "publishedPath": "",
+          "publishedPath": "images/extended-onward-laurel-lightfoot.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -6100,7 +6100,7 @@
       ]
     },
     "extended-onward-corey-the-manticore": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-onward-corey-the-manticore--wiki-1153967-1.webp",
@@ -6112,7 +6112,7 @@
           "width": 650,
           "height": 366,
           "sha256": "2b03735c1f713ad810e802dc190827f43211b04ad86ba0a531c9639366135e78",
-          "publishedPath": "",
+          "publishedPath": "images/extended-onward-corey-the-manticore.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -6133,7 +6133,7 @@
       ]
     },
     "extended-onward-colt-bronco": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-onward-colt-bronco--wiki-1153995-1.webp",
@@ -6145,7 +6145,7 @@
           "width": 488,
           "height": 650,
           "sha256": "9ff2e8eea60bc28ba608b5ad26b66d90110f9f4b841c55d8d73520ccbfcad62d",
-          "publishedPath": "",
+          "publishedPath": "images/extended-onward-colt-bronco.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -6319,7 +6319,7 @@
       ]
     },
     "extended-big-hero-6-professor-callaghan": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-big-hero-6-professor-callaghan--wiki-403111-1.webp",
@@ -6331,7 +6331,7 @@
           "width": 526,
           "height": 627,
           "sha256": "0fc944bedd1a442eeb9e0accfa8d939c9bc0a3e704aaf04e7d4bf1b4d5cc027d",
-          "publishedPath": "",
+          "publishedPath": "images/extended-big-hero-6-professor-callaghan.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -6702,7 +6702,7 @@
       ]
     },
     "extended-alice-in-wonderland-king-of-hearts": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-alice-in-wonderland-king-of-hearts--wiki-6880-1.webp",
@@ -6714,7 +6714,7 @@
           "width": 439,
           "height": 650,
           "sha256": "2404a47f9af2a3a447b184892935b0b0201e1ba533162a11ac15c9d833d3eeca",
-          "publishedPath": "",
+          "publishedPath": "images/extended-alice-in-wonderland-king-of-hearts.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -6781,7 +6781,7 @@
       ]
     },
     "extended-101-dalmatians-anita-radcliffe": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-101-dalmatians-anita-radcliffe--5577.webp",
@@ -6793,7 +6793,7 @@
           "width": 398,
           "height": 540,
           "sha256": "96f856c54a48a1c6f6fbeccdac7c72f3de45f90d0a599a7179ef9a0ad6891d23",
-          "publishedPath": ""
+          "publishedPath": "images/extended-101-dalmatians-anita-radcliffe.webp"
         }
       ]
     },
@@ -6864,7 +6864,7 @@
       ]
     },
     "extended-101-dalmatians-rolly": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-101-dalmatians-rolly--5796.webp",
@@ -6876,7 +6876,7 @@
           "width": 700,
           "height": 677,
           "sha256": "c494b79fe3c6b4925c975b24e4079a1532ba3f6397c085701ec99c71f8fafbb5",
-          "publishedPath": ""
+          "publishedPath": "images/extended-101-dalmatians-rolly.webp"
         },
         {
           "path": "images/new-candidates/extended-101-dalmatians-rolly--5797.webp",
@@ -6893,7 +6893,7 @@
       ]
     },
     "extended-101-dalmatians-patch": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-101-dalmatians-patch--5151.webp",
@@ -6905,7 +6905,7 @@
           "width": 423,
           "height": 700,
           "sha256": "0aac3ece045ed9f609f54662f6f12f9b6b37f97508dec0715dc7b1d1d356baa0",
-          "publishedPath": ""
+          "publishedPath": "images/extended-101-dalmatians-patch.webp"
         },
         {
           "path": "images/new-candidates/extended-101-dalmatians-patch--5152.webp",
@@ -6922,7 +6922,7 @@
       ]
     },
     "extended-101-dalmatians-lucky": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-101-dalmatians-lucky--9020.webp",
@@ -6946,7 +6946,7 @@
           "width": 375,
           "height": 446,
           "sha256": "9cff860ff3a82ed2a83d58b9b8e2cbe5c96545950de018fae2e2556a3f6d4fdc",
-          "publishedPath": ""
+          "publishedPath": "images/extended-101-dalmatians-lucky.webp"
         }
       ]
     },
@@ -7206,7 +7206,7 @@
       ]
     },
     "extended-the-good-dinosaur-poppa-henry": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-good-dinosaur-poppa-henry--wiki-584945-1.webp",
@@ -7218,7 +7218,7 @@
           "width": 509,
           "height": 650,
           "sha256": "943d0312048d30f4b5e858dc12d1fbf7896f2a5ac90ba48add0f2c3949f3907d",
-          "publishedPath": "",
+          "publishedPath": "images/extended-the-good-dinosaur-poppa-henry.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -7239,7 +7239,7 @@
       ]
     },
     "extended-the-good-dinosaur-momma-ida": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-good-dinosaur-momma-ida--wiki-585402-1.webp",
@@ -7251,7 +7251,7 @@
           "width": 566,
           "height": 650,
           "sha256": "ded49ff5d162fb0e6394c82b14e5df6192943c703aa05231fbf2ad58d5559b1e",
-          "publishedPath": "",
+          "publishedPath": "images/extended-the-good-dinosaur-momma-ida.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -7497,7 +7497,7 @@
       ]
     },
     "extended-a-bugs-life-francis": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-a-bugs-life-francis--2440.webp",
@@ -7509,7 +7509,7 @@
           "width": 653,
           "height": 700,
           "sha256": "56b8157b6ea3d428b1bbe9ca859db2df8aed1046d2e457255f9af28f72e8b4fc",
-          "publishedPath": ""
+          "publishedPath": "images/extended-a-bugs-life-francis.webp"
         },
         {
           "path": "images/new-candidates/extended-a-bugs-life-francis--8490.webp",
@@ -7692,7 +7692,7 @@
       ]
     },
     "extended-a-bugs-life-p-t-flea": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-a-bugs-life-p-t-flea--wiki-1128074-1.webp",
@@ -7704,7 +7704,7 @@
           "width": 359,
           "height": 280,
           "sha256": "b57cabb9b80ad74fa11171b980eec082aab925ce32d3f897cee95e73a1dcfc60",
-          "publishedPath": "",
+          "publishedPath": "images/extended-a-bugs-life-p-t-flea.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -7870,7 +7870,7 @@
       ]
     },
     "extended-pinocchio-the-blue-fairy": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-pinocchio-the-blue-fairy--wiki-3649-1.webp",
@@ -7882,7 +7882,7 @@
           "width": 529,
           "height": 650,
           "sha256": "e965a41cb8d841fe343a7585dfa02284741819d86fd0329203f4742836a2aee3",
-          "publishedPath": "",
+          "publishedPath": "images/extended-pinocchio-the-blue-fairy.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -8155,7 +8155,7 @@
       ]
     },
     "extended-atlantis-the-lost-empire-kida": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-atlantis-the-lost-empire-kida--wiki-10508-1.webp",
@@ -8167,7 +8167,7 @@
           "width": 535,
           "height": 650,
           "sha256": "81011f4d04586524b1b809f8b6e2a0c919612b4a0c054bedc6a5df754ad4de55",
-          "publishedPath": "",
+          "publishedPath": "images/extended-atlantis-the-lost-empire-kida.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -8188,7 +8188,7 @@
       ]
     },
     "extended-atlantis-the-lost-empire-commander-rourke": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-atlantis-the-lost-empire-commander-rourke--wiki-9176-1.webp",
@@ -8200,7 +8200,7 @@
           "width": 650,
           "height": 636,
           "sha256": "3b0a4bb20e901dfe8a6300e0c321ef0f081cb9371267d6de87db83e0587597d2",
-          "publishedPath": "",
+          "publishedPath": "images/extended-atlantis-the-lost-empire-commander-rourke.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -8221,7 +8221,7 @@
       ]
     },
     "extended-atlantis-the-lost-empire-vinny-santorini": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-atlantis-the-lost-empire-vinny-santorini--wiki-12166-1.webp",
@@ -8233,7 +8233,7 @@
           "width": 583,
           "height": 650,
           "sha256": "9caaaa927e0081e22e00a8b6165c5b8816704471be6f3b64a3f5ced635261e1c",
-          "publishedPath": "",
+          "publishedPath": "images/extended-atlantis-the-lost-empire-vinny-santorini.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -8254,7 +8254,7 @@
       ]
     },
     "extended-atlantis-the-lost-empire-mole": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-atlantis-the-lost-empire-mole--4599.webp",
@@ -8278,12 +8278,12 @@
           "width": 700,
           "height": 525,
           "sha256": "dc46c2cae0b9fffab26bb76dc427773c1241418aac9bb1fb00f1d8a8c7064f8e",
-          "publishedPath": ""
+          "publishedPath": "images/extended-atlantis-the-lost-empire-mole.webp"
         }
       ]
     },
     "extended-atlantis-the-lost-empire-audrey-ramirez": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-atlantis-the-lost-empire-audrey-ramirez--5599.webp",
@@ -8295,12 +8295,12 @@
           "width": 484,
           "height": 700,
           "sha256": "8373f50bc50ebe2f9bf03ce5bfbdd82d08903031feda9c8cdf95dca8edd8fc1d",
-          "publishedPath": ""
+          "publishedPath": "images/extended-atlantis-the-lost-empire-audrey-ramirez.webp"
         }
       ]
     },
     "extended-atlantis-the-lost-empire-dr-sweet": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-atlantis-the-lost-empire-dr-sweet--wiki-12170-1.webp",
@@ -8312,7 +8312,7 @@
           "width": 650,
           "height": 475,
           "sha256": "17be4447d11ab59cd6155fcb62949591e194e8e54a9224114ae401e910c5aec7",
-          "publishedPath": "",
+          "publishedPath": "images/extended-atlantis-the-lost-empire-dr-sweet.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -8333,7 +8333,7 @@
       ]
     },
     "extended-treasure-planet-jim-hawkins": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-treasure-planet-jim-hawkins--3014.webp",
@@ -8357,12 +8357,12 @@
           "width": 638,
           "height": 700,
           "sha256": "0a4a031008250df31ca123850b08152e47ed44dc076ad9b0368b59072adf62fb",
-          "publishedPath": ""
+          "publishedPath": "images/extended-treasure-planet-jim-hawkins.webp"
         }
       ]
     },
     "extended-treasure-planet-john-silver": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-treasure-planet-john-silver--6157.webp",
@@ -8374,12 +8374,12 @@
           "width": 700,
           "height": 418,
           "sha256": "585d8a1d7422a196ce98014019e201a820189a9409bcb979ab1f9bd14534be12",
-          "publishedPath": ""
+          "publishedPath": "images/extended-treasure-planet-john-silver.webp"
         }
       ]
     },
     "extended-treasure-planet-b-e-n": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-treasure-planet-b-e-n--393.webp",
@@ -8391,7 +8391,7 @@
           "width": 652,
           "height": 700,
           "sha256": "8577cbd21f23df50b8e74dbb967ba3b06169b7f3f956b1dc65341726f643e564",
-          "publishedPath": ""
+          "publishedPath": "images/extended-treasure-planet-b-e-n.webp"
         },
         {
           "path": "images/new-candidates/extended-treasure-planet-b-e-n--580.webp",
@@ -8408,7 +8408,7 @@
       ]
     },
     "extended-treasure-planet-captain-amelia": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-treasure-planet-captain-amelia--206.webp",
@@ -8420,12 +8420,12 @@
           "width": 463,
           "height": 575,
           "sha256": "8611c8aaeaca8b629e930fc6db7c8722596c91e415f8083908e3cb6ffb0a7bc9",
-          "publishedPath": ""
+          "publishedPath": "images/extended-treasure-planet-captain-amelia.webp"
         }
       ]
     },
     "extended-treasure-planet-dr-doppler": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-treasure-planet-dr-doppler--wiki-10651-1.webp",
@@ -8437,7 +8437,7 @@
           "width": 473,
           "height": 649,
           "sha256": "9ce7a1f1081930f2d17211895121446ea5e8b3bf247aabbdba3a683a16c37fd5",
-          "publishedPath": "",
+          "publishedPath": "images/extended-treasure-planet-dr-doppler.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -8458,7 +8458,7 @@
       ]
     },
     "extended-treasure-planet-morph": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-treasure-planet-morph--4663.webp",
@@ -8470,12 +8470,12 @@
           "width": 700,
           "height": 414,
           "sha256": "0a89e7eaa56a6f7742b49f2e84593350875171c02bf51959cec626675abe4c13",
-          "publishedPath": ""
+          "publishedPath": "images/extended-treasure-planet-morph.webp"
         }
       ]
     },
     "extended-treasure-planet-scroop": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-treasure-planet-scroop--6015.webp",
@@ -8487,7 +8487,7 @@
           "width": 700,
           "height": 564,
           "sha256": "57828a549b5ea8d4928b0b60fac91f57c9f23250446011b15b09835cec4665f1",
-          "publishedPath": ""
+          "publishedPath": "images/extended-treasure-planet-scroop.webp"
         }
       ]
     },
@@ -8558,7 +8558,7 @@
       ]
     },
     "extended-the-hunchback-of-notre-dame-judge-frollo": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-hunchback-of-notre-dame-judge-frollo--wiki-55321-1.webp",
@@ -8570,7 +8570,7 @@
           "width": 502,
           "height": 649,
           "sha256": "79ac9333388ff89313c62a96276c9a192d8269807d02bd0eb8eedecdc230e322",
-          "publishedPath": "",
+          "publishedPath": "images/extended-the-hunchback-of-notre-dame-judge-frollo.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -8712,7 +8712,7 @@
       ]
     },
     "extended-robin-hood-prince-john": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-robin-hood-prince-john--3476.webp",
@@ -8736,7 +8736,7 @@
           "width": 665,
           "height": 700,
           "sha256": "fb9e7cd24dcb5cf3844b37c17550dd7b9b0c37b02e01fe7cb86a02deae6d586e",
-          "publishedPath": ""
+          "publishedPath": "images/extended-robin-hood-prince-john.webp"
         }
       ]
     },
@@ -8758,7 +8758,7 @@
       ]
     },
     "extended-robin-hood-friar-tuck": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-robin-hood-friar-tuck--2484.webp",
@@ -8782,12 +8782,12 @@
           "width": 700,
           "height": 486,
           "sha256": "f69c12816d12dc87f9c0aad2529bbfebaadbf2e1422a57c52cf5a8e261235976",
-          "publishedPath": ""
+          "publishedPath": "images/extended-robin-hood-friar-tuck.webp"
         }
       ]
     },
     "extended-the-emperor-s-new-groove-kuzco": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-emperor-s-new-groove-kuzco--3784.webp",
@@ -8799,7 +8799,7 @@
           "width": 700,
           "height": 643,
           "sha256": "33a1c07b8f5419efe662646332aacc536c7a8148a3864215175f070ae4a244a1",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-emperor-s-new-groove-kuzco.webp"
         }
       ]
     },
@@ -8821,7 +8821,7 @@
       ]
     },
     "extended-the-emperor-s-new-groove-yzma": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-the-emperor-s-new-groove-yzma--7456.webp",
@@ -8833,7 +8833,7 @@
           "width": 491,
           "height": 700,
           "sha256": "61736920a6af3999ef3eb97b8e4819a668ee9334fe5e150e340af145f1579ef7",
-          "publishedPath": ""
+          "publishedPath": "images/extended-the-emperor-s-new-groove-yzma.webp"
         }
       ]
     },
@@ -9025,7 +9025,7 @@
       ]
     },
     "extended-elio-elio-solis": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-elio-elio-solis--wiki-1350916-1.webp",
@@ -9037,7 +9037,7 @@
           "width": 496,
           "height": 649,
           "sha256": "c24e27b359629b268c71c5c0bbfd0722a9ccfbe43bc0b219e778045455315e12",
-          "publishedPath": "",
+          "publishedPath": "images/extended-elio-elio-solis.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -9058,7 +9058,7 @@
       ]
     },
     "extended-elio-glordon": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-elio-glordon--wiki-1445023-1.webp",
@@ -9070,7 +9070,7 @@
           "width": 586,
           "height": 650,
           "sha256": "b11e380b1ffab3a83d0507ddb8e6a527c1979444ee4384b1a1bae7a479da1309",
-          "publishedPath": "",
+          "publishedPath": "images/extended-elio-glordon.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -9091,7 +9091,7 @@
       ]
     },
     "extended-elio-olga-solis": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-elio-olga-solis--wiki-1367512-1.webp",
@@ -9103,7 +9103,7 @@
           "width": 357,
           "height": 649,
           "sha256": "171f0e78211aa674a36ad2d2adc6d55744dd12b055a58c2c795518a53b32a0db",
-          "publishedPath": "",
+          "publishedPath": "images/extended-elio-olga-solis.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -9124,7 +9124,7 @@
       ]
     },
     "extended-elio-lord-grigon": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-elio-lord-grigon--wiki-1377395-1.webp",
@@ -9136,7 +9136,7 @@
           "width": 479,
           "height": 650,
           "sha256": "620edcb43156f597f3425a90130aabe307a87888e4fdc85e1539a9eef7afd75f",
-          "publishedPath": "",
+          "publishedPath": "images/extended-elio-lord-grigon.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -9157,7 +9157,7 @@
       ]
     },
     "extended-elio-ooooo": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-elio-ooooo--wiki-1377480-1.webp",
@@ -9169,7 +9169,7 @@
           "width": 608,
           "height": 552,
           "sha256": "d268c659bb01f6d320121d080704eb0556d5a42f84b1918456873f124ba20512",
-          "publishedPath": "",
+          "publishedPath": "images/extended-elio-ooooo.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },
@@ -9190,7 +9190,7 @@
       ]
     },
     "extended-elio-melmac": {
-      "status": "NEEDS_REVIEW",
+      "status": "PUBLISHED",
       "candidates": [
         {
           "path": "images/new-candidates/extended-elio-melmac--wiki-1471937-1.webp",
@@ -9202,7 +9202,7 @@
           "width": 444,
           "height": 650,
           "sha256": "b3101f32adeff24d3a83758662f878cedbbc89e830adf516a905ee2098e9a0aa",
-          "publishedPath": "",
+          "publishedPath": "images/extended-elio-melmac.webp",
           "reviewRequired": true,
           "searchProvider": "Disney Wiki (unverified)"
         },

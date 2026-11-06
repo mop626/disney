@@ -2302,5 +2302,833 @@
     "reviewed": true,
     "singleCharacter": true,
     "characterId": "extended-ralph-breaks-the-internet-knowsmore"
+  },
+  "extended-mickey-friends-max-goof": {
+    "path": "images/extended-mickey-friends-max-goof.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-mickey-friends-max-goof"
+  },
+  "extended-mickey-friends-magica-de-spell": {
+    "path": "images/extended-mickey-friends-magica-de-spell.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-mickey-friends-magica-de-spell"
+  },
+  "extended-snow-white-and-the-seven-dwarfs-the-huntsman": {
+    "path": "images/extended-snow-white-and-the-seven-dwarfs-the-huntsman.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-snow-white-and-the-seven-dwarfs-the-huntsman"
+  },
+  "extended-cinderella-grand-duke": {
+    "path": "images/extended-cinderella-grand-duke.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-cinderella-grand-duke"
+  },
+  "extended-beauty-and-the-beast-babette": {
+    "path": "images/extended-beauty-and-the-beast-babette.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-beauty-and-the-beast-babette"
+  },
+  "extended-aladdin-the-sultan": {
+    "path": "images/extended-aladdin-the-sultan.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-aladdin-the-sultan"
+  },
+  "extended-the-lion-guard-fuli": {
+    "path": "images/extended-the-lion-guard-fuli.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-the-lion-guard-fuli"
+  },
+  "extended-the-lion-guard-bunga": {
+    "path": "images/extended-the-lion-guard-bunga.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-the-lion-guard-bunga"
+  },
+  "extended-the-lion-guard-ono": {
+    "path": "images/extended-the-lion-guard-ono.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-the-lion-guard-ono"
+  },
+  "extended-the-lion-guard-beshte": {
+    "path": "images/extended-the-lion-guard-beshte.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-the-lion-guard-beshte"
+  },
+  "extended-pocahontas-grandmother-willow": {
+    "path": "images/extended-pocahontas-grandmother-willow.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-pocahontas-grandmother-willow"
+  },
+  "extended-pocahontas-percy": {
+    "path": "images/extended-pocahontas-percy.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-pocahontas-percy"
+  },
+  "extended-pocahontas-governor-ratcliffe": {
+    "path": "images/extended-pocahontas-governor-ratcliffe.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-pocahontas-governor-ratcliffe"
+  },
+  "extended-pocahontas-chief-powhatan": {
+    "path": "images/extended-pocahontas-chief-powhatan.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-pocahontas-chief-powhatan"
+  },
+  "extended-pocahontas-nakoma": {
+    "path": "images/extended-pocahontas-nakoma.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-pocahontas-nakoma"
+  },
+  "extended-the-princess-and-the-frog-big-daddy-la-bouff": {
+    "path": "images/extended-the-princess-and-the-frog-big-daddy-la-bouff.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-the-princess-and-the-frog-big-daddy-la-bouff"
+  },
+  "extended-frozen-ii-yelena": {
+    "path": "images/extended-frozen-ii-yelena.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-frozen-ii-yelena"
+  },
+  "extended-frozen-ii-queen-iduna": {
+    "path": "images/extended-frozen-ii-queen-iduna.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-frozen-ii-queen-iduna"
+  },
+  "extended-frozen-ii-king-agnarr": {
+    "path": "images/extended-frozen-ii-king-agnarr.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-frozen-ii-king-agnarr"
+  },
+  "extended-moana-2-loto": {
+    "path": "images/extended-moana-2-loto.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-moana-2-loto"
+  },
+  "extended-zootopia-2-pawbert-lynxley": {
+    "path": "images/extended-zootopia-2-pawbert-lynxley.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-zootopia-2-pawbert-lynxley"
+  },
+  "extended-zootopia-2-milton-lynxley": {
+    "path": "images/extended-zootopia-2-milton-lynxley.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-zootopia-2-milton-lynxley"
+  },
+  "extended-zootopia-2-dr-fuzzby": {
+    "path": "images/extended-zootopia-2-dr-fuzzby.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-zootopia-2-dr-fuzzby"
+  },
+  "extended-lilo-stitch-dr-hamsterviel": {
+    "path": "images/extended-lilo-stitch-dr-hamsterviel.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-lilo-stitch-dr-hamsterviel"
+  },
+  "extended-peter-pan-tick-tock-crocodile": {
+    "path": "images/extended-peter-pan-tick-tock-crocodile.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-peter-pan-tick-tock-crocodile"
+  },
+  "extended-winnie-the-pooh-gopher": {
+    "path": "images/extended-winnie-the-pooh-gopher.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-winnie-the-pooh-gopher"
+  },
+  "extended-bambi-the-great-prince-of-the-forest": {
+    "path": "images/extended-bambi-the-great-prince-of-the-forest.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-bambi-the-great-prince-of-the-forest"
+  },
+  "extended-toy-story-andy-davis": {
+    "path": "images/extended-toy-story-andy-davis.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-toy-story-andy-davis"
+  },
+  "extended-toy-story-3-bonnie-anderson": {
+    "path": "images/extended-toy-story-3-bonnie-anderson.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-toy-story-3-bonnie-anderson"
+  },
+  "extended-toy-story-3-lotso": {
+    "path": "images/extended-toy-story-3-lotso.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-toy-story-3-lotso"
+  },
+  "extended-toy-story-2-bullseye": {
+    "path": "images/extended-toy-story-2-bullseye.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-toy-story-2-bullseye"
+  },
+  "extended-toy-story-2-stinky-pete": {
+    "path": "images/extended-toy-story-2-stinky-pete.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-toy-story-2-stinky-pete"
+  },
+  "extended-toy-story-2-wheezy": {
+    "path": "images/extended-toy-story-2-wheezy.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-toy-story-2-wheezy"
+  },
+  "extended-toy-story-3-ken": {
+    "path": "images/extended-toy-story-3-ken.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-toy-story-3-ken"
+  },
+  "extended-toy-story-3-barbie": {
+    "path": "images/extended-toy-story-3-barbie.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-toy-story-3-barbie"
+  },
+  "extended-toy-story-3-buttercup": {
+    "path": "images/extended-toy-story-3-buttercup.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-toy-story-3-buttercup"
+  },
+  "extended-toy-story-3-mr-pricklepants": {
+    "path": "images/extended-toy-story-3-mr-pricklepants.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-toy-story-3-mr-pricklepants"
+  },
+  "extended-toy-story-4-gabby-gabby": {
+    "path": "images/extended-toy-story-4-gabby-gabby.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-toy-story-4-gabby-gabby"
+  },
+  "extended-toy-story-4-duke-caboom": {
+    "path": "images/extended-toy-story-4-duke-caboom.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-toy-story-4-duke-caboom"
+  },
+  "extended-toy-story-4-benson": {
+    "path": "images/extended-toy-story-4-benson.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-toy-story-4-benson"
+  },
+  "extended-toy-story-mrs-potato-head": {
+    "path": "images/extended-toy-story-mrs-potato-head.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-toy-story-mrs-potato-head"
+  },
+  "extended-monsters-inc-celia-mae": {
+    "path": "images/extended-monsters-inc-celia-mae.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-monsters-inc-celia-mae"
+  },
+  "extended-monsters-inc-henry-j-waternoose": {
+    "path": "images/extended-monsters-inc-henry-j-waternoose.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-monsters-inc-henry-j-waternoose"
+  },
+  "extended-monsters-inc-george-sanderson": {
+    "path": "images/extended-monsters-inc-george-sanderson.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-monsters-inc-george-sanderson"
+  },
+  "extended-monsters-inc-fungus": {
+    "path": "images/extended-monsters-inc-fungus.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-monsters-inc-fungus"
+  },
+  "extended-monsters-university-dean-hardscrabble": {
+    "path": "images/extended-monsters-university-dean-hardscrabble.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-monsters-university-dean-hardscrabble"
+  },
+  "extended-monsters-university-squishy": {
+    "path": "images/extended-monsters-university-squishy.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-monsters-university-squishy"
+  },
+  "extended-monsters-university-don-carlton": {
+    "path": "images/extended-monsters-university-don-carlton.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-monsters-university-don-carlton"
+  },
+  "extended-monsters-university-johnny-worthington": {
+    "path": "images/extended-monsters-university-johnny-worthington.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-monsters-university-johnny-worthington"
+  },
+  "extended-finding-nemo-darla": {
+    "path": "images/extended-finding-nemo-darla.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-finding-nemo-darla"
+  },
+  "extended-finding-nemo-bloat": {
+    "path": "images/extended-finding-nemo-bloat.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-finding-nemo-bloat"
+  },
+  "extended-finding-nemo-gurgle": {
+    "path": "images/extended-finding-nemo-gurgle.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-finding-nemo-gurgle"
+  },
+  "extended-finding-dory-destiny": {
+    "path": "images/extended-finding-dory-destiny.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-finding-dory-destiny"
+  },
+  "extended-finding-dory-becky": {
+    "path": "images/extended-finding-dory-becky.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-finding-dory-becky"
+  },
+  "extended-the-incredibles-syndrome": {
+    "path": "images/extended-the-incredibles-syndrome.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-the-incredibles-syndrome"
+  },
+  "extended-the-incredibles-the-underminer": {
+    "path": "images/extended-the-incredibles-the-underminer.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-the-incredibles-the-underminer"
+  },
+  "extended-incredibles-2-evelyn-deavor": {
+    "path": "images/extended-incredibles-2-evelyn-deavor.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-incredibles-2-evelyn-deavor"
+  },
+  "extended-incredibles-2-winston-deavor": {
+    "path": "images/extended-incredibles-2-winston-deavor.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-incredibles-2-winston-deavor"
+  },
+  "extended-incredibles-2-voyd": {
+    "path": "images/extended-incredibles-2-voyd.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-incredibles-2-voyd"
+  },
+  "extended-cars-ramone": {
+    "path": "images/extended-cars-ramone.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-cars-ramone"
+  },
+  "extended-cars-sarge": {
+    "path": "images/extended-cars-sarge.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-cars-sarge"
+  },
+  "extended-cars-fillmore": {
+    "path": "images/extended-cars-fillmore.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-cars-fillmore"
+  },
+  "extended-cars-sheriff": {
+    "path": "images/extended-cars-sheriff.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-cars-sheriff"
+  },
+  "extended-cars-chick-hicks": {
+    "path": "images/extended-cars-chick-hicks.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-cars-chick-hicks"
+  },
+  "extended-cars-2-francesco-bernoulli": {
+    "path": "images/extended-cars-2-francesco-bernoulli.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-cars-2-francesco-bernoulli"
+  },
+  "extended-cars-2-finn-mcmissile": {
+    "path": "images/extended-cars-2-finn-mcmissile.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-cars-2-finn-mcmissile"
+  },
+  "extended-cars-2-holley-shiftwell": {
+    "path": "images/extended-cars-2-holley-shiftwell.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-cars-2-holley-shiftwell"
+  },
+  "extended-cars-3-cruz-ramirez": {
+    "path": "images/extended-cars-3-cruz-ramirez.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-cars-3-cruz-ramirez"
+  },
+  "extended-cars-3-jackson-storm": {
+    "path": "images/extended-cars-3-jackson-storm.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-cars-3-jackson-storm"
+  },
+  "extended-cars-3-smokey": {
+    "path": "images/extended-cars-3-smokey.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-cars-3-smokey"
+  },
+  "extended-ratatouille-chef-skinner": {
+    "path": "images/extended-ratatouille-chef-skinner.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-ratatouille-chef-skinner"
+  },
+  "extended-ratatouille-emile": {
+    "path": "images/extended-ratatouille-emile.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-ratatouille-emile"
+  },
+  "extended-ratatouille-django": {
+    "path": "images/extended-ratatouille-django.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-ratatouille-django"
+  },
+  "extended-ratatouille-auguste-gusteau": {
+    "path": "images/extended-ratatouille-auguste-gusteau.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-ratatouille-auguste-gusteau"
+  },
+  "extended-wall-e-auto": {
+    "path": "images/extended-wall-e-auto.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-wall-e-auto"
+  },
+  "extended-wall-e-captain-mccrea": {
+    "path": "images/extended-wall-e-captain-mccrea.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-wall-e-captain-mccrea"
+  },
+  "extended-up-ellie-fredricksen": {
+    "path": "images/extended-up-ellie-fredricksen.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-up-ellie-fredricksen"
+  },
+  "extended-up-charles-muntz": {
+    "path": "images/extended-up-charles-muntz.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-up-charles-muntz"
+  },
+  "extended-up-alpha": {
+    "path": "images/extended-up-alpha.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-up-alpha"
+  },
+  "extended-brave-king-fergus": {
+    "path": "images/extended-brave-king-fergus.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-brave-king-fergus"
+  },
+  "extended-brave-the-witch": {
+    "path": "images/extended-brave-the-witch.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-brave-the-witch"
+  },
+  "extended-brave-lord-macguffin": {
+    "path": "images/extended-brave-lord-macguffin.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-brave-lord-macguffin"
+  },
+  "extended-inside-out-riley-andersen": {
+    "path": "images/extended-inside-out-riley-andersen.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-inside-out-riley-andersen"
+  },
+  "extended-inside-out-2-nostalgia": {
+    "path": "images/extended-inside-out-2-nostalgia.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-inside-out-2-nostalgia"
+  },
+  "extended-inside-out-2-bloofy": {
+    "path": "images/extended-inside-out-2-bloofy.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-inside-out-2-bloofy"
+  },
+  "extended-inside-out-2-pouchy": {
+    "path": "images/extended-inside-out-2-pouchy.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-inside-out-2-pouchy"
+  },
+  "extended-coco-mama-coco": {
+    "path": "images/extended-coco-mama-coco.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-coco-mama-coco"
+  },
+  "extended-coco-abuelita-elena": {
+    "path": "images/extended-coco-abuelita-elena.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-coco-abuelita-elena"
+  },
+  "extended-coco-pepita": {
+    "path": "images/extended-coco-pepita.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-coco-pepita"
+  },
+  "extended-coco-chicharron": {
+    "path": "images/extended-coco-chicharron.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-coco-chicharron"
+  },
+  "extended-soul-dorothea-williams": {
+    "path": "images/extended-soul-dorothea-williams.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-soul-dorothea-williams"
+  },
+  "extended-luca-massimo-marcovaldo": {
+    "path": "images/extended-luca-massimo-marcovaldo.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-luca-massimo-marcovaldo"
+  },
+  "extended-luca-ercole-visconti": {
+    "path": "images/extended-luca-ercole-visconti.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-luca-ercole-visconti"
+  },
+  "extended-luca-daniela-paguro": {
+    "path": "images/extended-luca-daniela-paguro.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-luca-daniela-paguro"
+  },
+  "extended-luca-lorenzo-paguro": {
+    "path": "images/extended-luca-lorenzo-paguro.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-luca-lorenzo-paguro"
+  },
+  "extended-turning-red-ming-lee": {
+    "path": "images/extended-turning-red-ming-lee.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-turning-red-ming-lee"
+  },
+  "extended-turning-red-jin-lee": {
+    "path": "images/extended-turning-red-jin-lee.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-turning-red-jin-lee"
+  },
+  "extended-turning-red-tyler-nguyen-baker": {
+    "path": "images/extended-turning-red-tyler-nguyen-baker.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-turning-red-tyler-nguyen-baker"
+  },
+  "extended-elemental-cinder-lumen": {
+    "path": "images/extended-elemental-cinder-lumen.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-elemental-cinder-lumen"
+  },
+  "extended-elemental-clod": {
+    "path": "images/extended-elemental-clod.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-elemental-clod"
+  },
+  "extended-onward-laurel-lightfoot": {
+    "path": "images/extended-onward-laurel-lightfoot.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-onward-laurel-lightfoot"
+  },
+  "extended-onward-corey-the-manticore": {
+    "path": "images/extended-onward-corey-the-manticore.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-onward-corey-the-manticore"
+  },
+  "extended-onward-colt-bronco": {
+    "path": "images/extended-onward-colt-bronco.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-onward-colt-bronco"
+  },
+  "extended-big-hero-6-professor-callaghan": {
+    "path": "images/extended-big-hero-6-professor-callaghan.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-big-hero-6-professor-callaghan"
+  },
+  "extended-alice-in-wonderland-king-of-hearts": {
+    "path": "images/extended-alice-in-wonderland-king-of-hearts.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-alice-in-wonderland-king-of-hearts"
+  },
+  "extended-101-dalmatians-anita-radcliffe": {
+    "path": "images/extended-101-dalmatians-anita-radcliffe.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-101-dalmatians-anita-radcliffe"
+  },
+  "extended-101-dalmatians-rolly": {
+    "path": "images/extended-101-dalmatians-rolly.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-101-dalmatians-rolly"
+  },
+  "extended-101-dalmatians-patch": {
+    "path": "images/extended-101-dalmatians-patch.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-101-dalmatians-patch"
+  },
+  "extended-101-dalmatians-lucky": {
+    "path": "images/extended-101-dalmatians-lucky.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-101-dalmatians-lucky"
+  },
+  "extended-the-good-dinosaur-poppa-henry": {
+    "path": "images/extended-the-good-dinosaur-poppa-henry.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-the-good-dinosaur-poppa-henry"
+  },
+  "extended-the-good-dinosaur-momma-ida": {
+    "path": "images/extended-the-good-dinosaur-momma-ida.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-the-good-dinosaur-momma-ida"
+  },
+  "extended-a-bugs-life-francis": {
+    "path": "images/extended-a-bugs-life-francis.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-a-bugs-life-francis"
+  },
+  "extended-a-bugs-life-p-t-flea": {
+    "path": "images/extended-a-bugs-life-p-t-flea.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-a-bugs-life-p-t-flea"
+  },
+  "extended-pinocchio-the-blue-fairy": {
+    "path": "images/extended-pinocchio-the-blue-fairy.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-pinocchio-the-blue-fairy"
+  },
+  "extended-atlantis-the-lost-empire-kida": {
+    "path": "images/extended-atlantis-the-lost-empire-kida.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-atlantis-the-lost-empire-kida"
+  },
+  "extended-atlantis-the-lost-empire-commander-rourke": {
+    "path": "images/extended-atlantis-the-lost-empire-commander-rourke.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-atlantis-the-lost-empire-commander-rourke"
+  },
+  "extended-atlantis-the-lost-empire-vinny-santorini": {
+    "path": "images/extended-atlantis-the-lost-empire-vinny-santorini.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-atlantis-the-lost-empire-vinny-santorini"
+  },
+  "extended-atlantis-the-lost-empire-audrey-ramirez": {
+    "path": "images/extended-atlantis-the-lost-empire-audrey-ramirez.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-atlantis-the-lost-empire-audrey-ramirez"
+  },
+  "extended-atlantis-the-lost-empire-mole": {
+    "path": "images/extended-atlantis-the-lost-empire-mole.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-atlantis-the-lost-empire-mole"
+  },
+  "extended-atlantis-the-lost-empire-dr-sweet": {
+    "path": "images/extended-atlantis-the-lost-empire-dr-sweet.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-atlantis-the-lost-empire-dr-sweet"
+  },
+  "extended-treasure-planet-jim-hawkins": {
+    "path": "images/extended-treasure-planet-jim-hawkins.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-treasure-planet-jim-hawkins"
+  },
+  "extended-treasure-planet-john-silver": {
+    "path": "images/extended-treasure-planet-john-silver.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-treasure-planet-john-silver"
+  },
+  "extended-treasure-planet-b-e-n": {
+    "path": "images/extended-treasure-planet-b-e-n.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-treasure-planet-b-e-n"
+  },
+  "extended-treasure-planet-captain-amelia": {
+    "path": "images/extended-treasure-planet-captain-amelia.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-treasure-planet-captain-amelia"
+  },
+  "extended-treasure-planet-dr-doppler": {
+    "path": "images/extended-treasure-planet-dr-doppler.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-treasure-planet-dr-doppler"
+  },
+  "extended-treasure-planet-morph": {
+    "path": "images/extended-treasure-planet-morph.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-treasure-planet-morph"
+  },
+  "extended-treasure-planet-scroop": {
+    "path": "images/extended-treasure-planet-scroop.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-treasure-planet-scroop"
+  },
+  "extended-the-hunchback-of-notre-dame-judge-frollo": {
+    "path": "images/extended-the-hunchback-of-notre-dame-judge-frollo.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-the-hunchback-of-notre-dame-judge-frollo"
+  },
+  "extended-robin-hood-prince-john": {
+    "path": "images/extended-robin-hood-prince-john.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-robin-hood-prince-john"
+  },
+  "extended-robin-hood-friar-tuck": {
+    "path": "images/extended-robin-hood-friar-tuck.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-robin-hood-friar-tuck"
+  },
+  "extended-the-emperor-s-new-groove-kuzco": {
+    "path": "images/extended-the-emperor-s-new-groove-kuzco.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-the-emperor-s-new-groove-kuzco"
+  },
+  "extended-the-emperor-s-new-groove-yzma": {
+    "path": "images/extended-the-emperor-s-new-groove-yzma.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-the-emperor-s-new-groove-yzma"
+  },
+  "extended-elio-elio-solis": {
+    "path": "images/extended-elio-elio-solis.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-elio-elio-solis"
+  },
+  "extended-elio-glordon": {
+    "path": "images/extended-elio-glordon.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-elio-glordon"
+  },
+  "extended-elio-olga-solis": {
+    "path": "images/extended-elio-olga-solis.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-elio-olga-solis"
+  },
+  "extended-elio-lord-grigon": {
+    "path": "images/extended-elio-lord-grigon.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-elio-lord-grigon"
+  },
+  "extended-elio-ooooo": {
+    "path": "images/extended-elio-ooooo.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-elio-ooooo"
+  },
+  "extended-elio-melmac": {
+    "path": "images/extended-elio-melmac.webp",
+    "reviewed": true,
+    "singleCharacter": true,
+    "characterId": "extended-elio-melmac"
   }
 }
